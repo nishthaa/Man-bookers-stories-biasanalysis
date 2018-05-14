@@ -2,3 +2,9 @@ Title: Amsterdam
 Author: Ian McEwan
 Published By: Cape
 Gorgeous, feisty Molly Lane had many lovers, among them Clive Linley, Britain’s most famous composer, Vernon Halliday, editor of a respected broadsheet, and Julian Garmony, Foreign Secretary and tipped to be the next prime minister. When Clive and Vernon meet to pay their last respects to Molly at her funeral, they make a pact that will have unforeseen and profound consequences for everyone concerned.
+
+Characters:
+MOLLY - F
+CLIVE - M
+VERNON - M
+JULIAN - M

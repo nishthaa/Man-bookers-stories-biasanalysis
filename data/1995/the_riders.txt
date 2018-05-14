@@ -2,3 +2,9 @@ Title: The Riders
 Author: Tim Winton
 Published By: Scribner
 Tim Winton depicts the panoramic tragedy of Scully, a ruddy, working-class fellow in Ireland whose wife, Jennifer, disappears suddenly and mysteriously after he has a ghostly vision of twenty horsemen one winter night. Scully’s seven-year-old daughter, Billy, may have witnessed Jennifer’s disappearance, but has been rendered mute by the ordeal. Clues lead Scully and his daughter on a quest that covers Greece, Italy, Paris, and Amsterdam, as Scully slowly accepts his failure along with the idea that some things will never be known.
+
+Characters:
+TIM - M
+SCULLY - M
+JENNIFER - F
+BILLY - F
