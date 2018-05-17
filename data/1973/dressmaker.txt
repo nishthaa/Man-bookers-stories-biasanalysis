@@ -1,4 +1,9 @@
-Title:The Dressmaker
+Title: The Dressmaker
 Author: Beryl Bainbridge
-Published By:  Carroll & Graf Publishers 
+Published By: Carroll & Graf Publishers
 If Liverpool in 1944 was grim for Rita and her aunts Nellie and Margo, Rita knew that life in America was gay and rich - she'd seen it in the movies. So when a GI came to call, she was sure that love and escape would follow. But Nellie knew different - the boy would have to go.
+
+Characters:
+RITA - F
+NELLIE - F
+MARGO - F

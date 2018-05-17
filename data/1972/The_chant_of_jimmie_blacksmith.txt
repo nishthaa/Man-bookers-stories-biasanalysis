@@ -1,4 +1,5 @@
-Title:The Chant Of Jimmie Blacksmith
+Title: The Chant Of Jimmie Blacksmith
 Author: Thomas Keneally
 Published By: A&R Classics
-##########
+
+Characters:

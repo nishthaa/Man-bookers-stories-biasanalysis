@@ -1,4 +1,12 @@
-Title: Constance, or Solitary Practices (The Avignon Quintet #3)
+Title: Constance, or Solitary Practices
 Author:  Lawrence Durrell
- Published By: Penguin 
+Published By: Penguin
 The party is over, and the world is in the throes of the 1939-45 war, but the story continues as patterns set in Monsieur and Livia are developed against a background which shifts between Cairo, Geneva and Avignon. The idyllic last summer of Livia seems now forever in the past, but figures from other times and other places loom up in the twilight zone between the real and imagined worlds: Constance herself, professionally expert in Freudian analysis, but discovering passion for the first time; her tragic, doomed sister Livia; the mercurial Prince Hassad; shaggy, lumbering Rob Sutcliffe, who here at last comes face to face with his creator, Aubrey Blanford, in a significant encounter.
+
+Characters:
+LIVIA - F
+CONSTANCE - F
+PRINCE - M
+HASSAD - M
+ROB - M
+AUBREY - M
