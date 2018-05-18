@@ -7,3 +7,11 @@ Characters:
 MARISE - F
 RALPH - M
 JOHN - M
+
+N: TOMELTY V: is
+N: WHO V: dislikes
+N: SHILLING V: lives
+N: HUSBAND V: mentions
+N: HE V: recognizes
+N: MARISE V: encourages
+N: BARKER V: explores

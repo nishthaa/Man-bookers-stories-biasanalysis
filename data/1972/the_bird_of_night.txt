@@ -6,3 +6,7 @@ Francis Croft, the greatest poet of his age, was mad. His world was a nightmare 
 Characters:
 FRANCIS - M
 HARVEY - M
+
+N: CROFT V: was
+N: WORLD V: was
+N: LAWSON V: watched

@@ -12,3 +12,14 @@ MIKEY - M
 SILAS - M
 ALI - M
 NELSON - M
+
+N: DANGOR V: established
+N: NOVEL V: is
+N: WHO V: live
+N: ALI V: encountered
+N: LIEUTENANT V: conducting
+N: SILAS V: sees
+N: COMMISSION V: is
+N: SILAS V: contends
+N: FRUIT V: is
+N: WE V: do

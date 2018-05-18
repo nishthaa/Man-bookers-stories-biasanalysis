@@ -7,3 +7,17 @@ Characters:
 EDWIN - M
 MEG - F
 STANLEY - M
+
+N: FISHER V: is
+N: REVISITING V: is
+N: EDWIN V: seeking
+N: IT V: turns
+N: PARENTS V: staying
+N: TRUTHS V: emerge
+N: THIS V: is
+N: IT V: was
+N: WORLD V: is
+N: EXCELLENCE V: is
+N: THEY V: are
+N: HE V: is
+N: WORLD V: seem

@@ -7,3 +7,8 @@ Set in colonial India during the 1920s, Heat and Dust tells the story of Olivia,
 Characters:
 Olivia - F
 Nawab - M
+
+N: HEAT V: tells
+N: SHE V: becomes
+N: REACTION V: humiliates
+N: THAT V: lives

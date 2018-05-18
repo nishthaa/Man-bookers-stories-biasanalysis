@@ -9,3 +9,28 @@ A masterful combination of narrative control and soaring imagination, When We We
 
 Characters:
 CHRISTOPHER - M
+
+N: MOTHER V: vanish
+N: HE V: grows
+N: WAR V: raging
+N: MAZE V: is
+N: WE V: accommodate
+N: ISHIGURO V: made
+N: HE V: explored
+N: WE V: were
+N: HE V: returns
+N: THAT V: illuminates
+N: MOTHER V: vanish
+N: HE V: grows
+N: WAR V: raging
+N: STORY V: is
+N: TELLING V: is
+N: WHO V: devoted
+N: HE V: ca
+N: MEMORY V: is
+N: HE V: wants
+N: POWERS V: blinding
+N: DESIRES V: give
+N: CHILD V: give
+N: MAN V: 's
+N: WE V: were

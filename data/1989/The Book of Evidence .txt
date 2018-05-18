@@ -5,3 +5,7 @@ Returning to Ireland to reclaim a painting that is part of his patrimony, a thir
 
 Characters:
 MAN - M
+
+N: THAT V: is
+N: MAN V: commits
+N: HE V: confesses

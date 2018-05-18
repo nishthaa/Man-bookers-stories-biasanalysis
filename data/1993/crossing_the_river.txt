@@ -4,3 +4,6 @@ Published By: Vintage
 In desperate financial straits, a father sells his three children into slavery. Crossing the River follows the scattered children across continents and through time to wherever their lives lead them: the hold of a slave ship, an African mission, Colorado, and an English village during the war.
 
 Characters:
+
+N: FATHER V: sells
+N: LIVES V: lead

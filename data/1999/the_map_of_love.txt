@@ -8,3 +8,10 @@ ANNA - F
 SHARIF - M
 ISABEL - F
 OMAR - M
+
+N: WOMEN V: fall
+N: WINTERBOURNE V: leaves
+N: SHE V: finds
+N: HERSELF V: enraptured
+N: PARKMAN V: fallen
+N: ISABEL V: travels

@@ -6,3 +6,12 @@ Olivier is a young aristocrat, one of an endangered species born in France just 
 Characters:
 OLIVIER - M
 PARROT - M
+
+N: OLIVIER V: is
+N: PARROT V: wanted
+N: OLIVIER V: sets
+N: THEY V: make
+N: REIMAGINING V: evokes
+N: WORLD V: colliding
+N: IT V: is
+N: WHO V: come

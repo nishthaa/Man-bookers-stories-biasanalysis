@@ -9,3 +9,10 @@ Characters:
 WILLIE - M
 LINCOLN - M
 ABRAHAM - M
+
+N: FATHER V: arrives
+N: LINCOLN V: paces
+N: THAT V: feels
+N: IT V: is
+N: HE V: communicate
+N: LINCOLN V: is

@@ -6,3 +6,9 @@ In 1959 Florence Green, a kindhearted widow with a small inheritance, risks ever
 Characters;
 Florence - F
 Gamart - F
+N: SHE V: invites
+N: SHE V: crosses
+N: SHE V: begin
+N: TOWN V: is
+N: THAT V: lacks
+N: THAT V: wants

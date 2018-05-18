@@ -6,3 +6,17 @@ A young man makes three journeys that take him through Greece, India and Africa.
 A novel of longing and thwarted desire, rage and compassion, In a Strange Room is the hauntingly beautiful evocation of one man’s search for love and for a place to call home.
 
 Characters:
+
+N: JOURNEY V: begins
+N: IT V: happens
+N: YOU V: leave
+N: IT V: ’s
+N: MAN V: makes
+N: THAT V: take
+N: HE V: travels
+N: WHO V: travel
+N: HE V: meets
+N: HE V: is
+N: JOURNEY V: ends
+N: JOURNEYS V: change
+N: NOVEL V: is

@@ -9,3 +9,15 @@ VIKTOR - M
 LIESEL - F
 KATA - F
 MARIKA - F
+
+N: HOUSE V: shines
+N: IT V: is
+N: HOUSE V: seems
+N: TROOPS V: enter
+N: FAMILY V: flee
+N: EXILE V: signify
+N: IT V: slips
+N: WHO V: know
+N: IT V: becomes
+N: BROKEN V: find
+N: STORY V: began

@@ -7,3 +7,17 @@ It is Jamie who tells the story of his family, of three generations of pride and
 Characters:
 HUGH - M
 JAMIE - M
+
+N: BAWN V: was
+N: WHO V: revolutionized
+N: TIMES V: changed
+N: HE V: lies
+N: GRANDSON V: comes
+N: WHAT V: is
+N: THAT V: haunts
+N: HE V: sees
+N: THAT V: bred
+N: IT V: is
+N: WHO V: tells
+N: IT V: is
+N: FATHERS V: is

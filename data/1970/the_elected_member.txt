@@ -8,3 +8,9 @@ Characters:
 NORMAN - M
 RBBI - M
 BELLA - F
+
+N: NORMAN V: is
+N: HE V: becomes
+N: DETERIORATION V: is
+N: BELLA V: reach
+N: THEY V: crave

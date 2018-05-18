@@ -5,3 +5,8 @@ In Time's Arrow the doctor Tod T. Friendly dies and then feels markedly better, 
 
 Characters:
 TOD - M
+
+N: DOCTOR V: dies
+N: FRIENDLY V: dies
+N: HE V: sends
+N: REVERSALS V: make

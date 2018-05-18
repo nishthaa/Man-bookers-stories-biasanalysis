@@ -7,3 +7,19 @@ Characters:
 U. - M
 MADISON - F
 TOM - M
+
+N: WE V: meet
+N: HE V: waiting
+N: HE V: stumbles
+N: THAT V: sum
+N: HE V: feels
+N: HIMSELF V: overwhelmed
+N: WOMAN V: is
+N: HE V: seeing
+N: HE V: begins
+N: REPORT V: remain
+N: SENSES V: are
+N: MCCARTHY V: captures
+N: HE V: can
+N: WE V: experience
+N: WE V: think

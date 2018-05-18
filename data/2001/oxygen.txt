@@ -6,3 +6,6 @@ Set in San Fernando Valley and Hungary in 1997, the story revolves around a late
 Characters:
 ALICE - F
 LASZLO - M
+
+N: STORY V: revolves
+N: MOTHER V: see

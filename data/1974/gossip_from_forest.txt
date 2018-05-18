@@ -4,3 +4,10 @@ Published By: Sceptre
 In November 1918, in a railway carriage in a forest near Paris, six men meet to negotiate an end to the terrible slaughter of the First World War. Threatened by famine and anarchy at home, the Germans struggle to mitigate the punishing terms offered by the Allies. But both sides are torn by battle exhaustion and a confusion that far exceed their national differences. In this riveting combination of history, speculation and rumour, Thomas Keneally recreates the personalities, ideals, prejudices, arguments and desperate measures that resulted in the armistice which would shape the future of Europe
 
 Characters:
+
+N: MEN V: meet
+N: GERMANS V: struggle
+N: THAT V: exceed
+N: KENEALLY V: recreates
+N: THAT V: resulted
+N: WHICH V: shape

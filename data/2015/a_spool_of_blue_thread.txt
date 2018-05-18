@@ -8,3 +8,19 @@ Characters:
 ABBY - F
 RED - M
 ANNE - F
+
+N: IT V: was
+N: THIS V: is
+N: WHITSHANK V: begins
+N: SHE V: fell
+N: WHITSHANKS V: are
+N: THAT V: radiate
+N: THEY V: are
+N: STORIES V: reveal
+N: THEY V: tell
+N: ABBY V: accumulated
+N: LIVES V: unfolding
+N: THAT V: been
+N: THAT V: are
+N: SPOOL V: tells
+N: IT V: is

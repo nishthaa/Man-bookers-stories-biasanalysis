@@ -5,3 +5,12 @@ One Sunday morning in Glasgow, shoplifting ex-con Sammy awakens in an alley, wea
 
 Characters:
 SAMMY - M
+
+N: SAMMY V: awakens
+N: HE V: gets
+N: HE V: discovers
+N: THINGS V: get
+N: GIRLFRIEND V: disappears
+N: POLICE V: question
+N: THEY V: name
+N: THIS V: is

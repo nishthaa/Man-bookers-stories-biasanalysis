@@ -11,3 +11,14 @@ Characters:
 TOWNROW - M
 ELIE - M
 LEAH - F
+
+N: IT V: was
+N: TOWNROW V: was
+N: HE V: is
+N: SHE V: is
+N: NOBODY V: seems
+N: ENGLISHMAN V: take
+N: BRITISH V: behaved
+N: TOWNROW V: reassess
+N: HE V: living
+N: HE V: have

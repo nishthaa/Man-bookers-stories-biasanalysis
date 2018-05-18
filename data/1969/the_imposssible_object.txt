@@ -5,3 +5,11 @@ In eight carefully connected stories that are joined by introspective interludes
 The impossible object of the title, "the triangle that can exist in two dimensions but not in three," is a controlling symbol for the impossibility of realizing the good life unless one recognizes the impossibility of attaining it: only then can it be possible to realize it, through a kind of renunciation, especially in "a sophisticated, corrupt, chaotic world." Such a provocative theme, comic or tragic by turns, was met by critics in 1968 as brilliant, insightful, intense, and moving, but especially original
 
 Characters:
+
+N: AUTHOR V: pursues
+N: WHO V: have
+N: WHO V: have
+N: OBJECT V: is
+N: THAT V: exist
+N: ONE V: recognizes
+N: IT V: be

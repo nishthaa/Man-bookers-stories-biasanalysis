@@ -7,3 +7,13 @@ Characters:
 FLEUR - F
 QUENTIN - M
 OLIVER - M
+
+N: TALBOT V: rejoices
+N: FLEUR V: finds
+N: EGOMANIACS V: writing
+N: DIRECTOR V: steals
+N: FICTION V: begins
+N: MEMBERS V: begin
+N: FLEUR V: written
+N: THEY V: meet
+N: ART V: start

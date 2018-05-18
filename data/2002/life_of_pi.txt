@@ -7,3 +7,7 @@ Characters:
 YANN - M
 PI - M
 RICHARD - M
+
+N: LIFE V: is
+N: PROTAGONIST V: explores
+N: HE V: survives

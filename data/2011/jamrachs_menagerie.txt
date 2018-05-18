@@ -11,3 +11,12 @@ JAFFY - M
 CHARLES - M
 TIM - M
 JAMRACH - M
+
+N: MENAGERIE V: tells
+N: JAFFY V: goes
+N: JAMRACH V: recruits
+N: JAFFY V: enjoy
+N: THEY V: succeed
+N: CREW V: begins
+N: STORM V: sinks
+N: MENA­GERIE V: is

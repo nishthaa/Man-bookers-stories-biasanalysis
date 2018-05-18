@@ -5,3 +5,7 @@ Silence Among the Weapons has a more or less ordinary central character -- an ac
 
 Characters:
 ARDEN - M
+
+N: SILENCE V: has
+N: ARDEN V: allows
+N: THIS V: aroused

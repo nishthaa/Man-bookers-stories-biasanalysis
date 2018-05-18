@@ -15,3 +15,19 @@ Gerard - M
 Rose - F
 Jenkins - M
 Tamar - M
+N: HERNSHAW V: commissioned
+N: TIME V: passes
+N: WE V: go
+N: WE V: detest
+N: CURTLAND V: asks
+N: BROTHERHOOD V: suggests
+N: RIDERHOOD V: suggests
+N: THEFT V: embroils
+N: HERNSHAW V: has
+N: PACT V: seems
+N: CAMBUS V: thinks
+N: IT V: is
+N: SOMEONE V: die
+N: SOMEONE V: dies
+N: ROSE V: deserves
+N: WHO V: gone

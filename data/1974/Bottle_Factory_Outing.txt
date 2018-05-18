@@ -6,3 +6,7 @@ Freda and Brenda spend their days working in an Italian-run wine- bottling facto
 Characters:
 FREDA - F
 BRENDA - F
+
+N: FREDA V: spend
+N: OUTING V: offers
+N: OFFERS V: returns

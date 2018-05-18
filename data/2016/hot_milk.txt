@@ -7,3 +7,12 @@ Characters:
 SOFIA - F
 ROSE - F
 GOMEZ - M
+
+N: SOFIA V: spent
+N: SHE V: travel
+N: HE V: cure
+N: GOMEZ V: has
+N: THAT V: seem
+N: TREATMENT V: progresses
+N: ILLNESS V: becomes
+N: SHE V: discovers

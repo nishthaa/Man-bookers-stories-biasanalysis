@@ -9,3 +9,17 @@ MA - F
 NUGENT - F
 FRANCIE - M
 PHILIP - M
+
+N: I V: thinking
+N: MA V: was
+N: NUGENT V: smiles
+N: SHE V: met
+N: YOU V: getting
+N: YOU V: are
+N: SHE V: saying
+N: YOU V: are
+N: YOU V: see
+N: WHAT V: coming
+N: THIS V: is
+N: FINN V: crossed
+N: POST V: said

@@ -7,3 +7,13 @@ Characters:
 COLETTE - F
 JANUS - M
 BILL - M
+
+N: JONES V: had
+N: IT V: seems
+N: FAMILY V: is
+N: SON V: wasted
+N: SPREES V: turned
+N: WHO V: sees
+N: BROTHER V: is
+N: THIS V: is
+N: IT V: lurches

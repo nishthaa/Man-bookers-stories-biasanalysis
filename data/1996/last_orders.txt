@@ -5,3 +5,9 @@ Four men gather in a London pub. They have taken it upon themselves to carry out
 
 Characters:
 JACK - M
+
+N: MEN V: gather
+N: THEY V: taken
+N: THEY V: drive
+N: ERRAND V: becomes
+N: SWIFT V: creates

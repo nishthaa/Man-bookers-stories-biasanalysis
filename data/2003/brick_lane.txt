@@ -8,3 +8,15 @@ Characters:
 NAZNEEN - F
 HASINA - F
 ALI - F
+
+N: LANE V: brings
+N: ALI V: illuminates
+N: CHARACTERS V: pull
+N: WE V: see
+N: NAZNEEN V: stifling
+N: WHO V: keeps
+N: ALI V: reveals
+N: THAT V: dissipate
+N: WHICH V: begins
+N: WHICH V: emerges
+N: BOTH V: have

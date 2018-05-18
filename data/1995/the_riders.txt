@@ -8,3 +8,9 @@ TIM - M
 SCULLY - M
 JENNIFER - F
 BILLY - F
+
+N: WINTON V: depicts
+N: WIFE V: disappears
+N: HE V: has
+N: CLUES V: lead
+N: THAT V: covers

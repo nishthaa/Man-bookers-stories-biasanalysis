@@ -6,3 +6,10 @@ Edward Manners is 32 years old, gay, and disillusioned with his life in England.
 Characters:
 EDWARD - M
 LUC - M
+
+N: MANNERS V: is
+N: HE V: arrives
+N: WRITING V: done
+N: HE V: becomes
+N: RELATIONSHIP V: becomes
+N: LUC V: disappears

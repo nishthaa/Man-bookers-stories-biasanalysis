@@ -5,3 +5,10 @@ In November 1918, in a railway carriage in a forest near Paris, six men meet to 
 
 Characters:
 
+
+N: MEN V: meet
+N: GERMANS V: struggle
+N: THAT V: exceed
+N: KENEALLY V: recreates
+N: THAT V: resulted
+N: WHICH V: shape

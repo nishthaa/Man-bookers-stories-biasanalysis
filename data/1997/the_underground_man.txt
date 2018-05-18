@@ -5,3 +5,12 @@ The 5th Duke of Portland is a Victorian misfit, a man who spends his time and we
 
 Characters:
 DUKE - M
+
+N: DUKE V: is
+N: WHO V: spends
+N: HE V: withdraws
+N: HE V: falls
+N: GOSSIP V: inflated
+N: ONE V: understands
+N: AMOUNT V: bring
+N: ’S V: builds

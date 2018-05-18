@@ -9,3 +9,13 @@ Characters:
 DANIEL - M
 ELISABETH - F
 ALI - F
+
+N: DANIEL V: is
+N: ELISABETH V: has
+N: KINGDOM V: is
+N: AUTUMN V: is
+N: RICHNESS V: are
+N: HARVEST V: means
+N: WE V: are
+N: CENTURIES V: cast
+N: SERIES V: comes

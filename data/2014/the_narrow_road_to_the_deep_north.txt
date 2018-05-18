@@ -8,3 +8,7 @@ Taking its title from 17th-century haiku poet Basho's travel journal, The Narrow
 Characters:
 RICHARD - M
 DORRIGO - M
+
+N: STORY V: gallows
+N: DAY V: builds
+N: STORY V: unfolds

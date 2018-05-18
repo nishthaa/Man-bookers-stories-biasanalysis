@@ -6,3 +6,10 @@ When Michael Dillon is ordered by the IRA to park his car in the carpark of a Be
 Characters:
 MICHAEL - M
 DILLON - M
+
+N: WHICH V: leaves
+N: HE V: knows
+N: HE V: planting
+N: THAT V: kill
+N: HE V: knows
+N: HE V: does

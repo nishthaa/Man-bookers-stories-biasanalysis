@@ -6,3 +6,8 @@ The Good Terrorist follows Alice Mellings, a woman who transforms her home into 
 Characters:
 
 Alice - F
+N: TERRORIST V: follows
+N: WHO V: transforms
+N: WHO V: plan
+N: ALICE V: struggles
+N: COMPANIONS V: encounter

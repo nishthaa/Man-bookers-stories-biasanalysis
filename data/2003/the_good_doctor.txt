@@ -7,3 +7,16 @@ The Brigadier – a self-fashioned dictator from apartheid days – is rumoured 
 Characters:
 LAURENCE - M
 FRANK - M
+
+N: WATERS V: arrives
+N: FRANK V: is
+N: LAURENCE V: is
+N: FRANK V: is
+N: TWO V: become
+N: TOWN V: coping
+N: GROUP V: moved
+N: MAN V: is
+N: FRANK V: met
+N: LAURENCE V: wants
+N: PAST V: demanding
+N: IDEALISM V: last

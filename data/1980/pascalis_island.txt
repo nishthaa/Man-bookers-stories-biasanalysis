@@ -6,3 +6,11 @@ The year is 1908, the place, a small Greek island in the declining days of the c
 Characters:
 BASIL - M
 PASCALI - M
+
+N: YEAR V: is
+N: PASCALI V: spied
+N: HE V: received
+N: HE V: fears
+N: VILLAGERS V: found
+N: ENGLISHMAN V: arrives
+N: CUNNING V: come

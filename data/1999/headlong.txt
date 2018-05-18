@@ -5,3 +5,7 @@ A novel of historical investigation and comic invention, Headlong pitches from g
 It uses the elusive story behind a painting, thought, by an easily-distracted philosopher, to be a lost work of Brueghel. He risks everything he has in his efforts to establish its provenance and then spirit it from its owner.
 
 Characters:
+
+N: IT V: uses
+N: HE V: risks
+N: HE V: has

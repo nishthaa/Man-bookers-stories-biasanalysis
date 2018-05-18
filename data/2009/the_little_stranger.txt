@@ -11,3 +11,20 @@ CAROLINE - F
 RODERICK - M
 BETTY - F
 SUSAN - F
+
+N: HE V: is
+N: HE V: visited
+N: WHO V: worked
+N: HE V: approaches
+N: FARADAY V: recognizes
+N: MUCH V: changed
+N: HOUSE V: are
+N: FAMILY V: struggling
+N: THAT V: begin
+N: SUMMER V: gives
+N: RODERICK V: seems
+N: FARADAY V: believes
+N: BEHAVIOR V: have
+N: BETTY V: believes
+N: CAROLINE V: is
+N: HOUSE V: begins

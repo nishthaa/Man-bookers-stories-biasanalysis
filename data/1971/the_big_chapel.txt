@@ -9,3 +9,14 @@ Characters:
 LANNIGAN - M
 EMERINE - M
 HORACE - M
+
+N: IT V: is
+N: KILROY V: written
+N: THAT V: remains
+N: THAT V: range
+N: HE V: draws
+N: IT V: is
+N: IT V: is
+N: THAT V: remain
+N: WHO V: is
+N: WHICH V: is

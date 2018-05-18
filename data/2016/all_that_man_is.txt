@@ -5,3 +5,16 @@ Nine men. Each of them at a different stage in life, each of them away from home
 Dark and disturbing, but also often wickedly and uproariously comic, All That Man Is is notable for the acute psychological penetration Szalay brings to bear on his characters, from the working-class ex-grunt to the pompous college student, the middle-aged loser to the Russian oligarch. Steadily and mercilessly, as this brilliantly conceived book progresses, the protagonist at the center of each chapter is older than the last one, it gets colder out, and All That Man Is gathers exquisite power. Szalay is a writer of supreme gifts--a master of a new kind of realism that vibrates with detail, intelligence, relevance, and devastating pathos.
 
 Characters:
+
+N: IT V: means
+N: NARRATIVES V: is
+N: THAT V: interrogates
+N: LIVES V: form
+N: SZALAY V: plots
+N: MAN V: is
+N: IS V: is
+N: SZALAY V: brings
+N: PROTAGONIST V: is
+N: IT V: gets
+N: SZALAY V: is
+N: THAT V: vibrates

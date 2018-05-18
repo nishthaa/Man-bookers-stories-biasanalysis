@@ -8,3 +8,14 @@ Characters:
 KASPAR - M
 UTZ - M
 BRUCE - M
+
+N: UTZ V: collects
+N: HE V: protected
+N: ALL V: crammed
+N: HE V: considered
+N: HE V: returns
+N: HE V: take
+N: HE V: leave
+N: UTZ V: is
+N: UTZ V: is
+N: STORY V: is

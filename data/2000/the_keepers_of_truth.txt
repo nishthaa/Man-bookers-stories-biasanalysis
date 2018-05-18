@@ -7,3 +7,11 @@ Characters:
 BILL - M
 LAWTON - M
 RONNY - M
+
+N: BILL V: lives
+N: HE V: yearns
+N: LAWTON V: goes
+N: SPECTER V: breathes
+N: MURDER V: come
+N: IT V: awakes
+N: KEEPERS V: startles

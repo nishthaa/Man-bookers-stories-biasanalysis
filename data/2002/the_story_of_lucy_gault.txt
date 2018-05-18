@@ -6,3 +6,13 @@ The stunning new novel from highly acclaimed author William Trevor is a brillian
 CHARACTERS :
 WILLIAM - M
 LUCY - F
+
+N: NOVEL V: is
+N: FAMILY V: leads
+N: THREAT V: leads
+N: LUCY V: bear
+N: SHE V: befriended
+N: THEY V: are
+N: LUCY V: runs
+N: SHE V: sets
+N: THAT V: affect

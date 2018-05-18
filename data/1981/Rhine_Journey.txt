@@ -9,3 +9,19 @@ Characters:
 CHARLES - M
 CHARLOTTE - F
 ANN - F
+
+N: IT V: is
+N: FAMILY V: making
+N: ONE V: say
+N: SHE V: is
+N: SHE V: travelling
+N: THEY V: board
+N: CHARLOTTE V: mistakes
+N: SHE V: gave
+N: NOVEL V: creates
+N: THAT V: is
+N: IT V: is
+N: JOURNEY V: has
+N: WHICH V: comes
+N: NOVEL V: is
+N: WHICH V: introduces

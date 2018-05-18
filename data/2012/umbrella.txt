@@ -10,3 +10,13 @@ ZACK - M
 AUDREY - F
 OLIVER - M
 BUSNER - M
+
+N: BROTHER V: is
+N: JOYCE V: abandoned
+N: HOUSE V: arrives
+N: HE V: has
+N: HE V: encounters
+N: SOCIALIST V: fell
+N: AUDREY V: fell
+N: AUDREY V: is
+N: BUSNER V: becomes

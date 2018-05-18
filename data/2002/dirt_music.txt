@@ -11,3 +11,22 @@ LUTHER - M
 GEORGIE - F
 JIM - M
 TIM - M
+
+N: FOX V: makes
+N: HE V: grew
+N: HE V: turned
+N: CHANCE V: brought
+N: WHO V: loathes
+N: GEORGIE V: encounters
+N: NEITHER V: call
+N: THEY V: stay
+N: IT V: is
+N: IT V: is
+N: MUSIC V: is
+N: MUSIC V: is
+N: FOX V: tells
+N: YOU V: play
+N: LUTHER V: escape
+N: HE V: discovers
+N: MUSIC V: resonates
+N: IT V: confirms

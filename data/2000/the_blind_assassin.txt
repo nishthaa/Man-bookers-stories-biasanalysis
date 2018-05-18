@@ -8,3 +8,18 @@ Characters:
 IRIS - F
 LAURA - F
 MARGARET - F
+
+N: IT V: opens
+N: WAR V: ended
+N: SISTER V: drove
+N: READER V: expects
+N: ATWOOD V: introduces
+N: IT V: is
+N: WHO V: meet
+N: WE V: return
+N: IT V: is
+N: ATWOOD V: written
+N: SHE V: stretches
+N: THAT V: is
+N: ASSASSIN V: proves
+N: ATWOOD V: is

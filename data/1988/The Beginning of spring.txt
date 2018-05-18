@@ -9,3 +9,19 @@ In Penelope Fitzgerald's fiction, affection and remorse are all too often allied
 Characters:
 FRANK - M
 PENELOPE - F
+
+N: WIFE V: leaves
+N: SHE V: takes
+N: CHILDREN V: make
+N: THEY V: ought
+N: FATHER V: thinks
+N: IT V: disconcerting
+N: THEY V: seemed
+N: ROUTINES V: drift
+N: HE V: tries
+N: DESIRE V: seem
+N: FRANK V: wants
+N: HE V: is
+N: RUSSIA V: go
+N: AUTHOR V: evokes
+N: SHOTS V: hit

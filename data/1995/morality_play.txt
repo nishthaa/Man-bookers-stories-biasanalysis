@@ -6,3 +6,15 @@ The time is the fourteenth century. The place is a small town in rural England, 
 Characters:
 NICHOLAS - M
 MARTIN - M
+
+N: TIME V: is
+N: PLACE V: is
+N: TROUPE V: prepare
+N: LEADER V: wants
+N: THEM V: enact
+N: THAT V: is
+N: THEY V: find
+N: THEMSELVES V: entering
+N: THAT V: undo
+N: PLAY V: is
+N: THAT V: captivates

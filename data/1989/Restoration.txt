@@ -8,3 +8,9 @@ ROBERT - M
 MERIVEL - M
 KING - M
 CHARLES - M
+
+N: MERIVEL V: finds
+N: FORTUNES V: transformed
+N: MERIVEL V: slips
+N: HE V: transgresses
+N: WHICH V: take

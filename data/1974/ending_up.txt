@@ -5,3 +5,9 @@ The title refers to how we spend our retirement years, often called "golden," th
 At Tuppenny-Hapenny Cottage a clutch of oldsters, brought together more by ill fortune than blood or love, struggles with problems that range from penury to prostate. That's the good news. The rest is Amis as usual, providing fun for himself and his readers at the expense of his characters.
 
 Characters:
+
+N: TITLE V: refers
+N: WE V: spend
+N: THAT V: range
+N: THAT V: 's
+N: REST V: is

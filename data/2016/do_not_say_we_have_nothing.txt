@@ -10,3 +10,11 @@ AI-MING - F
 SPARROW - F
 ZHULI - F
 KAI - F
+
+N: MARIE V: invite
+N: WHO V: fled
+N: MING V: tells
+N: IT V: is
+N: STRUGGLE V: remain
+N: THEY V: devoted
+N: FATES V: reverberate

@@ -8,3 +8,16 @@ Grant is a spectacularly humanizing writer whose morally complex characters expl
 Characters:
 VIVIEN - F
 GRANT - F
+
+N: KOVACS V: grows
+N: WHO V: conceal
+N: SHE V: learns
+N: WHO V: wanders
+N: SHE V: loses
+N: IT V: is
+N: SHE V: defines
+N: SHE V: forges
+N: WHO V: wants
+N: HE V: exposes
+N: GRANT V: is
+N: CHARACTERS V: explore

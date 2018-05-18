@@ -10,3 +10,17 @@ CLARE - F
 PENNY - F
 LISE - F
 ELSE - F
+
+N: VOICES V: inhabit
+N: CHARACTERS V: include
+N: WHO V: died
+N: WHO V: visits
+N: WHO V: staying
+N: WHO V: begs
+N: SARA V: takes
+N: SHE V: gropes
+N: SHE V: terms
+N: LIFT V: comes
+N: FLASH V: comes
+N: THAT V: 's
+N: THAT V: 's

@@ -7,3 +7,13 @@ Characters:
 RITA - F
 NELLIE - F
 MARGO - F
+
+N: LIVERPOOL V: was
+N: RITA V: knew
+N: LIFE V: was
+N: SHE V: seen
+N: GI V: came
+N: SHE V: was
+N: LOVE V: follow
+N: NELLIE V: knew
+N: BOY V: have

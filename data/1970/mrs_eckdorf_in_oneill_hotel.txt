@@ -5,3 +5,8 @@ What was the tragedy that turned O'Neill's hotel from a plush establishment into
 
 Characters:
 IVY - F
+
+N: TRAGEDY V: was
+N: THAT V: turned
+N: SHE V: come
+N: TALE V: lies

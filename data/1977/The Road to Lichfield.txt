@@ -7,3 +7,10 @@ Deeply felt, beautifully controlled, The Road to Lichfield is a subtle explorati
 
 Characters:
 Anne - F
+N: LIVELY V: explores
+N: WHO V: learns
+N: FATHER V: had
+N: LINTON V: examine
+N: THEY V: know
+N: ROAD V: is
+N: FUTURE V: anticipated

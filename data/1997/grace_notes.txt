@@ -6,3 +6,11 @@ Returning to Belfast after a long absence, to attend her father’s funeral, Cat
 Characters:
 CATHERINE - F
 DAVE - M
+
+N: SHE V: left
+N: SHE V: remembers
+N: DRUMS V: sounded
+N: SHE V: remembers
+N: SHE V: remembers
+N: SHE V: had
+N: THIS V: is

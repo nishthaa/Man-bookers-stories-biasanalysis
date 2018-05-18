@@ -8,3 +8,16 @@ But Darling has a chance to escape: she has an aunt in America. She travels to t
 Characters:
 DARLING - F
 CHIPO - F
+
+N: DARLING V: is
+N: SHE V: navigate
+N: DARLING V: steal
+N: SCHOOL V: closed
+N: FATHERS V: left
+N: DARLING V: has
+N: SHE V: has
+N: SHE V: travels
+N: OPTIONS V: are
+N: DEBUT V: calls
+N: WHO V: come
+N: SHE V: tells

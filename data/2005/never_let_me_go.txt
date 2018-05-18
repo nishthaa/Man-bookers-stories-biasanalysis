@@ -9,3 +9,16 @@ Characters:
 KATHY - F
 RUTH - F
 TOMMY - M
+
+N: KATHY V: lived
+N: THEY V: were
+N: BEING V: was
+N: THEY V: enter
+N: KATHY V: put
+N: TWO V: come
+N: SHE V: stops
+N: THAT V: fueled
+N: KATHY V: recalls
+N: SHE V: describes
+N: SHE V: describes
+N: ME V: go

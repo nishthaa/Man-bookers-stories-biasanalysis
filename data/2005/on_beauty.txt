@@ -13,3 +13,31 @@ ZORA - F
 JEROME - M
 VICTORIA - F
 MONTY - M
+
+N: BELSEY V: is
+N: WHO V: like
+N: WHO V: resembles
+N: SHE V: was
+N: CHILDREN V: pursue
+N: ZORA V: believes
+N: INTELLECTUALS V: redeem
+N: JEROME V: struggles
+N: HOWARD V: feels
+N: ACTS V: are
+N: HE V: has
+N: JEROME V: falls
+N: FAMILIES V: find
+N: THEMSELVES V: thrown
+N: THEY V: register
+N: THAT V: sees
+N: WHICH V: underpin
+N: YOU V: choose
+N: YOU V: love
+N: YOU V: love
+N: YOU V: believe
+N: YOU V: claim
+N: THING V: is
+N: YOU V: go
+N: NOVEL V: is
+N: IT V: is
+N: YOU V: expect

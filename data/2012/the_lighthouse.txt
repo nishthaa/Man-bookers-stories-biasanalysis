@@ -5,3 +5,10 @@ Futh, middle-aged and recently separated, stands on the outer deck of a North Se
 
 Characters:
 FUTH - M
+
+N: FUTH V: stands
+N: HE V: heading
+N: HE V: forget
+N: IT V: was
+N: HE V: neglected
+N: OMISSION V: threatens

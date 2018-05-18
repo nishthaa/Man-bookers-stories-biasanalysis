@@ -5,3 +5,7 @@ In the summer of 1956, Stevens, a long-serving butler at Darlington Hall, decide
 
 Characters:
 STEVENS - M
+
+N: STEVENS V: decides
+N: EXCURSION V: becomes
+N: THAT V: takes

@@ -9,3 +9,11 @@ Characters:
 PETER - M
 OSCAR - M
 LUCINDA - F
+
+N: PRIZE V: winning
+N: PASSIONS V: became
+N: IT V: is
+N: OSCAR V: is
+N: WHO V: broken
+N: LUCINDA V: moves
+N: BRILLIANCE V: propel

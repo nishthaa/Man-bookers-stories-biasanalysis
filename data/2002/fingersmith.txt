@@ -11,3 +11,18 @@ SUCKSBY - F
 MAUD - F
 LILLY - F
 GENTLEMAN - M
+
+N: TRINDER V: is
+N: WHO V: raised
+N: SUE V: were
+N: HOUSEHOLD V: hosts
+N: BABIES V: calmed
+N: HOUSE V: is
+N: WHO V: carries
+N: SHE V: wins
+N: THEY V: share
+N: MAUD V: be
+N: SUE V: agrees
+N: SUE V: begins
+N: ONE V: is
+N: IT V: seems

@@ -8,3 +8,24 @@ Characters:
 DANIEL - M
 CATHY - F
 DADDY - M
+
+N: DANIEL V: heading
+N: HE V: looking
+N: SIMPLICITY V: turned
+N: THEY V: lived
+N: DADDY V: built
+N: THEY V: foraged
+N: THEY V: were
+N: DANIEL V: gone
+N: THEY V: were
+N: THEY V: were
+N: DADDY V: disappeared
+N: HE V: was
+N: HE V: was
+N: HE V: told
+N: COPSE V: was
+N: THAT V: was
+N: MEN V: began
+N: VIOLENCE V: grew
+N: ELMET V: is
+N: BOND V: go

@@ -8,3 +8,13 @@ A story of innocence and experience, hope and harsh reality, Pigeon English is a
 Characters:
 HARRISON - M
 HARRI - M
+
+N: OPOKU V: lives
+N: WHO V: visits
+N: HARRI V: absorbs
+N: HARRI V: decides
+N: HE V: endangers
+N: MOTHER V: spun
+N: ENGLISH V: is
+N: THAT V: try
+N: HE V: falls

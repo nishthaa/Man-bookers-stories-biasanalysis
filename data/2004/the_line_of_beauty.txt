@@ -9,3 +9,9 @@ Characters:
 NICK - M
 GERALD - M
 RACHEL - F
+
+N: IT V: is
+N: GUEST V: moved
+N: AFFAIR V: gives
+N: IT V: is
+N: THAT V: change

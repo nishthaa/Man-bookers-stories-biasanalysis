@@ -6,3 +6,17 @@ David Mitchell follows his eerily precocious, globe-striding first novel, Ghostw
 Characters:
 DAVID - M
 EIJI - M
+
+N: MITCHELL V: follows
+N: THAT V: is
+N: NUMBER9DREAM V: is
+N: MIYAKE V: thrust
+N: WHO V: abandoned
+N: HE V: trips
+N: RIDDLE V: becomes
+N: EIJI V: answer
+N: LINE V: is
+N: THINGS V: keep
+N: IT V: is
+N: EIJI V: acquire
+N: THAT V: be

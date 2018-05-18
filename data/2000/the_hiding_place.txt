@@ -12,3 +12,37 @@ MARINA - F
 JOE - M
 MARY - F
 FRAN - F
+
+N: HAND V: disfigured
+N: SHE V: was
+N: FATHER V: is
+N: WHO V: bets
+N: HE V: afford
+N: HE V: loses
+N: FAMILY V: lives
+N: EVERYTHING V: is
+N: HE V: sells
+N: SHE V: watches
+N: PLACE V: paints
+N: PORTRAIT V: saves
+N: YOU V: expect
+N: THAT V: are
+N: THAT V: protect
+N: WHICH V: warm
+N: SHE V: bear
+N: READERS V: wonder
+N: DOLORES V: is
+N: THAT V: happened
+N: SHE V: was
+N: IT V: is
+N: SHE V: feels
+N: SHE V: knew
+N: STORY V: comes
+N: STORIES V: is
+N: THAT V: unfold
+N: FACT V: be
+N: WE V: be
+N: SHE V: imparts
+N: PLACE V: is
+N: IT V: is
+N: IT V: burn

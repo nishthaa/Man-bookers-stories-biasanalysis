@@ -7,3 +7,13 @@ Characters:
 DAVID - M
 LURIE - M
 WILL - M
+
+N: LURIE V: believes
+N: HE V: created
+N: HE V: lives
+N: HE V: teaches
+N: AGE V: diminished
+N: HE V: considers
+N: LURIE V: seduces
+N: HE V: sets
+N: THAT V: shatter

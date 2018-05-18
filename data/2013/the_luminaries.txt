@@ -6,3 +6,12 @@ It is 1866, and young Walter Moody has come to make his fortune upon the New Zea
 Characters:
 WALTER - M
 MOODY - M
+
+N: IT V: is
+N: MOODY V: come
+N: HE V: stumbles
+N: WHO V: met
+N: MAN V: vanished
+N: PROSTITUTE V: tried
+N: THAT V: is
+N: LUMINARIES V: is

@@ -4,3 +4,8 @@ Published By: Black Swan
 It is, perhaps, the fifteenth century and the ordered tranquillity of a Mediterranean island is about to be shattered by the appearance of two outsiders: one, a castaway, plucked from the sea by fishermen, whose beliefs represent a challenge to the established order; the other, a child abandoned by her mother and suckled by wolves, who knows nothing of the precarious relationship between church and state but whose innocence will become the subject of a dangerous experiment.
 
 Characters:
+
+N: IT V: is
+N: BELIEFS V: represent
+N: WHO V: knows
+N: INNOCENCE V: become

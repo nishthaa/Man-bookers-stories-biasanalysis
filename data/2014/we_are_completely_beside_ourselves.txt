@@ -8,3 +8,22 @@ Characters:
 LOWELL - M
 FERN - F
 ROSEMARY - F
+
+N: WHO V: begins
+N: SHE V: has
+N: I V: spent
+N: SHE V: tells
+N: IT V: going
+N: I V: share
+N: I V: tell
+N: FERN V: was
+N: YOU V: thinking
+N: I V: known
+N: SHE V: was
+N: I V: loved
+N: ROSEMARY V: was
+N: SHE V: 's
+N: SHE V: guides
+N: SHE V: dangled
+N: THAT V: hidden
+N: ROSEMARY V: is

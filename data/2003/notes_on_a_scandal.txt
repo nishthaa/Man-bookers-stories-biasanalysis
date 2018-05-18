@@ -7,3 +7,14 @@ When it comes to light and Sheba falls prey to the inevitable media circus, Barb
 Characters:
 BARBARA - F
 SHEBA - F
+
+N: COVETT V: leads
+N: HART V: joins
+N: BARBARA V: senses
+N: RELATIONSHIP V: develops
+N: ANOTHER V: does
+N: SHEBA V: begun
+N: IT V: comes
+N: SHEBA V: falls
+N: BARBARA V: decides
+N: THAT V: reveals

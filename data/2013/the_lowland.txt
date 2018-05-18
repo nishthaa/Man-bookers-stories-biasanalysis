@@ -8,3 +8,22 @@ Epic in its canvas and intimate in its portrayal of lives undone and forged anew
 Characters:
 SUBHASH - M
 UDAYAN - M
+
+N: BROTHER V: was
+N: THEY V: wandered
+N: THEY V: played
+N: UDAYAN V: was
+N: THEY V: were
+N: YEARS V: pass
+N: TANKS V: roll
+N: BOND V: do
+N: THAT V: upend
+N: HIMSELF V: drawn
+N: HE V: give
+N: HE V: believes
+N: REPERCUSSIONS V: reverberate
+N: THAT V: follow
+N: LOWLAND V: is
+N: THAT V: define
+N: WE V: are
+N: THIS V: is

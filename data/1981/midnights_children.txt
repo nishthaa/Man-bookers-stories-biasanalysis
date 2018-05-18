@@ -6,3 +6,8 @@ Saleem Sinai was born at midnight, the midnight of India's independence, and fou
 Characters:
 SALEEM - M
 INDIA - F
+
+N: HIMSELF V: handcuffed
+N: HE V: is
+N: EACH V: endowed
+N: PRIVILEGE V: is

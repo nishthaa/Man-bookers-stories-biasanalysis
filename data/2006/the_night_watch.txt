@@ -10,3 +10,16 @@ KAY - F
 HELEN - F
 VIV - F
 DUNCAN - M
+
+N: WATCH V: is
+N: THIS V: is
+N: KAY V: dresses
+N: WHO V: drove
+N: GIRL V: is
+N: DEMONS V: fight
+N: LIVES V: connect
+N: WAR V: leads
+N: TENDER V: set
+N: NOVEL V: is
+N: THAT V: offers
+N: WATCH V: is

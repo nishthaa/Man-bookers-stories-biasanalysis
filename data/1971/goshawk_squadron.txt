@@ -7,3 +7,13 @@ Characters:
 STANLEY - M
 WOOLLEY - M
 DEREK - M
+
+N: AVIATORS V: were
+N: THEY V: were
+N: PRESS V: idolized
+N: OFFICER V: is
+N: HE V: drums
+N: THIS V: produces
+N: WOOLLEY V: believes
+N: SQUADRON V: be
+N: ROBINSON V: builds

@@ -7,3 +7,6 @@ Characters:
 
 Joe -  M
 Kathleen - F
+N: LOGAN V: growing
+N: THAT V: grows
+N: WHO V: brings

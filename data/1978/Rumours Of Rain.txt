@@ -8,3 +8,5 @@ Martin Mynhardt, a wealthy Afrikaner, plans a weekend at his old family farm. Bu
 Characters:
 
 Martin - M
+N: MYNHARDT V: plans
+N: VISIT V: coincides

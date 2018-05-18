@@ -10,3 +10,19 @@ Characters:
 JOHN - M
 COETZEE - M
 MARGOT - F
+
+N: BIOGRAPHER V: working
+N: HE V: plans
+N: COETZEE V: sharing
+N: SENSES V: is
+N: HE V: was
+N: HE V: embarks
+N: WHO V: were
+N: HE V: had
+N: DAUGHTER V: had
+N: WHO V: tried
+N: HE V: writes
+N: POETRY V: evoke
+N: SUMMERTIME V: shows
+N: HE V: limbers
+N: IT V: completes

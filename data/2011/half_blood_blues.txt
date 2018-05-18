@@ -10,3 +10,18 @@ HIERONYMOUS - M
 HIERO - M
 SID - M
 CHIP - M
+
+N: CHIP V: told
+N: BOYS V: tempt
+N: IT V: been
+N: I V: tell
+N: HE V: was
+N: HE V: was
+N: HE V: was
+N: SID V: discovers
+N: HE V: thought
+N: CHIP V: shares
+N: EDUGYAN V: weaves
+N: YOU V: tell
+N: SOMEONE V: tell
+N: THEY V: tell

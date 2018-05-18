@@ -7,3 +7,11 @@ Characters:
 WILLIAM - M
 MAGINN - M
 MCGREEVY - M
+
+N: MAGINN V: returns
+N: WHICH V: preserved
+N: WOMEN V: die
+N: BOOK V: traces
+N: MCGREEVY V: struggles
+N: WHAT V: remains
+N: DEPOSITION V: is

@@ -6,3 +6,8 @@ Gabriel Harvey is happy until his father inherits a lot of money and becomes a s
 Characters:
 
 Gabriel - M
+N: HARVEY V: is
+N: FATHER V: inherits
+N: GABRIEL V: feels
+N: HE V: see
+N: THEY V: separating

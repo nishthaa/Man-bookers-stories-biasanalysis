@@ -7,3 +7,19 @@ This, then is the stunning story of their trek together, how they find in each o
 Characters:
 ADAM - M
 ELIZABETH - F
+
+N: YEAR V: is
+N: BOERS V: ruled
+N: IT V: come
+N: SHE V: refuses
+N: HE V: refuses
+N: BAAS V: smashes
+N: ADAM V: turns
+N: HE V: flees
+N: HE V: comes
+N: SHE V: pleads
+N: ADAM V: agrees
+N: HE V: believes
+N: THIS V: is
+N: THEY V: find
+N: DAYS V: turn

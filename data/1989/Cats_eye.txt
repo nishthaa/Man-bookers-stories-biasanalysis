@@ -5,3 +5,11 @@ Cat's Eye is the story of Elaine Risley, a controversial painter who returns to 
 
 Characters:
 ELAINE - F
+
+N: EYE V: is
+N: WHO V: returns
+N: SHE V: reminisces
+N: WHO V: initiated
+N: ELAINE V: come
+N: SHE V: seek
+N: EYE V: is

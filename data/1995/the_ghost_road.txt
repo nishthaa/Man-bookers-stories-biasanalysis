@@ -8,3 +8,8 @@ BILLY - M
 WILFRED - M
 OWEN - M
 WILLIAM - M
+
+N: BILLY V: is
+N: HE V: was
+N: THAT V: destroyed
+N: HE V: studied

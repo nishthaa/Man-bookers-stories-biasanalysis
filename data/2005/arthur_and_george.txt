@@ -8,3 +8,8 @@ Characters:
 GEORGE - M
 ARTHUR - M
 JULIAN - M
+
+N: GEORGE V: living
+N: WHO V: is
+N: FATES V: become
+N: BARNES V: explores

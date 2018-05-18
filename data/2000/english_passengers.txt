@@ -11,3 +11,15 @@ GEOFFREY - M
 WILSON - M
 PEEVAY - M
 THOMAS - M
+
+N: KEWLEY V: have
+N: MOST V: confiscated
+N: TAKERS V: are
+N: WHO V: want
+N: WILSON V: believes
+N: GARDEN V: was
+N: PARTNER V: developing
+N: ABORIGINAL V: recounts
+N: THAT V: begins
+N: CHARACTERS V: come
+N: THAT V: bring

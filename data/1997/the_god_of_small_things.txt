@@ -10,3 +10,15 @@ AMMU - F
 CHACKO - M
 MAMMACHI - F
 BABY KOCHAMMA - F
+
+N: YEAR V: is
+N: ESTHAPPEN V: fashion
+N: THAT V: is
+N: MOTHER V: fled
+N: WHO V: loves
+N: CHILDREN V: love
+N: WHO V: plays
+N: WIFE V: brings
+N: TWINS V: learn
+N: THINGS V: change
+N: LIVES V: twist

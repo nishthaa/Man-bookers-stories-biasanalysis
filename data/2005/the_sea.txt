@@ -6,3 +6,12 @@ In this luminous new novel about love, loss, and the unpredictable power of memo
 Characters:
 JOHN - M
 MAX - M
+
+N: BANVILLE V: introduces
+N: WHO V: gone
+N: HE V: spent
+N: IT V: is
+N: HE V: met
+N: HE V: experienced
+N: MAX V: comes
+N: WE V: had

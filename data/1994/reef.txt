@@ -8,3 +8,16 @@ TRITON - M
 JAMES - M
 GRAHAM - M
 ANTON - M
+
+N: REEF V: is
+N: HE V: is
+N: IT V: is
+N: THAT V: parallels
+N: IT V: is
+N: PRESS V: compared
+N: GUNESEKERA V: established
+N: REEF V: earned
+N: REEF V: explores
+N: WHO V: learns
+N: IT V: shines
+N: GUNESEKERA V: tells

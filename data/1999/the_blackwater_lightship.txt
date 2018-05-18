@@ -8,3 +8,6 @@ DORA - F
 LILY - F
 HELEN - F
 DECLAN - M
+
+N: LIGHTSHIP V: tells
+N: THEY V: arrive

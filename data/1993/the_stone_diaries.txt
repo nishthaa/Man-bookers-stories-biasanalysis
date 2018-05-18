@@ -6,3 +6,17 @@ The Stone Diaries is one ordinary woman's story of her journey through life. Bor
 Characters:
 DAISY - F
 CAROL - F
+
+N: DIARIES V: is
+N: GOODWILL V: drifts
+N: DAISY V: attempts
+N: THAT V: is
+N: LIFE V: is
+N: SHE V: feels
+N: SHE V: listens
+N: SHE V: observes
+N: SHE V: becomes
+N: SHE V: discovers
+N: STRUGGLE V: is
+N: SHIELDS V: made
+N: SHE V: weaves

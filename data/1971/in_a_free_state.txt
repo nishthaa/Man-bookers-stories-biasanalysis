@@ -6,3 +6,11 @@ In the beginning it is just a car trip through Africa. Two English people--Bobby
 Characters:
 BOBBY - M
 LINDA - F
+
+N: IT V: is
+N: PEOPLE V: driving
+N: SQUALOR V: suggest
+N: PROTAGONISTS V: travel
+N: THEY V: find
+N: THEMSELVES V: crossing
+N: THAT V: separates

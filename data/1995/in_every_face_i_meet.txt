@@ -6,3 +6,5 @@ Set against the background of Nelson Mandela's release, IN EVERY FACE I MEET is 
 Characters:
 NELSON - M
 ANTHONY - M
+
+N: I V: meet

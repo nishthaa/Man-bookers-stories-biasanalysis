@@ -13,3 +13,23 @@ JULIAN - M
 SAM - M
 LIBOR - M
 TRESLOVE - M
+
+N: HE V: seen
+N: IT V: coming
+N: LIFE V: been
+N: TRESLOVE V: are
+N: THEY V: lost
+N: LIBOR V: are
+N: THEY V: dine
+N: IT V: ’s
+N: THREE V: remove
+N: THEY V: loved
+N: THEY V: fathered
+N: THEY V: prized
+N: YOU V: have
+N: TRESLOVE V: finds
+N: HE V: has
+N: IT V: ’s
+N: HE V: is
+N: QUESTION V: is
+N: NOVEL V: shows

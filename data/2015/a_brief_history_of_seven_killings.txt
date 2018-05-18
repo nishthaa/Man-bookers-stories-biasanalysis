@@ -8,3 +8,14 @@ Characters:
 BOB - M
 MARLEY - M
 MARLON - M
+
+N: ELECTION V: was
+N: MARLEY V: was
+N: GUNMEN V: stormed
+N: GUNS V: blazing
+N: ATTACK V: killed
+N: MARLEY V: go
+N: HE V: left
+N: HISTORY V: is
+N: NOVEL V: is
+N: THAT V: secure

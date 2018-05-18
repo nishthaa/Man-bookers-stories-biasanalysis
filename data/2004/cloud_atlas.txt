@@ -11,3 +11,21 @@ GOOSE - M
 ROBERT - M
 LUISA - F
 MITCHELL - M
+
+N: ATLAS V: begins
+N: WHO V: begins
+N: ACTION V: jumps
+N: FROBISHER V: contrives
+N: WHO V: has
+N: WE V: jump
+N: WHO V: stumbles
+N: THAT V: threatens
+N: NEOCAPITALISM V: run
+N: STORY V: end
+N: NARRATIVE V: boomerangs
+N: MITCHELL V: reveals
+N: CHARACTERS V: connect
+N: FATES V: intertwine
+N: SOULS V: drift
+N: ATLAS V: is
+N: THAT V: transcended

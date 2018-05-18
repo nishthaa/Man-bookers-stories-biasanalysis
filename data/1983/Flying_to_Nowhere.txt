@@ -6,3 +6,7 @@ John Fuller's first novel opens with the arrival of church agent Vane on a remot
 Characters:
 VANE - M
 ABBOT - M
+
+N: NOVEL V: opens
+N: HE V: is
+N: VANE V: looks

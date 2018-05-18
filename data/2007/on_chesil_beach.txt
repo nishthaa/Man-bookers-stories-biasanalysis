@@ -9,3 +9,15 @@ Characters:
 FLORENCE - F
 EDWARD - M
 IAN - M
+
+N: IT V: is
+N: FLORENCE V: is
+N: WHO V: dreams
+N: SHE V: create
+N: WHO V: wooed
+N: VIRGINS V: arrive
+N: THEY V: struggle
+N: ANXIETIES V: run
+N: THEY V: lie
+N: MCEWAN V: caught
+N: WORD V: spoken

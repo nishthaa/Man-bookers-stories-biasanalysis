@@ -5,3 +5,9 @@ Sabino - the outcast member of a rich mine-owning family - is renowned for his a
 
 Characters:
 SABINO - M
+
+N: HE V: agrees
+N: WHO V: attacking
+N: SABINO V: embarks
+N: IT V: is
+N: STRUGGLE V: lies

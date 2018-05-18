@@ -6,3 +6,11 @@ Patrick Doyle is a 29-year-old teacher in an ordinary school. Disaffected, frust
 Characters:
 PATRICK - M
 JAMES - M
+
+N: DOYLE V: is
+N: PATRICK V: begins
+N: DISAFFECTION V: is
+N: HE V: decides
+N: HE V: lives
+N: EXAMINATION V: lies
+N: THAT V: marked

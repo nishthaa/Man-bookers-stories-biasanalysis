@@ -6,3 +6,10 @@ Booker Prize Finalist, Daughters of the House is Michèle Roberts' acclaimed nov
 Characters:
 THERESE - F
 LEONIE - F
+
+N: FINALIST V: is
+N: DAUGHTERS V: is
+N: THÉRÈSE V: grow
+N: THEY V: find
+N: GIRLS V: weave
+N: THAT V: haunt

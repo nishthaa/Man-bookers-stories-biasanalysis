@@ -5,3 +5,7 @@ In the cabin of an ancient, stinking warship bound for Australia, a man writes a
 
 Characters:
 MAN - M
+
+N: MAN V: writes
+N: HE V: records
+N: CLERGYMAN V: attracts

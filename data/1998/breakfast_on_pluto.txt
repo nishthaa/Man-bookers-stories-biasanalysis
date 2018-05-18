@@ -7,3 +7,16 @@ Characters:
 PATRICK - M
 PUSSY - F
 WHISKERS - F
+
+N: BREAKFAST V: became
+N: MCCABE V: creates
+N: TROUBLES V: are
+N: LADYSHIP V: escaped
+N: SHE V: plies
+N: THAT V: fill
+N: BUSINESSMEN V: are
+N: THAT V: threaten
+N: IT V: is
+N: MASS V: builds
+N: BREAKFAST V: combines
+N: IMPACT V: reverberates

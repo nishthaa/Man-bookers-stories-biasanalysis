@@ -10,3 +10,22 @@ ELI - M
 CHARLIE - M
 HERMANN - M
 KERMIT - M
+
+N: NOVEL V: is
+N: ELI V: are
+N: BROTHERS V: have
+N: CHARLIE V: makes
+N: WHO V: stands
+N: ELI V: doubts
+N: THEY V: bicker
+N: THEY V: get
+N: WARM V: is
+N: WHO V: come
+N: WHICH V: make
+N: WHAT V: happens
+N: BROTHERS V: is
+N: IT V: is
+N: YOU V: tell
+N: YOU V: find
+N: WHAT V: happens
+N: IT V: is

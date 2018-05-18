@@ -7,3 +7,11 @@ The narrator, Azaro, is an abiku, a spirit child, who in the Yoruba tradition of
 Characters:
 BEN - M
 AZARO - M
+
+N: IT V: won
+N: ROAD V: become
+N: IT V: combines
+N: NARRATOR V: is
+N: LIFE V: is
+N: HE V: foresees
+N: HE V: tells

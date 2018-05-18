@@ -7,3 +7,11 @@ Characters:
 
 Margaret - F
 Elinor - F
+N: CHILD V: has
+N: SHE V: needs
+N: NOVEL V: offers
+N: LOVE V: are
+N: ’S V: begins
+N: WHO V: is
+N: SWEETHEART V: return
+N: DIVINING V: driving

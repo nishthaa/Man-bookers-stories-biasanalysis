@@ -6,3 +6,14 @@ Bradley Pearson, an unsuccessful novelist in his late fifties, has finally left 
 Characters:
 BRADLEY - M
 ARNOLD - M
+
+N: PEARSON V: left
+N: BRADLEY V: hopes
+N: FRIENDS V: dash
+N: WHO V: decided
+N: WHO V: infuriating
+N: WHO V: wants
+N: ACTION V: includes
+N: BRADLEY V: tries
+N: THAT V: casts
+N: THAT V: preceded

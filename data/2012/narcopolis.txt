@@ -7,3 +7,17 @@ Narcopolis is a rich, chaotic, hallucinatory dream of a novel that captures the 
 
 Characters:
 RASHID - M
+
+N: AIR V: is
+N: WOMAN V: leans
+N: HAIR V: falling
+N: ONE V: drifting
+N: PEOPLE V: say
+N: YOU V: introduce
+N: VENDORS V: hustle
+N: HOOKERS V: call
+N: PIMPS V: slouch
+N: VICTIMS V: are
+N: NARCOPOLIS V: is
+N: THAT V: captures
+N: IT V: is

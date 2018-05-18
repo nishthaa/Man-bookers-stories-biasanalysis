@@ -7,3 +7,13 @@ Characters:
 APRIL - F
 RUBY - F
 GREENRIDGE - M
+
+N: IT V: ’s
+N: HARLENCY V: is
+N: PARENTS V: run
+N: APRIL V: becomes
+N: PARENTS V: run
+N: WHO V: begins
+N: APRIL V: talk
+N: THEY V: believe
+N: GREENRIDGE V: is

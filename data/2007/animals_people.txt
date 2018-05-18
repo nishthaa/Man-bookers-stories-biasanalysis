@@ -13,3 +13,26 @@ MA - F
 FRANCI - F
 NISHA - F
 ELLI - F
+
+N: PEOPLE V: is
+N: IT V: is
+N: I V: used
+N: I V: remember
+N: PEOPLE V: say
+N: WHO V: knew
+N: I V: was
+N: I V: walked
+N: HE V: remember
+N: ANIMAL V: gone
+N: FOG V: blazed
+N: APOCALYPSE V: visited
+N: HE V: lives
+N: WHO V: raised
+N: IT V: be
+N: BARBER V: arrives
+N: HERSELF V: struggling
+N: SHE V: is
+N: PEOPLE V: illuminates
+N: IT V: is
+N: IT V: means
+N: THAT V: heal

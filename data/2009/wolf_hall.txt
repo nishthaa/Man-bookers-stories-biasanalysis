@@ -10,3 +10,17 @@ Characters:
 HENRY - M
 ANNE - F
 WOLSLEY - M
+
+N: ENGLAND V: is
+N: KING V: dies
+N: VIII V: wants
+N: POPE V: oppose
+N: QUEST V: destroys
+N: SON V: broken
+N: CROMWELL V: broken
+N: HE V: picks
+N: MAN V: is
+N: HE V: is
+N: HALL V: is
+N: THAT V: explores
+N: IT V: peels

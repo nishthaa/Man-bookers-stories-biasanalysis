@@ -7,3 +7,14 @@ Characters:
 ANNE - F
 LIAM - M
 VERONICA - F
+
+N: ENRIGHT V: is
+N: SHE V: delivers
+N: CHILDREN V: gathering
+N: SISTER V: collects
+N: SHE V: shares
+N: THAT V: happened
+N: ENRIGHT V: traces
+N: GATHERING V: is
+N: IT V: is
+N: MEMORIES V: warp

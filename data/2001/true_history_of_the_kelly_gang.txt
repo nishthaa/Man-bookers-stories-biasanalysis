@@ -6,3 +6,11 @@ In True History of the Kelly Gang, the legendary Ned Kelly speaks for himself, s
 CHARACTERS:
 NED - M
 KELLY - M
+
+N: KELLY V: speaks
+N: HE V: flees
+N: KELLY V: is
+N: BUSHRANGER V: is
+N: WHO V: was
+N: NED V: saw
+N: TALE V: is

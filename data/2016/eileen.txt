@@ -7,3 +7,10 @@ Characters:
 EILEEN - F
 RANDY - M
 REBECCA - F
+
+N: SEASON V: offers
+N: SHE V: fills
+N: JOHN V: arrives
+N: WHAT V: appears
+N: AFFECTION V: pulls
+N: THAT V: surpasses

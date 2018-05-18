@@ -8,3 +8,8 @@ In this wonderfully ingenious portrait of an art expert and collector of interna
 Characters:
 
 Francis - M
+N: CORNISH V: was
+N: EVENTS V: were
+N: THEY V: seemed
+N: DAVIES V: created
+N: IT V: is

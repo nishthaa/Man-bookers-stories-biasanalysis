@@ -7,3 +7,15 @@ Characters:
 SEBASTIAN - M
 BARRY - M
 WILLIE - M
+
+N: AUTHOR V: created
+N: DUNNE V: leaves
+N: HE V: plans
+N: HE V: encounters
+N: HE V: imagined
+N: WHO V: fight
+N: THAT V: grown
+N: HE V: finds
+N: HE V: knows
+N: HE V: rejoin
+N: BARRY V: renders

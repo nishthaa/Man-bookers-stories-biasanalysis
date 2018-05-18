@@ -6,3 +6,9 @@ Narrowly escaping an assassination attempt, Bern is abducted by sinister, anonym
 
 Characters:
 Bern - M
+N: SOMEONE V: is
+N: IT V: is
+N: WHO V: believe
+N: HE V: trust
+N: HE V: avert
+N: WHICH V: threatens

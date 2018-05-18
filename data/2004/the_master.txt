@@ -8,3 +8,15 @@ Henry James circulated in the grand parlours and palazzos of Europe, he was laud
 Characters:
 HENRY - M
 JAMES - M
+
+N: JAMES V: anticipates
+N: HE V: been
+N: PRODUCTION V: fails
+N: HE V: returns
+N: RESULT V: is
+N: MASTER V: captures
+N: GIFTS V: made
+N: IDENTITY V: remained
+N: JAMES V: circulated
+N: ATTEMPTS V: failed
+N: HE V: tried

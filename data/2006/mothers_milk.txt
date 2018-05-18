@@ -8,3 +8,12 @@ EDWARD - M
 ROBERT - M
 PATRICK - M
 MARY - F
+
+N: HE V: become
+N: AUBYN V: creates
+N: THAT V: examines
+N: FAMILY V: featured
+N: WHO V: provides
+N: AUBYN V: examines
+N: THAT V: entangle
+N: VESTIGE V: is

@@ -8,3 +8,15 @@ PATRICK - M
 SINBAD - M
 KEVIN - M
 CHARLES - M
+
+N: IT V: is
+N: CLARKE V: is
+N: HE V: loves
+N: HE V: stand
+N: FRIEND V: is
+N: NAMES V: are
+N: THEY V: play
+N: ANYONE V: help
+N: LEAVY V: trying
+N: PADDY V: sees
+N: HE V: understands

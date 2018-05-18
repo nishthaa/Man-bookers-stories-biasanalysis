@@ -11,3 +11,17 @@ WATTS - M
 CHARLES - M
 MATILDA - F
 PIP - M
+
+N: THAT V: is
+N: JONES V: weaves
+N: THAT V: celebrates
+N: TEACHERS V: fled
+N: MAN V: chooses
+N: WHO V: sweeps
+N: IMAGINATION V: provide
+N: CONTOURS V: become
+N: WATTS V: says
+N: PERSON V: forgets
+N: REST V: come
+N: THAT V: bring
+N: IMAGINATION V: be

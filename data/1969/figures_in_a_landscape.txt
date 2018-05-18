@@ -5,3 +5,8 @@ Two soldiers have escaped from a column of prisoners of war, with one gun and a 
 Safety is 400 miles away, across savage country but all the time they are pursued by a helicopter which hovers overhead.
 
 Characters:
+
+N: SOLDIERS V: escaped
+N: RESOURCE V: being
+N: SAFETY V: is
+N: WHICH V: hovers

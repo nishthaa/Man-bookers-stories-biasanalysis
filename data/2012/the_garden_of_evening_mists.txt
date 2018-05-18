@@ -10,3 +10,22 @@ YUN - F
 LING - F
 ARITOMO - M
 MAGNUS - M
+
+N: IT V: 's
+N: TEOH V: seeks
+N: SHE V: grew
+N: SHE V: discovers
+N: LING V: seeks
+N: WHO V: died
+N: MONSOON V: comes
+N: SHE V: design
+N: MONTHS V: pass
+N: LING V: finds
+N: HERSELF V: drawn
+N: GARDEN V: is
+N: HE V: come
+N: IT V: is
+N: FRIEND V: seems
+N: LEGEND V: is
+N: IT V: have
+N: LING V: managed

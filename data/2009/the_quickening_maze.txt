@@ -11,3 +11,9 @@ JOHN - M
 CLARE - M
 ALFRED - M
 MATTHEW - M
+
+N: ASYLUM V: is
+N: CLARE V: finds
+N: POET V: moves
+N: FOULDS V: depicts
+N: MAZE V: is

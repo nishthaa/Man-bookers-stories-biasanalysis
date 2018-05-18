@@ -6,3 +6,15 @@ Sacred Hunger is a stunning and engrossing exploration of power, domination, and
 Characters:
 BARRY - M
 WILLIAM - M
+
+N: HUNGER V: is
+N: ENGLAND V: entered
+N: UNSWORTH V: follows
+N: WHO V: needs
+N: HE V: is
+N: WHO V: sails
+N: HE V: lost
+N: HE V: loved
+N: VOYAGE V: meets
+N: DISEASE V: spreads
+N: SAILORS V: set

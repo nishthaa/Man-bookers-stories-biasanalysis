@@ -5,3 +5,8 @@ It is 1950 and Stella has been taken on as assistant stage manager for a Liverpo
 
 Characters:
 STELLA - F
+
+N: IT V: is
+N: SHE V: becomes
+N: O'HARA V: arrives
+N: DRAMA V: unfolds

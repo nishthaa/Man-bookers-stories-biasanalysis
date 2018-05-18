@@ -6,3 +6,12 @@ According to family legend, David Pittagors died as a result of a duel. His deat
 Characters:
 DAVID - M
 GRAND-DAUGHTER - F
+
+N: PITTAGORS V: died
+N: DEATH V: is
+N: DAUGHTER V: constructs
+N: SHE V: follows
+N: THEY V: emigrate
+N: THEY V: find
+N: WE V: see
+N: MEMORY V: weaves

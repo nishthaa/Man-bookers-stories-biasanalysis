@@ -10,3 +10,8 @@ BERNARD - M
 MORRIE - M
 SOLOMON- M
 MOSES - M
+
+N: BERGER V: is
+N: QUEST V: leads
+N: BERNARD V: fought
+N: BROTHER V: followed

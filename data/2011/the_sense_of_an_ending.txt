@@ -8,3 +8,17 @@ The Sense of an Ending is the story of one man coming to terms with the mutable 
 Characters:
 TONY - M
 ADRIAN - M
+
+N: THAT V: have
+N: READER V: immersed
+N: WEBSTER V: met
+N: THEY V: navigate
+N: ADRIAN V: was
+N: THEY V: swore
+N: TONY V: is
+N: HE V: tried
+N: MEMORY V: is
+N: IT V: throw
+N: LETTER V: is
+N: SENSE V: is
+N: IT V: is

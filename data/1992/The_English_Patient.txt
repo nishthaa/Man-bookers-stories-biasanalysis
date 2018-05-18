@@ -8,3 +8,6 @@ MICHAEL - M
 HANA - F
 CARAVAGGIO - M
 KIP - M
+
+N: WHO V: lies
+N: MEMORIES V: illuminate

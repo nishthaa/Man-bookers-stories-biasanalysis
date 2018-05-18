@@ -6,3 +6,7 @@ When Vic Wilcox, MD of Pringle's engineering works, meets English lecturer Dr Ro
 Characters:
 VIC - M
 ROBYN - F
+
+N: WILCOX V: meets
+N: SPARKS V: fly
+N: PARTIES V: make

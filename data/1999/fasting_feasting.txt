@@ -6,3 +6,12 @@ A wonderful novel in two parts, moving from the heart of a close-knit Indian hou
 Characters:
 UMA - F
 ARUN - M
+
+N: IT V: is
+N: WHO V: suffer
+N: DAUGHTER V: lives
+N: FAMILY V: is
+N: UMA V: comes
+N: THAT V: arranged
+N: ARUN V: goes
+N: WOMEN V: appear

@@ -5,3 +5,9 @@ In the shadow of Auschwitz, a flamboyant German industrialist grew into a living
 
 Characters:
 OSCAR - M
+
+N: INDUSTRIALIST V: grew
+N: HE V: was
+N: HE V: became
+N: THIS V: is
+N: WHO V: risked

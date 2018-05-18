@@ -7,3 +7,36 @@ Characters:
 THOMAS - M
 JULY - F
 KITTY - F
+
+N: YOU V: know
+N: SON V: tells
+N: WHO V: publishing
+N: IT V: is
+N: I V: am
+N: THAT V: followed
+N: JULY V: is
+N: WHO V: lives
+N: IT V: is
+N: THAT V: is
+N: SHE V: was
+N: WAR V: raged
+N: SHE V: was
+N: SON V: says
+N: I V: convey
+N: STORY V: tells
+N: THAT V: worked
+N: WHO V: owned
+N: ME V: list
+N: WHAT V: befalls
+N: YOU V: peruse
+N: SON V: suggests
+N: I V: write
+N: IT V: is
+N: WHO V: lived
+N: HE V: wishes
+N: ME V: pen
+N: READER V: decide
+N: THIS V: is
+N: THEY V: care
+N: I V: tell
+N: THEM V: read

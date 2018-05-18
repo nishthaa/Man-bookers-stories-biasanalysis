@@ -8,3 +8,11 @@ EVA - F
 ISEULT - F
 ERIC - M
 CONSTANTINE - M
+
+N: EVA V: found
+N: GUARDIAN V: assumes
+N: ALL V: 's
+N: NATURE V: clicked
+N: EVA V: plotting
+N: SHE V: sets
+N: SHE V: leaves

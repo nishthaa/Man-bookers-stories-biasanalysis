@@ -6,3 +6,9 @@ In this series of interweaving stories, Munro recreates the evolving bond betwee
 Characters:
 FLO - F
 ROSE - F
+
+N: MUNRO V: recreates
+N: ONE V: is
+N: OTHER V: is
+N: WHO V: leaves
+N: SHE V: grew

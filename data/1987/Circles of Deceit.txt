@@ -7,3 +7,9 @@ Characters
 
 Clio - M
 Helen - F
+N: WHO V: specializes
+N: FIGURES V: are
+N: THEY V: confound
+N: AGONY V: is
+N: COPYIST V: transcribes
+N: PAST V: keeps

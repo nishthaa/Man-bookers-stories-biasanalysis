@@ -7,3 +7,10 @@ Characters:
 SAI - F
 BIJU - M
 KIRAN - F
+
+N: WHO V: wants
+N: THOUGHTS V: are
+N: WHO V: hopscotching
+N: CHARACTERS V: face
+N: THAT V: illuminate
+N: IT V: collides

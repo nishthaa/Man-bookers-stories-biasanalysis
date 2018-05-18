@@ -6,3 +6,7 @@ In this remarkable detective novel Peter Ackroyd investigates the death of Thoma
 Characters:
 
 Thomas - M
+N: ACKROYD V: investigates
+N: LIFE V: ended
+N: HE V: weaves
+N: THEY V: find

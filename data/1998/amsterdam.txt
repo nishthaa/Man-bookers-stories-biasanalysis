@@ -8,3 +8,8 @@ MOLLY - F
 CLIVE - M
 VERNON - M
 JULIAN - M
+
+N: LANE V: had
+N: CLIVE V: meet
+N: THEY V: make
+N: THAT V: have

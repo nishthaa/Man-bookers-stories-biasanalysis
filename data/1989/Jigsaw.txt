@@ -7,3 +7,8 @@ Characters:
 BILLI - F
 MARIA - F
 ALDOUS - M
+
+N: NOVEL V: walks
+N: IT V: picks
+N: LEGACY V: leaves
+N: NARRATOR V: tells

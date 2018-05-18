@@ -8,3 +8,19 @@ Seamus Deane has created a luminous tale about how childhood fear turns into fan
 Characters:
 EDDIE - M
 DEANE - M
+
+N: NOVEL V: is
+N: NARRATOR V: grows
+N: HE V: wants
+N: BOY V: listens
+N: THAT V: surrounds
+N: TRUTH V: spreads
+N: IT V: engulfs
+N: HE V: listens
+N: FIELD V: reveals
+N: GULLS V: fly
+N: WORLD V: unfolds
+N: SISTER V: walking
+N: SOMEONE V: sobbing
+N: DEANE V: created
+N: FEAR V: turns

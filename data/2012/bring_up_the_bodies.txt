@@ -11,3 +11,15 @@ KATHERINE - F
 THOMAS - M
 JANE - F
 HILARY - F
+
+N: HE V: battled
+N: SHE V: failed
+N: KATHERINE V: dies
+N: ANNE V: stands
+N: CROMWELL V: is
+N: DEMURE V: stands
+N: ANNE V: yield
+N: MANTEL V: bring
+N: BRING V: follows
+N: CROMWELL V: ally
+N: HE V: pay

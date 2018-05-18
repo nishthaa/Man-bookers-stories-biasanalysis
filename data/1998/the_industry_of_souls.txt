@@ -7,3 +7,15 @@ Now, on the day of his 80th birthday, Russia has changed. Communism has evaporat
 Characters:
 ALEXANDER - M
 ALEX - M
+
+N: INDUSTRY V: is
+N: HE V: finds
+N: HE V: has
+N: HE V: become
+N: RUSSIA V: changed
+N: COMMUNISM V: evaporated
+N: INFORMATION V: come
+N: ALEX V: is
+N: IT V: ends
+N: HIS V: having
+N: CLIMAX V: shattering

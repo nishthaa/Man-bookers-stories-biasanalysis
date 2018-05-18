@@ -5,3 +5,9 @@ As every schoolboy knows, you can fit the whole of England on the Isle of Wight.
 
 Characters:
 JACK - M
+
+N: SCHOOLBOY V: knows
+N: YOU V: fit
+N: PITMAN V: takes
+N: TOURISTS V: are
+N: HE V: constructs

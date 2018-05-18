@@ -8,3 +8,9 @@ Characters:
 Kerewin - F
 Joe - M 
 Simon - M
+N: WHO V: tries
+N: SHE V: falls
+N: WHO V: rescued
+N: HULME V: created
+N: WHAT V: is
+N: PEOPLE V: is

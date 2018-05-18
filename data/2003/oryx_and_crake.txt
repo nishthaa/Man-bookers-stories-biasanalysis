@@ -8,3 +8,11 @@ JIMMY - M
 CRAKE - M
 ORYX - F
 MARGARET - F
+
+N: ORYX V: is
+N: HE V: be
+N: THEY V: loved
+N: THAT V: was
+N: CORPORATIONS V: took
+N: ATWOOD V: projects
+N: THAT V: is

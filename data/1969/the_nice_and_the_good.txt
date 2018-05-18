@@ -6,3 +6,7 @@ Novel revolves round a happily married couple, Kate and Octavian, and the friend
 Characters:
 KATE - F
 OCTAVIAN - M
+
+N: NOVEL V: revolves
+N: NICE V: leads
+N: COUPLES V: sort

@@ -8,3 +8,7 @@ Characters:
 PHILIP - M
 MALCOLM - M
 KATHERINE - F
+
+N: CLEMENCY V: is
+N: CLEMENCY V: charts
+N: CLEMENCY V: is

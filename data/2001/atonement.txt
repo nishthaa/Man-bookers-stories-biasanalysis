@@ -7,3 +7,9 @@ Characters:
 BRIONY - F
 CECILIA - F
 ROBBIE - M
+
+N: — V: brings
+N: THAT V: change
+N: IT V: follows
+N: ATONEMENT V: engages
+N: THAT V: mark

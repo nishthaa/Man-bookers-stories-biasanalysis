@@ -6,3 +6,17 @@ Ambitious, rich, and compassionate, The Lives of Others anatomizes the soul of a
 
 Characters:
 SUPRATIK - M
+
+N: PATRIARCH V: preside
+N: SANDS V: shifting
+N: SET V: occupies
+N: THIS V: is
+N: CHASM V: been
+N: WHO V: have
+N: WHO V: have
+N: GRANDCHILD V: becomes
+N: THAT V: catalyzes
+N: LIVES V: anatomizes
+N: IT V: unfolds
+N: IT V: questions
+N: IT V: is

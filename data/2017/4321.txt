@@ -10,3 +10,15 @@ ROSE - F
 STANLEY - M
 AMY - F
 PAUL - M
+
+N: LIFE V: take
+N: FERGUSONS V: go
+N: WHO V: are
+N: FORTUNES V: diverge
+N: FERGUSON V: falls
+N: AMY V: have
+N: READERS V: take
+N: PLOT V: rushes
+N: AUSTER V: written
+N: READERS V: seen
+N: 1 V: is

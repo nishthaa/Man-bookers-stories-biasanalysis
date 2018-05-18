@@ -6,3 +6,10 @@ When an innocent trip to see the play Peter Pan gives Kitty's four brothers an e
 Characters:
 PETER - M
 KITTY - F
+
+N: PAN V: gives
+N: SHE V: finds
+N: CHILDREN V: become
+N: THAT V: was
+N: SECRETS V: come
+N: THAT V: leaves

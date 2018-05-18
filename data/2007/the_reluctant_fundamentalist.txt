@@ -8,3 +8,13 @@ But in the wake of September 11, Changez finds his position in his adopted city 
 Characters:
 CHANGEZ - M
 ERICA - F
+
+N: DUSK V: deepens
+N: HE V: begins
+N: THAT V: brought
+N: CHANGEZ V: living
+N: HE V: thrives
+N: ROMANCE V: promises
+N: CHANGEZ V: finds
+N: POSITION V: overturned
+N: IDENTITY V: is

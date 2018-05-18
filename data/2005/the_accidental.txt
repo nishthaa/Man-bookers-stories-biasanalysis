@@ -12,3 +12,28 @@ EVE - F
 MICHAEL - M
 ASTRID - F
 MAGNUS - M
+
+N: THIRTYSOMETHING V: shows
+N: SMARTS V: renting
+N: SHE V: talks
+N: SHE V: tells
+N: SHE V: stays
+N: SMART V: thinks
+N: AMBER V: is
+N: HUSBAND V: sleeping
+N: MICHAEL V: knows
+N: CAR V: broke
+N: ASTRID V: thinks
+N: SHE V: ’s
+N: MAGNUS V: thinks
+N: SHE V: ’s
+N: AMBER V: insinuates
+N: QUESTIONS V: drop
+N: SHE V: is
+N: SMARTS V: begin
+N: EVE V: banishes
+N: AMBER V: disappears
+N: THEY V: discover
+N: THEY V: return
+N: ACCIDENTAL V: is
+N: THAT V: explores

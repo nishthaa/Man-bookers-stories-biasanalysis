@@ -6,3 +6,11 @@ On a rainy Sunday in January, the recently widowed Mrs. Palfrey arrives at the C
 Characters:
 PALFREY - F
 LUDO - M
+
+N: PALFREY V: arrives
+N: SHE V: spend
+N: RESIDENTS V: are
+N: LIPS V: stiffened
+N: THEY V: fight
+N: PALFREY V: strikes
+N: OLD V: fall

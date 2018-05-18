@@ -6,3 +6,11 @@ In J. L. Carr's deeply charged poetic novel, Tom Birkin, a veteran of the Great 
 Characters:
 TOM - M
 BIRKIN - M
+
+N: HE V: is
+N: BIRKIN V: finds
+N: SUMMER V: ends
+N: WORK V: done
+N: BIRKIN V: leave
+N: HE V: reflects
+N: HE V: finds

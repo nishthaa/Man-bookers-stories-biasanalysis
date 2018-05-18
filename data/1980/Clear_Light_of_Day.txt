@@ -9,3 +9,13 @@ BIMLA - F
 BABA - M
 TARA - F
 RAJA - M
+
+N: SET V: is
+N: WHO V: grown
+N: BIMLA V: is
+N: WHO V: lives
+N: SHE V: cares
+N: TARA V: is
+N: RAJA V: is
+N: TARA V: returns
+N: THAT V: is

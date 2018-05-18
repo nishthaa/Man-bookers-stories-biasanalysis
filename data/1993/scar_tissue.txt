@@ -4,3 +4,9 @@ Published By: Farrar, Straus and Giroux
 The unnamed narrator is a young Englishman whose mother is dying of Alzheimer’s disease. Her husband dies brokenhearted shortly after her, and the narrator’s wife grows more and more distant from him in the midst of all this. The narrator’s brother, a neurologist, resists his brother’s attempt to find some meaning in these tragedies and asserts that no redemption is possible in the face of death.
 
 Characters:
+
+N: NARRATOR V: is
+N: MOTHER V: dying
+N: HUSBAND V: dies
+N: WIFE V: grows
+N: REDEMPTION V: is

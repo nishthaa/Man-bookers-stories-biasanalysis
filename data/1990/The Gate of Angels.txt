@@ -6,3 +6,6 @@ In 1912, rational Fred Fairly, one of Cambridge's best and brightest, crashes hi
 Characters:
 FRED - M
 DAISY - F
+
+N: FAIRLY V: crashes
+N: FRED V: take

@@ -8,3 +8,14 @@ Characters:
 KENNETH - M
 DON - M
 CARLO - M
+
+N: BURGESS V: created
+N: MEN V: are
+N: WHO V: represent
+N: WHO V: outlived
+N: CAMPANATI V: are
+N: WHO V: rises
+N: EACH V: pursues
+N: RELATIONSHIP V: becomes
+N: THAT V: incorporates
+N: THAT V: captivate

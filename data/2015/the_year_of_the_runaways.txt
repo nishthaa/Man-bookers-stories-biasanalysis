@@ -12,3 +12,20 @@ TARLOCHAN - M
 AVTAR - M
 RANDEEP - M
 NARINDER - F
+
+N: MEN V: come
+N: THEY V: hope
+N: THEY V: have
+N: WHAT V: awaits
+N: AVTAR V: are
+N: FAMILIES V: sinking
+N: RANDEEP V: has
+N: CUPBOARDS V: are
+N: AGENTS V: surprise
+N: SHE V: is
+N: STORY V: is
+N: YEAR V: unfolds
+N: DESTINIES V: become
+N: THEY V: foreseen
+N: IT V: means
+N: IT V: costs

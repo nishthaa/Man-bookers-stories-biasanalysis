@@ -7,3 +7,13 @@ Set against an enchanting London backdrop, Murdoch’s complex family drama is a
 Characters:
 BRUNO - M
 MILES - M
+
+N: BRUNO V: knows
+N: HE V: is
+N: ONE V: is
+N: MARRIAGE V: drove
+N: MILES V: comes
+N: BRUNO V: confront
+N: FAMILY V: overcome
+N: THAT V: grew
+N: DRAMA V: is

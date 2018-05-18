@@ -10,3 +10,12 @@ PHILIP - M
 PETER - M
 MASON - F
 JESUS - M
+
+N: THIS V: is
+N: WHO V: was
+N: SIMON V: appears
+N: MASON V: weaves
+N: SHE V: demonstrates
+N: MAGUS V: mixes
+N: HE V: travels
+N: ALL V: see

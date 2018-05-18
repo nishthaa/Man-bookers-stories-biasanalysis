@@ -10,3 +10,8 @@ GEORGE - M
 MYRTLE - F
 POTTER - M
 POMPEY - M
+
+N: HARDY V: offer
+N: ALL V: driven
+N: BAINBRIDGE V: exposes
+N: SHE V: reveals
