@@ -14,7 +14,6 @@ for i in range(0, 25):
                     count = count + 1
                     if count>3:
                         list_words = l.split(" ")
-                        print(list_words)
                         for word in list_words:
                             punctuations = '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
                             word_p = ""
@@ -25,12 +24,10 @@ for i in range(0, 25):
                                 for fem_name in female:
                                     if fem_name.strip() == word_p.lower():
                                         f.write(word_p.upper() + " - " + "F" + "\n")
-                                        print(word_p.upper() + " - " + "F" + "\n")
                             with open("m.txt") as male:
                                 for m_name in male:
                                     if m_name.strip() == word_p.lower():
                                         f.write(word_p.upper() + " - " + "M" + "\n")
-                                        print(word_p.upper() + " - " + "M" + "\n")
         except IOError as exc:
             if exc.errno != errno.EISDIR:
                 raise
