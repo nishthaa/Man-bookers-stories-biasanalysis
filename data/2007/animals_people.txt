@@ -1,4 +1,4 @@
-Title: Animal’s People
+G:   Title: Animal’s People
 Author: Indra Sinha
 Published By: Simon & Schuster
 Profane, piercingly honest, and scathingly funny, Animal's People is the stunning tale of an unforgettable character: Animal, a young man whose back was twisted beyond repair in an industrial accident. It is a dark world, shot through with flashes of joy and lunacy.
@@ -14,25 +14,25 @@ FRANCI - F
 NISHA - F
 ELLI - F
 
-N: PEOPLE V: is
-N: IT V: is
-N: I V: used
-N: I V: remember
-N: PEOPLE V: say
-N: WHO V: knew
-N: I V: was
-N: I V: walked
-N: HE V: remember
-N: ANIMAL V: gone
-N: FOG V: blazed
-N: APOCALYPSE V: visited
-N: HE V: lives
-N: WHO V: raised
-N: IT V: be
-N: BARBER V: arrives
-N: HERSELF V: struggling
-N: SHE V: is
-N: PEOPLE V: illuminates
-N: IT V: is
-N: IT V: means
-N: THAT V: heal
+G:   N: PEOPLE V: is
+G:   N: IT V: is
+G:   N: I V: used
+G:   N: I V: remember
+G:   N: PEOPLE V: say
+G:   N: WHO V: knew
+G:   N: I V: was
+G:   N: I V: walked
+G: M N: HE V: remember
+G:   N: ANIMAL V: gone
+G:   N: FOG V: blazed
+G:   N: APOCALYPSE V: visited
+G: M N: HE V: lives
+G:   N: WHO V: raised
+G:   N: IT V: be
+G:   N: BARBER V: arrives
+G: F N: HERSELF V: struggling
+G: F N: SHE V: is
+G:   N: PEOPLE V: illuminates
+G:   N: IT V: is
+G:   N: IT V: means
+G:   N: THAT V: heal

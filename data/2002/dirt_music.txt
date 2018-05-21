@@ -12,21 +12,21 @@ GEORGIE - F
 JIM - M
 TIM - M
 
-N: FOX V: makes
-N: HE V: grew
-N: HE V: turned
-N: CHANCE V: brought
-N: WHO V: loathes
-N: GEORGIE V: encounters
-N: NEITHER V: call
-N: THEY V: stay
-N: IT V: is
-N: IT V: is
-N: MUSIC V: is
-N: MUSIC V: is
-N: FOX V: tells
-N: YOU V: play
-N: LUTHER V: escape
-N: HE V: discovers
-N: MUSIC V: resonates
-N: IT V: confirms
+G: M N: LUTHER V: makes
+G: M N: HE V: grew
+G: M N: HE V: turned
+G:   N: CHANCE V: brought
+G:   N: WHO V: loathes
+G: F N: GEORGIE V: encounters
+G:   N: NEITHER V: call
+G:   N: THEY V: stay
+G:   N: IT V: is
+G:   N: IT V: is
+G:   N: MUSIC V: is
+G:   N: MUSIC V: is
+G: M N: LUTHER V: tells
+G:   N: YOU V: play
+G: M N: LUTHER V: escape
+G: M N: HE V: discovers
+G:   N: MUSIC V: resonates
+G:   N: IT V: confirms

@@ -9,21 +9,21 @@ LOWELL - M
 FERN - F
 ROSEMARY - F
 
-N: WHO V: begins
-N: SHE V: has
-N: I V: spent
-N: SHE V: tells
-N: IT V: going
-N: I V: share
-N: I V: tell
-N: FERN V: was
-N: YOU V: thinking
-N: I V: known
-N: SHE V: was
-N: I V: loved
-N: ROSEMARY V: was
-N: SHE V: 's
-N: SHE V: guides
-N: SHE V: dangled
-N: THAT V: hidden
-N: ROSEMARY V: is
+G:   N: WHO V: begins
+G: F N: SHE V: has
+G:   N: I V: spent
+G: F N: SHE V: tells
+G:   N: IT V: going
+G:   N: I V: share
+G:   N: I V: tell
+G: F N: FERN V: was
+G:   N: YOU V: thinking
+G:   N: I V: known
+G: F N: SHE V: was
+G:   N: I V: loved
+G: F N: ROSEMARY V: was
+G: F N: SHE V: 's
+G: F N: SHE V: guides
+G: F N: SHE V: dangled
+G:   N: THAT V: hidden
+G: F N: ROSEMARY V: is

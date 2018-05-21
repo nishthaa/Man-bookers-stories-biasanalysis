@@ -8,14 +8,14 @@ SEBASTIAN - M
 BARRY - M
 WILLIE - M
 
-N: AUTHOR V: created
-N: DUNNE V: leaves
-N: HE V: plans
-N: HE V: encounters
-N: HE V: imagined
-N: WHO V: fight
-N: THAT V: grown
-N: HE V: finds
-N: HE V: knows
-N: HE V: rejoin
-N: BARRY V: renders
+G:   N: AUTHOR V: created
+G: M N: WILLIE V: leaves
+G: M N: HE V: plans
+G: M N: HE V: encounters
+G: M N: HE V: imagined
+G:   N: WHO V: fight
+G:   N: THAT V: grown
+G: M N: HE V: finds
+G: M N: HE V: knows
+G: M N: HE V: rejoin
+G: M N: BARRY V: renders

@@ -5,5 +5,5 @@ In desperate financial straits, a father sells his three children into slavery. 
 
 Characters:
 
-N: FATHER V: sells
-N: LIVES V: lead
+G: M N: FATHER V: sells
+G:   N: LIVES V: lead

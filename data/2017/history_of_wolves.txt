@@ -11,16 +11,16 @@ PAUL - M
 PATRA - F
 LEO - M
 
-N: LINDA V: lives
-N: SHE V: are
-N: OTHERS V: left
-N: SHE V: grown
-N: SHE V: notices
-N: SHE V: starts
-N: WHO V: is
-N: SHE V: feels
-N: THAT V: missing
-N: LEO V: is
-N: HE V: returns
-N: SHE V: struggles
-N: WHICH V: have
+G: F N: LINDA V: lives
+G: F N: SHE V: are
+G:   N: OTHERS V: left
+G: F N: SHE V: grown
+G: F N: SHE V: notices
+G: F N: SHE V: starts
+G:   N: WHO V: is
+G: F N: SHE V: feels
+G:   N: THAT V: missing
+G: M N: LEO V: is
+G: M N: HE V: returns
+G: F N: SHE V: struggles
+G:   N: WHICH V: have

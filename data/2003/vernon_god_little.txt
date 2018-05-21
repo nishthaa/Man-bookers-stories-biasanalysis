@@ -9,12 +9,12 @@ Characters:
 VERNON - M
 GREGORY - M
 
-N: LITTLE V: has
-N: HE V: assumes
-N: HE V: see
-N: BACKWATER V: is
-N: EYES V: turn
-N: MEDIA V: lead
-N: HE V: flees
-N: VERNON V: conceives
-N: THAT V: calls
+G: M N: VERNON V: has
+G: M N: HE V: assumes
+G: M N: HE V: see
+G:   N: BACKWATER V: is
+G:   N: EYES V: turn
+G:   N: MEDIA V: lead
+G: M N: HE V: flees
+G: M N: VERNON V: conceives
+G:   N: THAT V: calls

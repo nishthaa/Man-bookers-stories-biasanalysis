@@ -8,12 +8,12 @@ DAVID - M
 LURIE - M
 WILL - M
 
-N: LURIE V: believes
-N: HE V: created
-N: HE V: lives
-N: HE V: teaches
-N: AGE V: diminished
-N: HE V: considers
-N: LURIE V: seduces
-N: HE V: sets
-N: THAT V: shatter
+G: M N: LURIE V: believes
+G: M N: HE V: created
+G: M N: HE V: lives
+G: M N: HE V: teaches
+G:   N: AGE V: diminished
+G: M N: HE V: considers
+G: M N: LURIE V: seduces
+G: M N: HE V: sets
+G:   N: THAT V: shatter

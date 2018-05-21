@@ -9,15 +9,14 @@ Characters:
 DARLING - F
 CHIPO - F
 
-N: DARLING V: is
-N: SHE V: navigate
-N: DARLING V: steal
-N: SCHOOL V: closed
-N: FATHERS V: left
-N: DARLING V: has
-N: SHE V: has
-N: SHE V: travels
-N: OPTIONS V: are
-N: DEBUT V: calls
-N: WHO V: come
-N: SHE V: tells
+G: F N: DARLING V: is
+G: F N: SHE V: navigate
+G: F N: DARLING V: steal
+G:   N: SCHOOL V: closed
+G: M N: FATHERS V: left
+G: F N: DARLING V: has
+G: F N: SHE V: has
+G: F N: SHE V: travels
+G:   N: OPTIONS V: are
+G:   N: WHO V: come
+G: F N: SHE V: tells

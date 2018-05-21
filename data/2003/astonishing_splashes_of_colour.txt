@@ -7,9 +7,8 @@ Characters:
 PETER - M
 KITTY - F
 
-N: PAN V: gives
-N: SHE V: finds
-N: CHILDREN V: become
-N: THAT V: was
-N: SECRETS V: come
-N: THAT V: leaves
+G: F N: SHE V: finds
+G:   N: CHILDREN V: become
+G:   N: THAT V: was
+G:   N: SECRETS V: come
+G:   N: THAT V: leaves

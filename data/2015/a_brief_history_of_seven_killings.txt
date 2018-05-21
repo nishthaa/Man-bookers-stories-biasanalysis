@@ -9,13 +9,13 @@ BOB - M
 MARLEY - M
 MARLON - M
 
-N: ELECTION V: was
-N: MARLEY V: was
-N: GUNMEN V: stormed
-N: GUNS V: blazing
-N: ATTACK V: killed
-N: MARLEY V: go
-N: HE V: left
-N: HISTORY V: is
-N: NOVEL V: is
-N: THAT V: secure
+G:   N: ELECTION V: was
+G: M N: MARLEY V: was
+G: M N: GUNMEN V: stormed
+G:   N: GUNS V: blazing
+G:   N: ATTACK V: killed
+G: M N: MARLEY V: go
+G: M N: HE V: left
+G:   N: HISTORY V: is
+G:   N: NOVEL V: is
+G:   N: THAT V: secure

@@ -14,30 +14,30 @@ JEROME - M
 VICTORIA - F
 MONTY - M
 
-N: BELSEY V: is
-N: WHO V: like
-N: WHO V: resembles
-N: SHE V: was
-N: CHILDREN V: pursue
-N: ZORA V: believes
-N: INTELLECTUALS V: redeem
-N: JEROME V: struggles
-N: HOWARD V: feels
-N: ACTS V: are
-N: HE V: has
-N: JEROME V: falls
-N: FAMILIES V: find
-N: THEMSELVES V: thrown
-N: THEY V: register
-N: THAT V: sees
-N: WHICH V: underpin
-N: YOU V: choose
-N: YOU V: love
-N: YOU V: love
-N: YOU V: believe
-N: YOU V: claim
-N: THING V: is
-N: YOU V: go
-N: NOVEL V: is
-N: IT V: is
-N: YOU V: expect
+G: M N: BELSEY V: is
+G:   N: WHO V: like
+G:   N: WHO V: resembles
+G: F N: SHE V: was
+G:   N: CHILDREN V: pursue
+G: F N: ZORA V: believes
+G:   N: INTELLECTUALS V: redeem
+G: M N: JEROME V: struggles
+G: M N: HOWARD V: feels
+G:   N: ACTS V: are
+G: M N: HE V: has
+G: M N: JEROME V: falls
+G:   N: FAMILIES V: find
+G:   N: THEMSELVES V: thrown
+G:   N: THEY V: register
+G:   N: THAT V: sees
+G:   N: WHICH V: underpin
+G:   N: YOU V: choose
+G:   N: YOU V: love
+G:   N: YOU V: love
+G:   N: YOU V: believe
+G:   N: YOU V: claim
+G:   N: THING V: is
+G:   N: YOU V: go
+G:   N: NOVEL V: is
+G:   N: IT V: is
+G:   N: YOU V: expect

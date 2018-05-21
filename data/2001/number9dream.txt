@@ -4,19 +4,15 @@ Published By: Sceptre
 David Mitchell follows his eerily precocious, globe-striding first novel, Ghostwritten, with a work that is in its way even more ambitious. In outward form, number9dream is a Dickensian coming-of-age journey: Young dreamer Eiji Miyake, from remote rural Japan, thrust out on his own by his sister’s death and his mother’s breakdown, comes to Tokyo in pursuit of the father who abandoned him. Stumbling around this strange, awesome city, he trips over and crosses—through a hidden destiny or just monstrously bad luck—a number of its secret power centers. Suddenly, the riddle of his father’s identity becomes just one of the increasingly urgent questions Eiji must answer. Why is the line between the world of his experiences and the world of his dreams so blurry? Why do so many horrible things keep happening to him? What is it about the number 9? To answer these questions, and ultimately to come to terms with his inheritance, Eiji must somehow acquire an insight into the workings of history and fate that would be rare in anyone, much less in a boy from out of town with a price on his head and less than the cost of a Beatles disc to his name.
 
 Characters:
-DAVID - M
 EIJI - M
 
-N: MITCHELL V: follows
-N: THAT V: is
-N: NUMBER9DREAM V: is
-N: MIYAKE V: thrust
-N: WHO V: abandoned
-N: HE V: trips
-N: RIDDLE V: becomes
-N: EIJI V: answer
-N: LINE V: is
-N: THINGS V: keep
-N: IT V: is
-N: EIJI V: acquire
-N: THAT V: be
+G: M N: EIJI V: thrust
+G:   N: WHO V: abandoned
+G: M N: HE V: trips
+G:   N: RIDDLE V: becomes
+G: M N: EIJI V: answer
+G:   N: LINE V: is
+G:   N: THINGS V: keep
+G:   N: IT V: is
+G: M N: EIJI V: acquire
+G:   N: THAT V: be

@@ -9,11 +9,11 @@ ROBERT - M
 PATRICK - M
 MARY - F
 
-N: HE V: become
-N: AUBYN V: creates
-N: THAT V: examines
-N: FAMILY V: featured
-N: WHO V: provides
-N: AUBYN V: examines
-N: THAT V: entangle
-N: VESTIGE V: is
+G: M N: HE V: become
+G: M N: EDWARD V: creates
+G:   N: THAT V: examines
+G:   N: FAMILY V: featured
+G:   N: WHO V: provides
+G: M N: EDWARD V: examines
+G:   N: THAT V: entangle
+G:   N: VESTIGE V: is

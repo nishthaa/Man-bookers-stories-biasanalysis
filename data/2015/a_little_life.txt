@@ -10,12 +10,12 @@ JB - M
 WILLEM - M
 JUDE - M
 
-N: LIFE V: is
-N: THEY V: 're
-N: WHO V: serves
-N: RELATIONSHIPS V: deepen
-N: EACH V: comes
-N: WHAT V: is
-N: HE V: fears
-N: HE V: be
-N: THAT V: define
+G:   N: LIFE V: is
+G:   N: THEY V: 're
+G:   N: WHO V: serves
+G:   N: RELATIONSHIPS V: deepen
+G:   N: EACH V: comes
+G:   N: WHAT V: is
+G: M N: HE V: fears
+G: M N: HE V: be
+G:   N: THAT V: define

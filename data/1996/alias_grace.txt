@@ -7,12 +7,12 @@ An up-and-coming expert in the burgeoning field of mental illness is engaged by 
 Characters:
 GRACE - F
 
-N: IT V: 's
-N: SOME V: believe
-N: GRACE V: is
-N: OTHERS V: think
-N: GRACE V: claims
-N: WHO V: seek
-N: HE V: listens
-N: SHE V: remember
-N: HE V: find
+G:   N: IT V: 's
+G:   N: SOME V: believe
+G: F N: GRACE V: is
+G:   N: OTHERS V: think
+G: F N: GRACE V: claims
+G:   N: WHO V: seek
+G: M N: HE V: listens
+G: F N: SHE V: remember
+G: M N: HE V: find

@@ -9,15 +9,15 @@ Characters:
 VIVIEN - F
 GRANT - F
 
-N: KOVACS V: grows
-N: WHO V: conceal
-N: SHE V: learns
-N: WHO V: wanders
-N: SHE V: loses
-N: IT V: is
-N: SHE V: defines
-N: SHE V: forges
-N: WHO V: wants
-N: HE V: exposes
-N: GRANT V: is
-N: CHARACTERS V: explore
+G: F N: VIVIEN V: grows
+G:   N: WHO V: conceal
+G: F N: SHE V: learns
+G:   N: WHO V: wanders
+G: F N: SHE V: loses
+G:   N: IT V: is
+G: F N: SHE V: defines
+G: F N: SHE V: forges
+G:   N: WHO V: wants
+G: M N: HE V: exposes
+G: F N: GRANT V: is
+G:   N: CHARACTERS V: explore

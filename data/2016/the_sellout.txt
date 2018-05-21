@@ -8,17 +8,17 @@ Fuelled by this deceit and the general disrepair of his hometown, the narrator s
 Characters:
 PAUL - M
 
-N: THAT V: sends
-N: SELLOUT V: showcases
-N: IT V: challenges
-N: I V: die
-N: I V: grown
-N: THAT V: been
-N: HE V: spent
-N: WORK V: result
-N: THAT V: solve
-N: HE V: realizes
-N: ALL V: is
-N: NARRATOR V: sets
-N: HE V: initiates
-N: WHICH V: lands
+G:   N: THAT V: sends
+G:   N: SELLOUT V: showcases
+G:   N: IT V: challenges
+G:   N: I V: die
+G:   N: I V: grown
+G:   N: THAT V: been
+G: M N: HE V: spent
+G:   N: WORK V: result
+G:   N: THAT V: solve
+G: M N: HE V: realizes
+G:   N: ALL V: is
+G:   N: NARRATOR V: sets
+G: M N: HE V: initiates
+G:   N: WHICH V: lands

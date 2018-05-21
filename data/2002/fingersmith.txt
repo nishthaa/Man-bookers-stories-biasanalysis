@@ -12,17 +12,17 @@ MAUD - F
 LILLY - F
 GENTLEMAN - M
 
-N: TRINDER V: is
-N: WHO V: raised
-N: SUE V: were
-N: HOUSEHOLD V: hosts
-N: BABIES V: calmed
-N: HOUSE V: is
-N: WHO V: carries
-N: SHE V: wins
-N: THEY V: share
-N: MAUD V: be
-N: SUE V: agrees
-N: SUE V: begins
-N: ONE V: is
-N: IT V: seems
+G: F N: SUE V: is
+G:   N: WHO V: raised
+G: F N: SUE V: were
+G:   N: HOUSEHOLD V: hosts
+G:   N: BABIES V: calmed
+G:   N: HOUSE V: is
+G:   N: WHO V: carries
+G: F N: SHE V: wins
+G:   N: THEY V: share
+G: F N: MAUD V: be
+G: F N: SUE V: agrees
+G: F N: SUE V: begins
+G:   N: ONE V: is
+G:   N: IT V: seems

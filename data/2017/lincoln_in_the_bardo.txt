@@ -10,9 +10,9 @@ WILLIE - M
 LINCOLN - M
 ABRAHAM - M
 
-N: FATHER V: arrives
-N: LINCOLN V: paces
-N: THAT V: feels
-N: IT V: is
-N: HE V: communicate
-N: LINCOLN V: is
+G: M N: FATHER V: arrives
+G: M N: LINCOLN V: paces
+G:   N: THAT V: feels
+G:   N: IT V: is
+G: M N: HE V: communicate
+G: M N: LINCOLN V: is

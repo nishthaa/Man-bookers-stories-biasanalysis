@@ -8,12 +8,12 @@ COLETTE - F
 JANUS - M
 BILL - M
 
-N: JONES V: had
-N: IT V: seems
-N: FAMILY V: is
-N: SON V: wasted
-N: SPREES V: turned
-N: WHO V: sees
-N: BROTHER V: is
-N: THIS V: is
-N: IT V: lurches
+G: F N: COLETTE V: had
+G:   N: IT V: seems
+G:   N: FAMILY V: is
+G: M N: SON V: wasted
+G:   N: SPREES V: turned
+G:   N: WHO V: sees
+G: M N: BROTHER V: is
+G:   N: THIS V: is
+G:   N: IT V: lurches

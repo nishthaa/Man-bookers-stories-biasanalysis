@@ -9,18 +9,18 @@ ABBY - F
 RED - M
 ANNE - F
 
-N: IT V: was
-N: THIS V: is
-N: WHITSHANK V: begins
-N: SHE V: fell
-N: WHITSHANKS V: are
-N: THAT V: radiate
-N: THEY V: are
-N: STORIES V: reveal
-N: THEY V: tell
-N: ABBY V: accumulated
-N: LIVES V: unfolding
-N: THAT V: been
-N: THAT V: are
-N: SPOOL V: tells
-N: IT V: is
+G:   N: IT V: was
+G:   N: THIS V: is
+G: F N: WHITSHANK V: begins
+G: F N: SHE V: fell
+G:   N: WHITSHANKS V: are
+G:   N: THAT V: radiate
+G:   N: THEY V: are
+G:   N: STORIES V: reveal
+G:   N: THEY V: tell
+G: F N: ABBY V: accumulated
+G:   N: LIVES V: unfolding
+G:   N: THAT V: been
+G:   N: THAT V: are
+G:   N: SPOOL V: tells
+G:   N: IT V: is

@@ -6,10 +6,10 @@ Thorfinn, a crofter’s son living on the remote island of Norday, is a dreamy b
 Characters:
 THORFINN - M
 
-N: THORFINN V: is
-N: HE V: escapes
-N: HE V: dreams
-N: HE V: finds
-N: HIMSELF V: running
-N: WHO V: longs
-N: THORFINN V: dreams
+G: M N: THORFINN V: is
+G: M N: HE V: escapes
+G: M N: HE V: dreams
+G: M N: HE V: finds
+G: M N: HIMSELF V: running
+G:   N: WHO V: longs
+G: M N: THORFINN V: dreams

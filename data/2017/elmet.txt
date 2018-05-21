@@ -9,23 +9,23 @@ DANIEL - M
 CATHY - F
 DADDY - M
 
-N: DANIEL V: heading
-N: HE V: looking
-N: SIMPLICITY V: turned
-N: THEY V: lived
-N: DADDY V: built
-N: THEY V: foraged
-N: THEY V: were
-N: DANIEL V: gone
-N: THEY V: were
-N: THEY V: were
-N: DADDY V: disappeared
-N: HE V: was
-N: HE V: was
-N: HE V: told
-N: COPSE V: was
-N: THAT V: was
-N: MEN V: began
-N: VIOLENCE V: grew
-N: ELMET V: is
-N: BOND V: go
+G: M N: DANIEL V: heading
+G: M N: HE V: looking
+G:   N: SIMPLICITY V: turned
+G:   N: THEY V: lived
+G: M N: DADDY V: built
+G:   N: THEY V: foraged
+G:   N: THEY V: were
+G: M N: DANIEL V: gone
+G:   N: THEY V: were
+G:   N: THEY V: were
+G: M N: DADDY V: disappeared
+G: M N: HE V: was
+G: M N: HE V: was
+G: M N: HE V: told
+G:   N: COPSE V: was
+G:   N: THAT V: was
+G: M N: MEN V: began
+G:   N: VIOLENCE V: grew
+G:   N: ELMET V: is
+G:   N: BOND V: go

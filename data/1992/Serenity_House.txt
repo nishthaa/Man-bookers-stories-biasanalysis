@@ -7,4 +7,4 @@ Characters:
 MAX - M
 ALBERT - M
 
-N: SON V: has
+G: M N: SON V: has

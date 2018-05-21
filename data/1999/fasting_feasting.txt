@@ -7,11 +7,11 @@ Characters:
 UMA - F
 ARUN - M
 
-N: IT V: is
-N: WHO V: suffer
-N: DAUGHTER V: lives
-N: FAMILY V: is
-N: UMA V: comes
-N: THAT V: arranged
-N: ARUN V: goes
-N: WOMEN V: appear
+G:   N: IT V: is
+G:   N: WHO V: suffer
+G: F N: DAUGHTER V: lives
+G:   N: FAMILY V: is
+G: F N: UMA V: comes
+G:   N: THAT V: arranged
+G: M N: ARUN V: goes
+G: F N: WOMEN V: appear

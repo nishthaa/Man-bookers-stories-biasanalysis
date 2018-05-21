@@ -7,6 +7,6 @@ And the main character? The past, which creeps up on the present and whispers so
 
 Characters:
 
-N: DARKMANS V: is
-N: IT V: ’s
-N: WHICH V: creeps
+G:   N: DARKMANS V: is
+G:   N: IT V: ’s
+G:   N: WHICH V: creeps

@@ -9,17 +9,17 @@ IRIS - F
 LAURA - F
 MARGARET - F
 
-N: IT V: opens
-N: WAR V: ended
-N: SISTER V: drove
-N: READER V: expects
-N: ATWOOD V: introduces
-N: IT V: is
-N: WHO V: meet
-N: WE V: return
-N: IT V: is
-N: ATWOOD V: written
-N: SHE V: stretches
-N: THAT V: is
-N: ASSASSIN V: proves
-N: ATWOOD V: is
+G:   N: IT V: opens
+G:   N: WAR V: ended
+G: F N: SISTER V: drove
+G:   N: READER V: expects
+G: F N: ATWOOD V: introduces
+G:   N: IT V: is
+G:   N: WHO V: meet
+G:   N: WE V: return
+G:   N: IT V: is
+G: F N: ATWOOD V: written
+G: F N: SHE V: stretches
+G:   N: THAT V: is
+G:   N: ASSASSIN V: proves
+G: F N: ATWOOD V: is

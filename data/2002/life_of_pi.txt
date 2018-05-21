@@ -8,6 +8,6 @@ YANN - M
 PI - M
 RICHARD - M
 
-N: LIFE V: is
-N: PROTAGONIST V: explores
-N: HE V: survives
+G:   N: LIFE V: is
+G: M N: PROTAGONIST V: explores
+G: M N: HE V: survives

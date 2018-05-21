@@ -8,9 +8,9 @@ EILEEN - F
 RANDY - M
 REBECCA - F
 
-N: SEASON V: offers
-N: SHE V: fills
-N: JOHN V: arrives
-N: WHAT V: appears
-N: AFFECTION V: pulls
-N: THAT V: surpasses
+G:   N: SEASON V: offers
+G: F N: SHE V: fills
+G: M N: JOHN V: arrives
+G:   N: WHAT V: appears
+G:   N: AFFECTION V: pulls
+G:   N: THAT V: surpasses

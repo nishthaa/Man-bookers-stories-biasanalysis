@@ -13,27 +13,27 @@ MICHAEL - M
 ASTRID - F
 MAGNUS - M
 
-N: THIRTYSOMETHING V: shows
-N: SMARTS V: renting
-N: SHE V: talks
-N: SHE V: tells
-N: SHE V: stays
-N: SMART V: thinks
-N: AMBER V: is
-N: HUSBAND V: sleeping
-N: MICHAEL V: knows
-N: CAR V: broke
-N: ASTRID V: thinks
-N: SHE V: ’s
-N: MAGNUS V: thinks
-N: SHE V: ’s
-N: AMBER V: insinuates
-N: QUESTIONS V: drop
-N: SHE V: is
-N: SMARTS V: begin
-N: EVE V: banishes
-N: AMBER V: disappears
-N: THEY V: discover
-N: THEY V: return
-N: ACCIDENTAL V: is
-N: THAT V: explores
+G:   N: THIRTYSOMETHING V: shows
+G:   N: SMARTS V: renting
+G: F N: SHE V: talks
+G: F N: SHE V: tells
+G: F N: SHE V: stays
+G:   N: SMART V: thinks
+G: F N: AMBER V: is
+G: M N: HUSBAND V: sleeping
+G: M N: MICHAEL V: knows
+G:   N: CAR V: broke
+G: F N: ASTRID V: thinks
+G: F N: SHE V: ’s
+G: M N: MAGNUS V: thinks
+G: F N: SHE V: ’s
+G: F N: AMBER V: insinuates
+G:   N: QUESTIONS V: drop
+G: F N: SHE V: is
+G:   N: SMARTS V: begin
+G: F N: EVE V: banishes
+G: F N: AMBER V: disappears
+G:   N: THEY V: discover
+G:   N: THEY V: return
+G:   N: ACCIDENTAL V: is
+G:   N: THAT V: explores

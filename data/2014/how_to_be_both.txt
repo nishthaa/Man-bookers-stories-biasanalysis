@@ -7,11 +7,11 @@ How to be both is a novel all about art’s versatility. Borrowing from painting
 Characters:
 ALI - F
 
-N: PASSIONATE V: are
-N: NOVELS V: are
-N: SHE V: is
-N: NOVELS V: attract
-N: TECHNIQUE V: borrowing
-N: IT V: ’s
-N: TALES V: gets
-N: TIME V: gets
+G:   N: PASSIONATE V: are
+G:   N: NOVELS V: are
+G: F N: SHE V: is
+G:   N: NOVELS V: attract
+G:   N: TECHNIQUE V: borrowing
+G:   N: IT V: ’s
+G:   N: TALES V: gets
+G:   N: TIME V: gets

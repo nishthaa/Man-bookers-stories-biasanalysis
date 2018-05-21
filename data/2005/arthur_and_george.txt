@@ -9,7 +9,7 @@ GEORGE - M
 ARTHUR - M
 JULIAN - M
 
-N: GEORGE V: living
-N: WHO V: is
-N: FATES V: become
-N: BARNES V: explores
+G: M N: GEORGE V: living
+G:   N: WHO V: is
+G:   N: FATES V: become
+G: M N: BARNES V: explores

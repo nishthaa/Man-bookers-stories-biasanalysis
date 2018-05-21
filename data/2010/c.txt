@@ -8,15 +8,15 @@ This is a remarkable novel - a compelling, sophisticated and sublimely imaginati
 Characters:
 SERGE - M
 
-N: C V: follows
-N: NAME V: suggests
-N: THAT V: obliterate
-N: SERGE V: finds
-N: HIMSELF V: steeped
-N: AIR V: seems
-N: LOSS V: strikes
-N: WORLD V: takes
-N: WHAT V: follows
-N: SETTINGS V: give
-N: THIS V: is
-N: THAT V: sustain
+G:   N: C V: follows
+G:   N: NAME V: suggests
+G:   N: THAT V: obliterate
+G: M N: SERGE V: finds
+G: M N: HIMSELF V: steeped
+G:   N: AIR V: seems
+G:   N: LOSS V: strikes
+G:   N: WORLD V: takes
+G:   N: WHAT V: follows
+G:   N: SETTINGS V: give
+G:   N: THIS V: is
+G:   N: THAT V: sustain

@@ -9,11 +9,10 @@ BERNARD - M
 JUNE - F
 IAN - M
 
-N: DOGS V: is
-N: JEREMY V: is
-N: UNION V: began
-N: BERNARD V: reconcile
-N: JEREMY V: undertakes
-N: THAT V: was
-N: MCEWAN V: weaves
-N: BOTH V: create
+G: M N: JEREMY V: is
+G:   N: UNION V: began
+G: M N: BERNARD V: reconcile
+G: M N: JEREMY V: undertakes
+G:   N: THAT V: was
+G: M N: MCEWAN V: weaves
+G:   N: BOTH V: create

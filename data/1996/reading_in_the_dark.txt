@@ -9,18 +9,18 @@ Characters:
 EDDIE - M
 DEANE - M
 
-N: NOVEL V: is
-N: NARRATOR V: grows
-N: HE V: wants
-N: BOY V: listens
-N: THAT V: surrounds
-N: TRUTH V: spreads
-N: IT V: engulfs
-N: HE V: listens
-N: FIELD V: reveals
-N: GULLS V: fly
-N: WORLD V: unfolds
-N: SISTER V: walking
-N: SOMEONE V: sobbing
-N: DEANE V: created
-N: FEAR V: turns
+G:   N: NOVEL V: is
+G:   N: NARRATOR V: grows
+G: M N: HE V: wants
+G: M N: BOY V: listens
+G:   N: THAT V: surrounds
+G:   N: TRUTH V: spreads
+G:   N: IT V: engulfs
+G: M N: HE V: listens
+G:   N: FIELD V: reveals
+G:   N: GULLS V: fly
+G:   N: WORLD V: unfolds
+G: F N: SISTER V: walking
+G:   N: SOMEONE V: sobbing
+G: M N: DEANE V: created
+G:   N: FEAR V: turns

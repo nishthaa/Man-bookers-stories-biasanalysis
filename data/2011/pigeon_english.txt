@@ -9,12 +9,12 @@ Characters:
 HARRISON - M
 HARRI - M
 
-N: OPOKU V: lives
-N: WHO V: visits
-N: HARRI V: absorbs
-N: HARRI V: decides
-N: HE V: endangers
-N: MOTHER V: spun
-N: ENGLISH V: is
-N: THAT V: try
-N: HE V: falls
+G: M N: HARRISON V: lives
+G:   N: WHO V: visits
+G: M N: HARRI V: absorbs
+G: M N: HARRI V: decides
+G: M N: HE V: endangers
+G: F N: MOTHER V: spun
+G:   N: ENGLISH V: is
+G:   N: THAT V: try
+G: M N: HE V: falls

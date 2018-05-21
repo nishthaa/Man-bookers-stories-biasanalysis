@@ -10,12 +10,12 @@ DANIEL - M
 ELISABETH - F
 ALI - F
 
-N: DANIEL V: is
-N: ELISABETH V: has
-N: KINGDOM V: is
-N: AUTUMN V: is
-N: RICHNESS V: are
-N: HARVEST V: means
-N: WE V: are
-N: CENTURIES V: cast
-N: SERIES V: comes
+G: M N: DANIEL V: is
+G: F N: ELISABETH V: has
+G:   N: KINGDOM V: is
+G:   N: AUTUMN V: is
+G:   N: RICHNESS V: are
+G:   N: HARVEST V: means
+G:   N: WE V: are
+G:   N: CENTURIES V: cast
+G:   N: SERIES V: comes

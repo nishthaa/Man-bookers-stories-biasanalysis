@@ -9,6 +9,6 @@ Characters:
 RICHARD - M
 DORRIGO - M
 
-N: STORY V: gallows
-N: DAY V: builds
-N: STORY V: unfolds
+G:   N: STORY V: gallows
+G:   N: DAY V: builds
+G:   N: STORY V: unfolds

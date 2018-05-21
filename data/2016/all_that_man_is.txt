@@ -6,15 +6,15 @@ Dark and disturbing, but also often wickedly and uproariously comic, All That Ma
 
 Characters:
 
-N: IT V: means
-N: NARRATIVES V: is
-N: THAT V: interrogates
-N: LIVES V: form
-N: SZALAY V: plots
-N: MAN V: is
-N: IS V: is
-N: SZALAY V: brings
-N: PROTAGONIST V: is
-N: IT V: gets
-N: SZALAY V: is
-N: THAT V: vibrates
+G:   N: IT V: means
+G:   N: NARRATIVES V: is
+G:   N: THAT V: interrogates
+G:   N: LIVES V: form
+G: M N: SZALAY V: plots
+G: M N: MAN V: is
+G: M N: SZALAY V: brings
+G:   N: PROTAGONIST V: is
+G:   N: IT V: gets
+G: M N: SZALAY V: is
+G:   N: THAT V: vibrates
+G: M G: F N: MAN V: is

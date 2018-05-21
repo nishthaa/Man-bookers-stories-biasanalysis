@@ -8,15 +8,15 @@ Characters:
 LAURENCE - M
 FRANK - M
 
-N: WATERS V: arrives
-N: FRANK V: is
-N: LAURENCE V: is
-N: FRANK V: is
-N: TWO V: become
-N: TOWN V: coping
-N: GROUP V: moved
-N: MAN V: is
-N: FRANK V: met
-N: LAURENCE V: wants
-N: PAST V: demanding
-N: IDEALISM V: last
+G: M N: LAURENCE V: arrives
+G: M N: FRANK V: is
+G: M N: LAURENCE V: is
+G: M N: FRANK V: is
+G:   N: TWO V: become
+G:   N: TOWN V: coping
+G:   N: GROUP V: moved
+G: M N: MAN V: is
+G: M N: FRANK V: met
+G: M N: LAURENCE V: wants
+G:   N: PAST V: demanding
+G:   N: IDEALISM V: last

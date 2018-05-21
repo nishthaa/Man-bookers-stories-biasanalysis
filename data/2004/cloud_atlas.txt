@@ -12,20 +12,20 @@ ROBERT - M
 LUISA - F
 MITCHELL - M
 
-N: ATLAS V: begins
-N: WHO V: begins
-N: ACTION V: jumps
-N: FROBISHER V: contrives
-N: WHO V: has
-N: WE V: jump
-N: WHO V: stumbles
-N: THAT V: threatens
-N: NEOCAPITALISM V: run
-N: STORY V: end
-N: NARRATIVE V: boomerangs
-N: MITCHELL V: reveals
-N: CHARACTERS V: connect
-N: FATES V: intertwine
-N: SOULS V: drift
-N: ATLAS V: is
-N: THAT V: transcended
+G:   N: ATLAS V: begins
+G:   N: WHO V: begins
+G:   N: ACTION V: jumps
+G: M N: ROBERT V: contrives
+G:   N: WHO V: has
+G:   N: WE V: jump
+G:   N: WHO V: stumbles
+G:   N: THAT V: threatens
+G:   N: NEOCAPITALISM V: run
+G:   N: STORY V: end
+G:   N: NARRATIVE V: boomerangs
+G: M N: MITCHELL V: reveals
+G:   N: CHARACTERS V: connect
+G:   N: FATES V: intertwine
+G:   N: SOULS V: drift
+G:   N: ATLAS V: is
+G:   N: THAT V: transcended

@@ -9,5 +9,5 @@ HANA - F
 CARAVAGGIO - M
 KIP - M
 
-N: WHO V: lies
-N: MEMORIES V: illuminate
+G:   N: WHO V: lies
+G:   N: MEMORIES V: illuminate

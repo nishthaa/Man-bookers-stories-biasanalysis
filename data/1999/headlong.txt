@@ -6,6 +6,6 @@ It uses the elusive story behind a painting, thought, by an easily-distracted ph
 
 Characters:
 
-N: IT V: uses
-N: HE V: risks
-N: HE V: has
+G:   N: IT V: uses
+G: M N: HE V: risks
+G: M N: HE V: has

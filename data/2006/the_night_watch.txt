@@ -11,15 +11,15 @@ HELEN - F
 VIV - F
 DUNCAN - M
 
-N: WATCH V: is
-N: THIS V: is
-N: KAY V: dresses
-N: WHO V: drove
-N: GIRL V: is
-N: DEMONS V: fight
-N: LIVES V: connect
-N: WAR V: leads
-N: TENDER V: set
-N: NOVEL V: is
-N: THAT V: offers
-N: WATCH V: is
+G:   N: WATCH V: is
+G:   N: THIS V: is
+G: F N: KAY V: dresses
+G:   N: WHO V: drove
+G: F N: GIRL V: is
+G:   N: DEMONS V: fight
+G:   N: LIVES V: connect
+G:   N: WAR V: leads
+G:   N: TENDER V: set
+G:   N: NOVEL V: is
+G:   N: THAT V: offers
+G:   N: WATCH V: is

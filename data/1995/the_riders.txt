@@ -9,8 +9,8 @@ SCULLY - M
 JENNIFER - F
 BILLY - F
 
-N: WINTON V: depicts
-N: WIFE V: disappears
-N: HE V: has
-N: CLUES V: lead
-N: THAT V: covers
+G: M N: WINTON V: depicts
+G: F N: WIFE V: disappears
+G: M N: HE V: has
+G:   N: CLUES V: lead
+G:   N: THAT V: covers

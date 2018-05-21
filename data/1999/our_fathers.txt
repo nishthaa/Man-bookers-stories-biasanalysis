@@ -8,16 +8,16 @@ Characters:
 HUGH - M
 JAMIE - M
 
-N: BAWN V: was
-N: WHO V: revolutionized
-N: TIMES V: changed
-N: HE V: lies
-N: GRANDSON V: comes
-N: WHAT V: is
-N: THAT V: haunts
-N: HE V: sees
-N: THAT V: bred
-N: IT V: is
-N: WHO V: tells
-N: IT V: is
-N: FATHERS V: is
+G: M N: HUGH V: was
+G:   N: WHO V: revolutionized
+G:   N: TIMES V: changed
+G: M N: HE V: lies
+G: M N: GRANDSON V: comes
+G:   N: WHAT V: is
+G:   N: THAT V: haunts
+G: M N: HE V: sees
+G:   N: THAT V: bred
+G:   N: IT V: is
+G:   N: WHO V: tells
+G:   N: IT V: is
+G: M N: FATHERS V: is

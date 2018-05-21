@@ -7,4 +7,4 @@ Characters:
 NELSON - M
 ANTHONY - M
 
-N: I V: meet
+G:   N: I V: meet

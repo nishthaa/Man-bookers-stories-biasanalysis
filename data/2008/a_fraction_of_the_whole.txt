@@ -11,19 +11,19 @@ MARTIN - M
 TERRY - M
 STEVE - M
 
-N: DEAN V: decide
-N: WHO V: overanalyzed
-N: MARTIN V: is
-N: JASPER V: reflect
-N: WHO V: raised
-N: HE V: realizes
-N: THEIRS V: was
-N: HE V: recollects
-N: THAT V: led
-N: JASPER V: recounts
-N: HE V: disdains
-N: IT V: ’s
-N: THAT V: takes
-N: RESULT V: is
-N: SYMMETRY V: transcends
-N: FRACTION V: is
+G: M N: JASPER V: decide
+G:   N: WHO V: overanalyzed
+G: M N: MARTIN V: is
+G: M N: JASPER V: reflect
+G:   N: WHO V: raised
+G: M N: HE V: realizes
+G:   N: THEIRS V: was
+G: M N: HE V: recollects
+G:   N: THAT V: led
+G: M N: JASPER V: recounts
+G: M N: HE V: disdains
+G:   N: IT V: ’s
+G:   N: THAT V: takes
+G:   N: RESULT V: is
+G:   N: SYMMETRY V: transcends
+G:   N: FRACTION V: is

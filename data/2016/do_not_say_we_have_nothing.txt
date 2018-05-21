@@ -6,15 +6,15 @@ Ai-Ming tells Marie the story of her family in Revolutionary China - from the cr
 
 Characters:
 MARIE - F
-AI-MING - F
+MING - F
 SPARROW - F
 ZHULI - F
 KAI - F
 
-N: MARIE V: invite
-N: WHO V: fled
-N: MING V: tells
-N: IT V: is
-N: STRUGGLE V: remain
-N: THEY V: devoted
-N: FATES V: reverberate
+G: F N: MARIE V: invite
+G:   N: WHO V: fled
+G: F N: MING V: tells
+G:   N: IT V: is
+G:   N: STRUGGLE V: remain
+G:   N: THEY V: devoted
+G:   N: FATES V: reverberate

@@ -13,19 +13,19 @@ AVTAR - M
 RANDEEP - M
 NARINDER - F
 
-N: MEN V: come
-N: THEY V: hope
-N: THEY V: have
-N: WHAT V: awaits
-N: AVTAR V: are
-N: FAMILIES V: sinking
-N: RANDEEP V: has
-N: CUPBOARDS V: are
-N: AGENTS V: surprise
-N: SHE V: is
-N: STORY V: is
-N: YEAR V: unfolds
-N: DESTINIES V: become
-N: THEY V: foreseen
-N: IT V: means
-N: IT V: costs
+G: M N: MEN V: come
+G:   N: THEY V: hope
+G:   N: THEY V: have
+G:   N: WHAT V: awaits
+G:   N: AVTAR V: are
+G:   N: FAMILIES V: sinking
+G: M N: RANDEEP V: has
+G:   N: CUPBOARDS V: are
+G:   N: AGENTS V: surprise
+G: F N: SHE V: is
+G:   N: STORY V: is
+G:   N: YEAR V: unfolds
+G:   N: DESTINIES V: become
+G:   N: THEY V: foreseen
+G:   N: IT V: means
+G:   N: IT V: costs

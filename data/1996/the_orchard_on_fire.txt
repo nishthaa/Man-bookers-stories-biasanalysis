@@ -8,12 +8,12 @@ APRIL - F
 RUBY - F
 GREENRIDGE - M
 
-N: IT V: ’s
-N: HARLENCY V: is
-N: PARENTS V: run
-N: APRIL V: becomes
-N: PARENTS V: run
-N: WHO V: begins
-N: APRIL V: talk
-N: THEY V: believe
-N: GREENRIDGE V: is
+G:   N: IT V: ’s
+G: F N: APRIL V: is
+G:   N: PARENTS V: run
+G: F N: APRIL V: becomes
+G:   N: PARENTS V: run
+G:   N: WHO V: begins
+G: F N: APRIL V: talk
+G:   N: THEY V: believe
+G: M N: GREENRIDGE V: is

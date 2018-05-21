@@ -8,10 +8,10 @@ At once laugh-out-loud funny about the absurdities of the modern world, and inde
 Characters:
 PAUL - M
 
-N: O'ROURKE V: is
-N: HE V: loves
-N: HE V: 's
-N: SOMEONE V: begins
-N: HE V: watches
-N: WHAT V: begins
-N: PAUL V: be
+G: M N: O'ROURKE V: is
+G: M N: HE V: loves
+G: M N: HE V: 's
+G:   N: SOMEONE V: begins
+G: M N: HE V: watches
+G:   N: WHAT V: begins
+G: M N: PAUL V: be

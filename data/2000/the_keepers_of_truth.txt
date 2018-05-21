@@ -8,10 +8,10 @@ BILL - M
 LAWTON - M
 RONNY - M
 
-N: BILL V: lives
-N: HE V: yearns
-N: LAWTON V: goes
-N: SPECTER V: breathes
-N: MURDER V: come
-N: IT V: awakes
-N: KEEPERS V: startles
+G: M N: BILL V: lives
+G: M N: HE V: yearns
+G: M N: LAWTON V: goes
+G:   N: SPECTER V: breathes
+G:   N: MURDER V: come
+G:   N: IT V: awakes
+G:   N: KEEPERS V: startles

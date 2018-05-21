@@ -6,11 +6,9 @@ Told by nine-year-old Benjamin, the youngest of four brothers, THE FISHERMEN is 
 Characters:
 BENJAMIN - M
 
-N: FISHERMEN V: is
-N: FATHER V: has
-N: BROTHERS V: take
-N: THEY V: meet
-N: WHO V: persuades
-N: WHAT V: happens
-N: IMPACT V: transcend
-N: FISHERMEN V: is
+G: M N: FATHER V: has
+G: M N: BROTHERS V: take
+G:   N: THEY V: meet
+G:   N: WHO V: persuades
+G:   N: WHAT V: happens
+G:   N: IMPACT V: transcend

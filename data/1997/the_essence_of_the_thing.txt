@@ -8,18 +8,18 @@ NICOLA - F
 JONATHAN - M
 JOHN - F
 
-N: NICOLA V: went
-N: HE V: looks
-N: HE V: be
-N: NICOLA V: loves
-N: THAT V: goes
-N: HE V: can
-N: NICOLA V: stands
-N: WHO V: is
-N: ONE V: is
-N: TALE V: gone
-N: YOU V: have
-N: YOU V: see
-N: JOHN V: captures
-N: WOMEN V: do
-N: MEN V: do
+G: F N: NICOLA V: went
+G: M N: HE V: looks
+G: M N: HE V: be
+G: F N: NICOLA V: loves
+G:   N: THAT V: goes
+G: M N: HE V: can
+G: F N: NICOLA V: stands
+G:   N: WHO V: is
+G:   N: ONE V: is
+G:   N: TALE V: gone
+G:   N: YOU V: have
+G:   N: YOU V: see
+G: F N: JOHN V: captures
+G: F N: WOMEN V: do
+G: M N: MEN V: do

@@ -12,19 +12,19 @@ RODERICK - M
 BETTY - F
 SUSAN - F
 
-N: HE V: is
-N: HE V: visited
-N: WHO V: worked
-N: HE V: approaches
-N: FARADAY V: recognizes
-N: MUCH V: changed
-N: HOUSE V: are
-N: FAMILY V: struggling
-N: THAT V: begin
-N: SUMMER V: gives
-N: RODERICK V: seems
-N: FARADAY V: believes
-N: BEHAVIOR V: have
-N: BETTY V: believes
-N: CAROLINE V: is
-N: HOUSE V: begins
+G: M N: HE V: is
+G: M N: HE V: visited
+G:   N: WHO V: worked
+G: M N: HE V: approaches
+G: M N: FARADAY V: recognizes
+G:   N: MUCH V: changed
+G:   N: HOUSE V: are
+G:   N: FAMILY V: struggling
+G:   N: THAT V: begin
+G:   N: SUMMER V: gives
+G: M N: RODERICK V: seems
+G: M N: FARADAY V: believes
+G:   N: BEHAVIOR V: have
+G: F N: BETTY V: believes
+G: F N: CAROLINE V: is
+G:   N: HOUSE V: begins

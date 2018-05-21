@@ -7,10 +7,9 @@ CHARACTERS:
 NED - M
 KELLY - M
 
-N: KELLY V: speaks
-N: HE V: flees
-N: KELLY V: is
-N: BUSHRANGER V: is
-N: WHO V: was
-N: NED V: saw
-N: TALE V: is
+G: M N: KELLY V: speaks
+G: M N: HE V: flees
+G: M N: KELLY V: is
+G:   N: WHO V: was
+G: M N: NED V: saw
+G:   N: TALE V: is

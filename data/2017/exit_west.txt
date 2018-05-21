@@ -8,16 +8,16 @@ Characters:
 SAEED - M
 NADIA - F
 
-N: THEY V: talk
-N: HE V: makes
-N: THEY V: start
-N: THEY V: try
-N: RADIO V: announcing
-N: PROBLEM V: is
-N: IT V: ’s
-N: NADIA V: live
-N: SHE V: move
-N: THEY V: are
-N: RUMORS V: spreading
-N: THAT V: lead
-N: TIME V: come
+G:   N: THEY V: talk
+G: M N: HE V: makes
+G:   N: THEY V: start
+G:   N: THEY V: try
+G:   N: RADIO V: announcing
+G:   N: PROBLEM V: is
+G:   N: IT V: ’s
+G: F N: NADIA V: live
+G: F N: SHE V: move
+G:   N: THEY V: are
+G:   N: RUMORS V: spreading
+G:   N: THAT V: lead
+G:   N: TIME V: come

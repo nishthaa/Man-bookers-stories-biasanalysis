@@ -6,16 +6,17 @@ Nariman must now turn to his younger daughter, Roxana, her husband, Yezad, and t
 
 
 Characters:
+NARIMAN - M
 ROHINTON - M
 ROXANA - F
 COOMY - F
 JAL - M
 YEZAD - M
 
-N: MISTRY V: enthralling
-N: VAKEEL V: suffering
-N: STEP V: have
-N: NARIMAN V: turn
-N: WHO V: share
-N: DECISION V: test
-N: MATTERS V: is
+G:   N: MISTRY V: enthralling
+G: M N: NARIMAN V: suffering
+G:   N: STEP V: have
+G: M N: NARIMAN V: turn
+G:   N: WHO V: share
+G:   N: DECISION V: test
+G:   N: MATTERS V: is

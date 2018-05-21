@@ -9,16 +9,16 @@ Characters:
 TONY - M
 ADRIAN - M
 
-N: THAT V: have
-N: READER V: immersed
-N: WEBSTER V: met
-N: THEY V: navigate
-N: ADRIAN V: was
-N: THEY V: swore
-N: TONY V: is
-N: HE V: tried
-N: MEMORY V: is
-N: IT V: throw
-N: LETTER V: is
-N: SENSE V: is
-N: IT V: is
+G:   N: THAT V: have
+G:   N: READER V: immersed
+G: M N: TONY V: met
+G:   N: THEY V: navigate
+G: M N: ADRIAN V: was
+G:   N: THEY V: swore
+G: M N: TONY V: is
+G: M N: HE V: tried
+G:   N: MEMORY V: is
+G:   N: IT V: throw
+G:   N: LETTER V: is
+G:   N: SENSE V: is
+G:   N: IT V: is

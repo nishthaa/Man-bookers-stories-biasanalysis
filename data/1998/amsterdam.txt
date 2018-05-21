@@ -9,7 +9,7 @@ CLIVE - M
 VERNON - M
 JULIAN - M
 
-N: LANE V: had
-N: CLIVE V: meet
-N: THEY V: make
-N: THAT V: have
+G: F N: MOLLY V: had
+G: M N: CLIVE V: meet
+G:   N: THEY V: make
+G:   N: THAT V: have

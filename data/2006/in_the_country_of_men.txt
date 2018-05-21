@@ -1,4 +1,4 @@
-Title: In The Country of Men
+G:   Title: In The Country of Men
 Author: Hisham Matar
 Published By: Viking Press
 Libya, 1979. Nine-year-old Suleiman’s days are circumscribed by the narrow rituals of childhood: outings to the ruins surrounding Tripoli, games with friends played under the burning sun, exotic gifts from his father’s constant business trips abroad. But his nights have come to revolve around his mother’s increasingly disturbing bedside stories full of old family bitterness. And then one day Suleiman sees his father across the square of a busy marketplace, his face wrapped in a pair of dark sunglasses. Wasn’t he supposed to be away on business yet again? Why is he going into that strange building with the green shutters? Why did he lie?
@@ -8,15 +8,15 @@ In the Country of Men is a stunning depiction of a child confronted with the pri
 Characters:
 SULEIMAN - M
 
-N: NIGHTS V: come
-N: SULEIMAN V: sees
-N: FACE V: wrapped
-N: HE V: supposed
-N: HE V: going
-N: HE V: lie
-N: HE V: hope
-N: SOUND V: becomes
-N: MOTHER V: burns
-N: STRANGER V: sits
-N: FATHER V: disappear
-N: IT V: is
+G:   N: NIGHTS V: come
+G: M N: SULEIMAN V: sees
+G:   N: FACE V: wrapped
+G: M N: HE V: supposed
+G: M N: HE V: going
+G: M N: HE V: lie
+G: M N: HE V: hope
+G:   N: SOUND V: becomes
+G: F N: MOTHER V: burns
+G:   N: STRANGER V: sits
+G: M N: FATHER V: disappear
+G:   N: IT V: is

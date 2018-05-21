@@ -6,9 +6,9 @@ Two thousand years ago four travellers enter the Judean desert to fast and pray 
 Characters:
 MUSA - M
 
-N: TRAVELLERS V: enter
-N: THEY V: encounter
-N: WHO V: holds
-N: WHO V: has
-N: THEY V: say
-N: BATTLE V: begins
+G:   N: TRAVELLERS V: enter
+G:   N: THEY V: encounter
+G:   N: WHO V: holds
+G:   N: WHO V: has
+G:   N: THEY V: say
+G:   N: BATTLE V: begins

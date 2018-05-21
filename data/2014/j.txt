@@ -10,24 +10,15 @@ Characters:
 KEVERN - M
 AILINN - F
 
-N: PAST V: is
-N: J V: is
-N: PEOPLE V: fall
-N: THEY V: come
-N: THEY V: going
-N: KEVERN V: know
-N: FATHER V: drew
-N: HE V: said
-N: WORLD V: starting
-N: AILINN V: grown
-N: SHE V: was
-N: SHE V: came
-N: KEVERN V: kisses
-N: HE V: ask
-N: WHO V: hurt
-N: BRUTALITY V: grown
-N: THEY V: are
-N: THEY V: fallen
-N: WHO V: pushed
-N: WHAT V: happened
-N: IT V: happened
+G: M N: KEVERN V: know
+G: M N: FATHER V: drew
+G: M N: HE V: said
+G:   N: WORLD V: starting
+G: F N: AILINN V: grown
+G: F N: SHE V: was
+G: F N: SHE V: came
+G: M N: KEVERN V: kisses
+G: M N: HE V: ask
+G:   N: WHO V: hurt
+G:   N: BRUTALITY V: grown
+G:   N: THEY V: are

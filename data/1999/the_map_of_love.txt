@@ -9,9 +9,10 @@ SHARIF - M
 ISABEL - F
 OMAR - M
 
-N: WOMEN V: fall
-N: WINTERBOURNE V: leaves
-N: SHE V: finds
-N: HERSELF V: enraptured
-N: PARKMAN V: fallen
-N: ISABEL V: travels
+G: F N: WOMEN V: fall
+G:   N: WINTERBOURNE V: leaves
+G: F N: SHE V: finds
+G: F N: HERSELF V: enraptured
+G: F N: ISABEL V: fallen
+G: F N: ISABEL V: travels
+G: F G: F N: ISABEL V: travels

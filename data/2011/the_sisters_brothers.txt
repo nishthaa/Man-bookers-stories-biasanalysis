@@ -11,21 +11,21 @@ CHARLIE - M
 HERMANN - M
 KERMIT - M
 
-N: NOVEL V: is
-N: ELI V: are
-N: BROTHERS V: have
-N: CHARLIE V: makes
-N: WHO V: stands
-N: ELI V: doubts
-N: THEY V: bicker
-N: THEY V: get
-N: WARM V: is
-N: WHO V: come
-N: WHICH V: make
-N: WHAT V: happens
-N: BROTHERS V: is
-N: IT V: is
-N: YOU V: tell
-N: YOU V: find
-N: WHAT V: happens
-N: IT V: is
+G:   N: NOVEL V: is
+G: M N: ELI V: are
+G: M N: BROTHERS V: have
+G: M N: CHARLIE V: makes
+G:   N: WHO V: stands
+G: M N: ELI V: doubts
+G:   N: THEY V: bicker
+G:   N: THEY V: get
+G:   N: WARM V: is
+G:   N: WHO V: come
+G:   N: WHICH V: make
+G:   N: WHAT V: happens
+G: M N: BROTHERS V: is
+G:   N: IT V: is
+G:   N: YOU V: tell
+G:   N: YOU V: find
+G:   N: WHAT V: happens
+G:   N: IT V: is

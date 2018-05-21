@@ -13,36 +13,36 @@ JOE - M
 MARY - F
 FRAN - F
 
-N: HAND V: disfigured
-N: SHE V: was
-N: FATHER V: is
-N: WHO V: bets
-N: HE V: afford
-N: HE V: loses
-N: FAMILY V: lives
-N: EVERYTHING V: is
-N: HE V: sells
-N: SHE V: watches
-N: PLACE V: paints
-N: PORTRAIT V: saves
-N: YOU V: expect
-N: THAT V: are
-N: THAT V: protect
-N: WHICH V: warm
-N: SHE V: bear
-N: READERS V: wonder
-N: DOLORES V: is
-N: THAT V: happened
-N: SHE V: was
-N: IT V: is
-N: SHE V: feels
-N: SHE V: knew
-N: STORY V: comes
-N: STORIES V: is
-N: THAT V: unfold
-N: FACT V: be
-N: WE V: be
-N: SHE V: imparts
-N: PLACE V: is
-N: IT V: is
-N: IT V: burn
+G:   N: HAND V: disfigured
+G: F N: SHE V: was
+G: M N: FATHER V: is
+G:   N: WHO V: bets
+G: M N: HE V: afford
+G: M N: HE V: loses
+G:   N: FAMILY V: lives
+G:   N: EVERYTHING V: is
+G: M N: HE V: sells
+G: F N: SHE V: watches
+G:   N: PLACE V: paints
+G:   N: PORTRAIT V: saves
+G:   N: YOU V: expect
+G:   N: THAT V: are
+G:   N: THAT V: protect
+G:   N: WHICH V: warm
+G: F N: SHE V: bear
+G:   N: READERS V: wonder
+G: F N: DOLORES V: is
+G:   N: THAT V: happened
+G: F N: SHE V: was
+G:   N: IT V: is
+G: F N: SHE V: feels
+G: F N: SHE V: knew
+G:   N: STORY V: comes
+G:   N: STORIES V: is
+G:   N: THAT V: unfold
+G:   N: FACT V: be
+G:   N: WE V: be
+G: F N: SHE V: imparts
+G:   N: PLACE V: is
+G:   N: IT V: is
+G:   N: IT V: burn

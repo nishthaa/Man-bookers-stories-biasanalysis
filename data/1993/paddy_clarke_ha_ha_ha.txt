@@ -9,14 +9,14 @@ SINBAD - M
 KEVIN - M
 CHARLES - M
 
-N: IT V: is
-N: CLARKE V: is
-N: HE V: loves
-N: HE V: stand
-N: FRIEND V: is
-N: NAMES V: are
-N: THEY V: play
-N: ANYONE V: help
-N: LEAVY V: trying
-N: PADDY V: sees
-N: HE V: understands
+G:   N: IT V: is
+G: M N: CLARKE V: is
+G: M N: HE V: loves
+G: M N: HE V: stand
+G:   N: FRIEND V: is
+G:   N: NAMES V: are
+G:   N: THEY V: play
+G:   N: ANYONE V: help
+G: M G:   N: LEAVY V: trying
+G: M N: PADDY V: sees
+G: M N: HE V: understands

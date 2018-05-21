@@ -9,10 +9,10 @@ CRAKE - M
 ORYX - F
 MARGARET - F
 
-N: ORYX V: is
-N: HE V: be
-N: THEY V: loved
-N: THAT V: was
-N: CORPORATIONS V: took
-N: ATWOOD V: projects
-N: THAT V: is
+G: F N: ORYX V: is
+G: M N: HE V: be
+G:   N: THEY V: loved
+G:   N: THAT V: was
+G:   N: CORPORATIONS V: took
+G: F N: ATWOOD V: projects
+G:   N: THAT V: is

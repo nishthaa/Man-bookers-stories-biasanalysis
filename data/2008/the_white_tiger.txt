@@ -10,28 +10,28 @@ The White Tiger recalls The Death of Vishnu and Bangkok 8 in ambition, scope, an
 Characters:
 BALRAM - M
 
-N: TIGER V: offers
-N: MILLENNIUM V: seen
-N: HALWAI V: is
-N: BALRAM V: tells
-N: HE V: came
-N: BALRAM V: gets
-N: WORLD V: is
-N: PEERS V: flip
-N: BALRAM V: watches
-N: EMPLOYERS V: bribe
-N: BALRAM V: learns
-N: HE V: finds
-N: ONE V: perceive
-N: EYES V: penetrate
-N: OUTSIDERS V: can
-N: THAT V: escape
-N: IT V: is
-N: BALRAM V: teaches
-N: RELIGION V: create
-N: MONEY V: solve
-N: YOU V: get
-N: YOU V: want
-N: YOU V: eavesdrop
-N: TIGER V: recalls
-N: NOVEL V: is
+G:   N: TIGER V: offers
+G:   N: MILLENNIUM V: seen
+G: M N: HALWAI V: is
+G: N N: BALRAM V: tells
+G: M N: HE V: came
+G: M N: BALRAM V: gets
+G:   N: WORLD V: is
+G:   N: PEERS V: flip
+G: M N: BALRAM V: watches
+G:   N: EMPLOYERS V: bribe
+G: M N: BALRAM V: learns
+G: M N: HE V: finds
+G:   N: ONE V: perceive
+G:   N: EYES V: penetrate
+G:   N: OUTSIDERS V: can
+G:   N: THAT V: escape
+G:   N: IT V: is
+G: M N: BALRAM V: teaches
+G:   N: RELIGION V: create
+G:   N: MONEY V: solve
+G:   N: YOU V: get
+G:   N: YOU V: want
+G:   N: YOU V: eavesdrop
+G:   N: TIGER V: recalls
+G:   N: NOVEL V: is

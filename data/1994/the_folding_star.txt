@@ -7,9 +7,9 @@ Characters:
 EDWARD - M
 LUC - M
 
-N: MANNERS V: is
-N: HE V: arrives
-N: WRITING V: done
-N: HE V: becomes
-N: RELATIONSHIP V: becomes
-N: LUC V: disappears
+G: M N: MANNERS V: is
+G: M N: HE V: arrives
+G:   N: WRITING V: done
+G: M N: HE V: becomes
+G:   N: RELATIONSHIP V: becomes
+G: M N: LUC V: disappears

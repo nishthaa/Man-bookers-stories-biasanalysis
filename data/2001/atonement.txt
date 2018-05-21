@@ -8,8 +8,8 @@ BRIONY - F
 CECILIA - F
 ROBBIE - M
 
-N: — V: brings
-N: THAT V: change
-N: IT V: follows
-N: ATONEMENT V: engages
-N: THAT V: mark
+G:   N:   V: brings
+G:   N: THAT V: change
+G:   N: IT V: follows
+G:   N: ATONEMENT V: engages
+G:   N: THAT V: mark

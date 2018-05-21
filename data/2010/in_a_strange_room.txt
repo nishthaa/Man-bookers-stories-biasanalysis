@@ -7,16 +7,16 @@ A novel of longing and thwarted desire, rage and compassion, In a Strange Room i
 
 Characters:
 
-N: JOURNEY V: begins
-N: IT V: happens
-N: YOU V: leave
-N: IT V: ’s
-N: MAN V: makes
-N: THAT V: take
-N: HE V: travels
-N: WHO V: travel
-N: HE V: meets
-N: HE V: is
-N: JOURNEY V: ends
-N: JOURNEYS V: change
-N: NOVEL V: is
+G:   N: JOURNEY V: begins
+G:   N: IT V: happens
+G:   N: YOU V: leave
+G:   N: IT V: ’s
+G: M N: MAN V: makes
+G:   N: THAT V: take
+G: M N: HE V: travels
+G:   N: WHO V: travel
+G: M N: HE V: meets
+G: M N: HE V: is
+G:   N: JOURNEY V: ends
+G:   N: JOURNEYS V: change
+G:   N: NOVEL V: is

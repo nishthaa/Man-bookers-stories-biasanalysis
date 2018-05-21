@@ -7,11 +7,10 @@ Characters:
 JOHN - M
 MAX - M
 
-N: BANVILLE V: introduces
-N: WHO V: gone
-N: HE V: spent
-N: IT V: is
-N: HE V: met
-N: HE V: experienced
-N: MAX V: comes
-N: WE V: had
+G:   N: WHO V: gone
+G: M N: HE V: spent
+G:   N: IT V: is
+G: M N: HE V: met
+G: M N: HE V: experienced
+G: M N: MAX V: comes
+G:   N: WE V: had

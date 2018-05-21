@@ -12,16 +12,14 @@ CHARLES - M
 MATILDA - F
 PIP - M
 
-N: THAT V: is
-N: JONES V: weaves
-N: THAT V: celebrates
-N: TEACHERS V: fled
-N: MAN V: chooses
-N: WHO V: sweeps
-N: IMAGINATION V: provide
-N: CONTOURS V: become
-N: WATTS V: says
-N: PERSON V: forgets
-N: REST V: come
-N: THAT V: bring
-N: IMAGINATION V: be
+G:   N: THAT V: celebrates
+G:   N: TEACHERS V: fled
+G: M N: MAN V: chooses
+G:   N: WHO V: sweeps
+G:   N: IMAGINATION V: provide
+G:   N: CONTOURS V: become
+G: M N: WATTS V: says
+G:   N: PERSON V: forgets
+G:   N: REST V: come
+G:   N: THAT V: bring
+G:   N: IMAGINATION V: be

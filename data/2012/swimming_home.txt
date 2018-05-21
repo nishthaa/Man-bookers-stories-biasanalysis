@@ -6,11 +6,10 @@ Swimming Home is a subversive page-turner, a merciless gaze at the insidious har
 Characters:
 DEBORAH - F
 
-N: HOME V: is
-N: DEPRESSION V: have
-N: GROUP V: come
-N: WRITING V: combines
-N: IT V: means
-N: HOME V: represents
-N: WILDNESS V: are
-N: IT V: wears
+G:   N: DEPRESSION V: have
+G:   N: GROUP V: come
+G:   N: WRITING V: combines
+G:   N: IT V: means
+G:   N: HOME V: represents
+G:   N: WILDNESS V: are
+G:   N: IT V: wears

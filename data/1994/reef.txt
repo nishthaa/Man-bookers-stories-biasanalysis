@@ -9,15 +9,15 @@ JAMES - M
 GRAHAM - M
 ANTON - M
 
-N: REEF V: is
-N: HE V: is
-N: IT V: is
-N: THAT V: parallels
-N: IT V: is
-N: PRESS V: compared
-N: GUNESEKERA V: established
-N: REEF V: earned
-N: REEF V: explores
-N: WHO V: learns
-N: IT V: shines
-N: GUNESEKERA V: tells
+G:   N: REEF V: is
+G: M N: HE V: is
+G:   N: IT V: is
+G:   N: THAT V: parallels
+G:   N: IT V: is
+G:   N: PRESS V: compared
+G: M N: GUNESEKERA V: established
+G:   N: REEF V: earned
+G:   N: REEF V: explores
+G:   N: WHO V: learns
+G:   N: IT V: shines
+G: M N: GUNESEKERA V: tells

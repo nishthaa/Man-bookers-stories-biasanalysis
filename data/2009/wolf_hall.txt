@@ -11,16 +11,13 @@ HENRY - M
 ANNE - F
 WOLSLEY - M
 
-N: ENGLAND V: is
-N: KING V: dies
-N: VIII V: wants
-N: POPE V: oppose
-N: QUEST V: destroys
-N: SON V: broken
-N: CROMWELL V: broken
-N: HE V: picks
-N: MAN V: is
-N: HE V: is
-N: HALL V: is
-N: THAT V: explores
-N: IT V: peels
+G:   N: ENGLAND V: is
+G: M N: KING V: dies
+G:   N: VIII V: wants
+G: M N: POPE V: oppose
+G:   N: QUEST V: destroys
+G: M N: SON V: broken
+G: M N: CROMWELL V: broken
+G: M N: HE V: picks
+G: M N: MAN V: is
+G: M N: HE V: is

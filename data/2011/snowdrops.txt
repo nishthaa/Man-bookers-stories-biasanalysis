@@ -6,8 +6,8 @@ A chilling story of love and moral freefall: of the corruption, by a corrupt soc
 
 Characters:
 
-N: SNOWDROPS V: is
-N: THAT V: unfolds
-N: SECRETS V: come
-N: SNOWS V: start
-N: IT V: is
+G:   N: SNOWDROPS V: is
+G:   N: THAT V: unfolds
+G:   N: SECRETS V: come
+G:   N: SNOWS V: start
+G:   N: IT V: is

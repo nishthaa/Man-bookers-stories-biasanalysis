@@ -8,13 +8,13 @@ Characters:
 BARBARA - F
 SHEBA - F
 
-N: COVETT V: leads
-N: HART V: joins
-N: BARBARA V: senses
-N: RELATIONSHIP V: develops
-N: ANOTHER V: does
-N: SHEBA V: begun
-N: IT V: comes
-N: SHEBA V: falls
-N: BARBARA V: decides
-N: THAT V: reveals
+G: F N: BARBARA V: leads
+G: F N: SHEBA V: joins
+G: F N: BARBARA V: senses
+G:   N: RELATIONSHIP V: develops
+G:   N: ANOTHER V: does
+G: F N: SHEBA V: begun
+G:   N: IT V: comes
+G: F N: SHEBA V: falls
+G: F N: BARBARA V: decides
+G:   N: THAT V: reveals

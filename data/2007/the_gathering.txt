@@ -8,13 +8,13 @@ ANNE - F
 LIAM - M
 VERONICA - F
 
-N: ENRIGHT V: is
-N: SHE V: delivers
-N: CHILDREN V: gathering
-N: SISTER V: collects
-N: SHE V: shares
-N: THAT V: happened
-N: ENRIGHT V: traces
-N: GATHERING V: is
-N: IT V: is
-N: MEMORIES V: warp
+G:   N: ENRIGHT V: is
+G: F N: SHE V: delivers
+G:   N: CHILDREN V: gathering
+G: F N: SISTER V: collects
+G: F N: SHE V: shares
+G:   N: THAT V: happened
+G:   N: ENRIGHT V: traces
+G:   N: GATHERING V: is
+G:   N: IT V: is
+G:   N: MEMORIES V: warp

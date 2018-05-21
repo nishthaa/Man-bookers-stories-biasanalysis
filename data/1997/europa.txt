@@ -6,9 +6,9 @@ At the midpoint of his life, Jerry Marlow finds himself on a bus from Milan to S
 Characters:
 JERRY - M
 
-N: MARLOW V: finds
-N: THAT V: left
-N: JOB V: is
-N: WHAT V: lies
-N: PREMONITIONS V: seem
-N: IT V: is
+G: M N: JERRY V: finds
+G:   N: THAT V: left
+G:   N: JOB V: is
+G:   N: WHAT V: lies
+G:   N: PREMONITIONS V: seem
+G:   N: IT V: is

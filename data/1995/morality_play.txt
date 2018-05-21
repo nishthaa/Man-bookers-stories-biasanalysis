@@ -7,14 +7,11 @@ Characters:
 NICHOLAS - M
 MARTIN - M
 
-N: TIME V: is
-N: PLACE V: is
-N: TROUPE V: prepare
-N: LEADER V: wants
-N: THEM V: enact
-N: THAT V: is
-N: THEY V: find
-N: THEMSELVES V: entering
-N: THAT V: undo
-N: PLAY V: is
-N: THAT V: captivates
+G: M N: MARTIN V: wants
+G:   N: THEM V: enact
+G:   N: THAT V: is
+G:   N: THEY V: find
+G:   N: THEMSELVES V: entering
+G:   N: THAT V: undo
+G:   N: PLAY V: is
+G:   N: THAT V: captivates

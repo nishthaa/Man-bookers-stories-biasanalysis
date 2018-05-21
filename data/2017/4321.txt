@@ -11,14 +11,13 @@ STANLEY - M
 AMY - F
 PAUL - M
 
-N: LIFE V: take
-N: FERGUSONS V: go
-N: WHO V: are
-N: FORTUNES V: diverge
-N: FERGUSON V: falls
-N: AMY V: have
-N: READERS V: take
-N: PLOT V: rushes
-N: AUSTER V: written
-N: READERS V: seen
-N: 1 V: is
+G:   N: LIFE V: take
+G: M N: FERGUSONS V: go
+G:   N: WHO V: are
+G:   N: FORTUNES V: diverge
+G: M N: FERGUSON V: falls
+G: F N: AMY V: have
+G:   N: READERS V: take
+G:   N: PLOT V: rushes
+G: M N: AUSTER V: written
+G:   N: READERS V: seen

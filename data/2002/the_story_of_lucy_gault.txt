@@ -7,12 +7,12 @@ CHARACTERS :
 WILLIAM - M
 LUCY - F
 
-N: NOVEL V: is
-N: FAMILY V: leads
-N: THREAT V: leads
-N: LUCY V: bear
-N: SHE V: befriended
-N: THEY V: are
-N: LUCY V: runs
-N: SHE V: sets
-N: THAT V: affect
+G:   N: NOVEL V: is
+G:   N: FAMILY V: leads
+G:   N: THREAT V: leads
+G: F N: LUCY V: bear
+G: F N: SHE V: befriended
+G:   N: THEY V: are
+G: F N: LUCY V: runs
+G: F N: SHE V: sets
+G:   N: THAT V: affect

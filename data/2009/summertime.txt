@@ -11,18 +11,18 @@ JOHN - M
 COETZEE - M
 MARGOT - F
 
-N: BIOGRAPHER V: working
-N: HE V: plans
-N: COETZEE V: sharing
-N: SENSES V: is
-N: HE V: was
-N: HE V: embarks
-N: WHO V: were
-N: HE V: had
-N: DAUGHTER V: had
-N: WHO V: tried
-N: HE V: writes
-N: POETRY V: evoke
-N: SUMMERTIME V: shows
-N: HE V: limbers
-N: IT V: completes
+G:   N: BIOGRAPHER V: working
+G: M N: HE V: plans
+G: M N: COETZEE V: sharing
+G:   N: SENSES V: is
+G: M N: HE V: was
+G: M N: HE V: embarks
+G:   N: WHO V: were
+G: M N: HE V: had
+G: F N: DAUGHTER V: had
+G:   N: WHO V: tried
+G: M N: HE V: writes
+G:   N: POETRY V: evoke
+G:   N: SUMMERTIME V: shows
+G: M N: HE V: limbers
+G:   N: IT V: completes

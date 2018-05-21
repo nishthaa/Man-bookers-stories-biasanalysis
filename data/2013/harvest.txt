@@ -7,14 +7,4 @@ In effortless and tender prose, Jim Crace details the unraveling of a pastoral i
 
 Characters:
 
-N: COLUMN V: is
-N: THAT V: damaged
-N: COLUMN V: rises
-N: COINCIDENCE V: appears
-N: CONFRONTATION V: looming
-N: IT V: is
-N: THAT V: threaten
-N: CRACE V: details
-N: TALE V: is
-N: THAT V: linger
-N: YOU V: finish
+G: M N: CRACE V: details

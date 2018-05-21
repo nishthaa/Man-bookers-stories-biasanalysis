@@ -14,22 +14,22 @@ SAM - M
 LIBOR - M
 TRESLOVE - M
 
-N: HE V: seen
-N: IT V: coming
-N: LIFE V: been
-N: TRESLOVE V: are
-N: THEY V: lost
-N: LIBOR V: are
-N: THEY V: dine
-N: IT V: ’s
-N: THREE V: remove
-N: THEY V: loved
-N: THEY V: fathered
-N: THEY V: prized
-N: YOU V: have
-N: TRESLOVE V: finds
-N: HE V: has
-N: IT V: ’s
-N: HE V: is
-N: QUESTION V: is
-N: NOVEL V: shows
+G: M N: HE V: seen
+G:   N: IT V: coming
+G:   N: LIFE V: been
+G: M N: TRESLOVE V: are
+G:   N: THEY V: lost
+G: M N: LIBOR V: are
+G:   N: THEY V: dine
+G:   N: IT V: ’s
+G:   N: THREE V: remove
+G:   N: THEY V: loved
+G:   N: THEY V: fathered
+G:   N: THEY V: prized
+G:   N: YOU V: have
+G: M N: TRESLOVE V: finds
+G: M N: HE V: has
+G:   N: IT V: ’s
+G: M N: HE V: is
+G:   N: QUESTION V: is
+G:   N: NOVEL V: shows

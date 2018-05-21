@@ -5,9 +5,9 @@ Once upon a time in Scotland, there were three men who built high-tension fences
 
 Characters:
 
-N: WHO V: built
-N: THAT V: keep
-N: MILLS V: gives
-N: THAT V: proves
-N: STORY V: has
-N: IT V: remains
+G:   N: WHO V: built
+G:   N: THAT V: keep
+G:   N: MILLS V: gives
+G:   N: THAT V: proves
+G:   N: STORY V: has
+G:   N: IT V: remains

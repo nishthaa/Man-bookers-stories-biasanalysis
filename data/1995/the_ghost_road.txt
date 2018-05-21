@@ -9,7 +9,7 @@ WILFRED - M
 OWEN - M
 WILLIAM - M
 
-N: BILLY V: is
-N: HE V: was
-N: THAT V: destroyed
-N: HE V: studied
+G: M N: BILLY V: is
+G: M N: HE V: was
+G:   N: THAT V: destroyed
+G: M N: HE V: studied

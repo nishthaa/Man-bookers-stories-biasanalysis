@@ -8,18 +8,18 @@ U. - M
 MADISON - F
 TOM - M
 
-N: WE V: meet
-N: HE V: waiting
-N: HE V: stumbles
-N: THAT V: sum
-N: HE V: feels
-N: HIMSELF V: overwhelmed
-N: WOMAN V: is
-N: HE V: seeing
-N: HE V: begins
-N: REPORT V: remain
-N: SENSES V: are
-N: MCCARTHY V: captures
-N: HE V: can
-N: WE V: experience
-N: WE V: think
+G:   N: WE V: meet
+G: M N: HE V: waiting
+G: M N: HE V: stumbles
+G:   N: THAT V: sum
+G: M N: HE V: feels
+G: M N: HIMSELF V: overwhelmed
+G: F N: WOMAN V: is
+G: M N: HE V: seeing
+G: M N: HE V: begins
+G:   N: REPORT V: remain
+G:   N: SENSES V: are
+G: M N: MCCARTHY V: captures
+G: M N: HE V: can
+G: M N: WE V: experience
+G: M N: WE V: think

@@ -9,14 +9,14 @@ Characters:
 HENRY - M
 JAMES - M
 
-N: JAMES V: anticipates
-N: HE V: been
-N: PRODUCTION V: fails
-N: HE V: returns
-N: RESULT V: is
-N: MASTER V: captures
-N: GIFTS V: made
-N: IDENTITY V: remained
-N: JAMES V: circulated
-N: ATTEMPTS V: failed
-N: HE V: tried
+G: M N: JAMES V: anticipates
+G: M N: HE V: been
+G:   N: PRODUCTION V: fails
+G: M N: HE V: returns
+G:   N: RESULT V: is
+G:   N: MASTER V: captures
+G:   N: GIFTS V: made
+G:   N: IDENTITY V: remained
+G: M N: JAMES V: circulated
+G:   N: ATTEMPTS V: failed
+G: M N: HE V: tried

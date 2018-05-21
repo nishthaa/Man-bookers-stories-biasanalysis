@@ -5,5 +5,5 @@ For four fraught, mysterious days of her doomed maiden voyage in 1912, the Titan
 
 Characters:
 
-N: SAILS V: freighted
-N: FATE V: sealed
+G:   N: SAILS V: freighted
+G:   N: FATE V: sealed

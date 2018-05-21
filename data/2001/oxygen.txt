@@ -7,5 +7,5 @@ Characters:
 ALICE - F
 LASZLO - M
 
-N: STORY V: revolves
-N: MOTHER V: see
+G:   N: STORY V: revolves
+G: F N: MOTHER V: see

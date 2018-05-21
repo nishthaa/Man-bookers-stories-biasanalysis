@@ -8,14 +8,14 @@ Carry Me Down is a restrained, emotionally taut, and sometimes outrageously funn
 Characters:
 JOHN - M
 
-N: EGAN V: is
-N: WHO V: keeps
-N: HE V: remember
-N: IT V: 's
-N: JOHN V: remains
-N: LIFE V: deals
-N: THIS V: is
-N: JOHN V: is
-N: THIS V: creates
-N: DOWN V: is
-N: DRAMA V: drives
+G: M N: JOHN V: is
+G:   N: WHO V: keeps
+G: M N: HE V: remember
+G:   N: IT V: 's
+G: M N: JOHN V: remains
+G:   N: LIFE V: deals
+G:   N: THIS V: is
+G: M N: JOHN V: is
+G:   N: THIS V: creates
+G:   N: DOWN V: is
+G:   N: DRAMA V: drives

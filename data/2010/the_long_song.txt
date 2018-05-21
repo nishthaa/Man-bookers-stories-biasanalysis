@@ -8,35 +8,35 @@ THOMAS - M
 JULY - F
 KITTY - F
 
-N: YOU V: know
-N: SON V: tells
-N: WHO V: publishing
-N: IT V: is
-N: I V: am
-N: THAT V: followed
-N: JULY V: is
-N: WHO V: lives
-N: IT V: is
-N: THAT V: is
-N: SHE V: was
-N: WAR V: raged
-N: SHE V: was
-N: SON V: says
-N: I V: convey
-N: STORY V: tells
-N: THAT V: worked
-N: WHO V: owned
-N: ME V: list
-N: WHAT V: befalls
-N: YOU V: peruse
-N: SON V: suggests
-N: I V: write
-N: IT V: is
-N: WHO V: lived
-N: HE V: wishes
-N: ME V: pen
-N: READER V: decide
-N: THIS V: is
-N: THEY V: care
-N: I V: tell
-N: THEM V: read
+G:   N: YOU V: know
+G: M N: SON V: tells
+G:   N: WHO V: publishing
+G:   N: IT V: is
+G:   N: I V: am
+G:   N: THAT V: followed
+G: F N: JULY V: is
+G:   N: WHO V: lives
+G:   N: IT V: is
+G:   N: THAT V: is
+G: F N: SHE V: was
+G:   N: WAR V: raged
+G: F N: SHE V: was
+G: M N: SON V: says
+G:   N: I V: convey
+G:   N: STORY V: tells
+G:   N: THAT V: worked
+G:   N: WHO V: owned
+G:   N: ME V: list
+G:   N: WHAT V: befalls
+G:   N: YOU V: peruse
+G: M N: SON V: suggests
+G:   N: I V: write
+G:   N: IT V: is
+G:   N: WHO V: lived
+G: M N: HE V: wishes
+G:   N: ME V: pen
+G:   N: READER V: decide
+G:   N: THIS V: is
+G:   N: THEY V: care
+G:   N: I V: tell
+G:   N: THEM V: read

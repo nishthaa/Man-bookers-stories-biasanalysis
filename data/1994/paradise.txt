@@ -9,17 +9,17 @@ PETER - M
 WILLIAM - M
 BOYD - M
 
-N: PARADISE V: is
-N: BOY V: coming
-N: IT V: presents
-N: THAT V: prompted
-N: GURNAH V: is
-N: I V: am
-N: HE V: become
-N: PARADISE V: is
-N: GURNAH V: depicts
-N: SAFARIS V: gone
-N: YUSUF V: begins
-N: HE V: adjust
-N: RESULT V: is
-N: THAT V: covers
+G:   N: PARADISE V: is
+G: M N: BOY V: coming
+G:   N: IT V: presents
+G:   N: THAT V: prompted
+G: M N: GURNAH V: is
+G:   N: I V: am
+G: M N: HE V: become
+G:   N: PARADISE V: is
+G: M N: GURNAH V: depicts
+G:   N: SAFARIS V: gone
+G: M N: YUSUF V: begins
+G: M N: HE V: adjust
+G:   N: RESULT V: is
+G:   N: THAT V: covers

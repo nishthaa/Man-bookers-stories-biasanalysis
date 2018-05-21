@@ -1,4 +1,4 @@
-Title: On Chesil Beach
+G:   Title: On Chesil Beach
 Author: Ian McEwan
 Published By: Jonathan Cape
 A novel of remarkable depth and poignancy from one of the most acclaimed writers of our time.
@@ -10,14 +10,14 @@ FLORENCE - F
 EDWARD - M
 IAN - M
 
-N: IT V: is
-N: FLORENCE V: is
-N: WHO V: dreams
-N: SHE V: create
-N: WHO V: wooed
-N: VIRGINS V: arrive
-N: THEY V: struggle
-N: ANXIETIES V: run
-N: THEY V: lie
-N: MCEWAN V: caught
-N: WORD V: spoken
+G:   N: IT V: is
+G: F N: FLORENCE V: is
+G:   N: WHO V: dreams
+G: F N: SHE V: create
+G:   N: WHO V: wooed
+G:   N: VIRGINS V: arrive
+G:   N: THEY V: struggle
+G:   N: ANXIETIES V: run
+G:   N: THEY V: lie
+G: M N: MCEWAN V: caught
+G:   N: WORD V: spoken

@@ -9,5 +9,5 @@ LILY - F
 HELEN - F
 DECLAN - M
 
-N: LIGHTSHIP V: tells
-N: THEY V: arrive
+G:   N: LIGHTSHIP V: tells
+G: F N: THEY V: arrive

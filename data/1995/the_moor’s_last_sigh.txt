@@ -6,14 +6,14 @@ What do we do when the world’s walls - its family structures, its value-system
 Characters:
 MOOR - M
 
-N: WE V: do
-N: CHARACTER V: finds
-N: MOTHER V: worships
-N: MOOR V: is
-N: HE V: has
-N: MOOR V: falls
-N: WOMAN V: dies
-N: MOOR V: chooses
-N: NOVEL V: ends
-N: WHO V: was
-N: MOOR V: has
+G:   N: WE V: do
+G:   N: CHARACTER V: finds
+G: F N: MOTHER V: worships
+G: M N: MOOR V: is
+G: M N: HE V: has
+G: M N: MOOR V: falls
+G: F N: WOMAN V: dies
+G: M N: MOOR V: chooses
+G:   N: NOVEL V: ends
+G:   N: WHO V: was
+G: M N: MOOR V: has

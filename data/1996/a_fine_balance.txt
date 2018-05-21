@@ -8,10 +8,10 @@ As the characters move from distrust to friendship and from friendship to love, 
 Characters:
 CHARLES - M
 
-N: THAT V: recall
-N: TIME V: is
-N: PLACE V: is
-N: GOVERNMENT V: declared
-N: WHO V: fled
-N: CHARACTERS V: move
-N: BALANCE V: creates
+G:   N: THAT V: recall
+G:   N: TIME V: is
+G:   N: PLACE V: is
+G:   N: GOVERNMENT V: declared
+G:   N: WHO V: fled
+G:   N: CHARACTERS V: move
+G:   N: BALANCE V: creates

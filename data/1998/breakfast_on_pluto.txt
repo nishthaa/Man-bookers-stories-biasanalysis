@@ -8,15 +8,15 @@ PATRICK - M
 PUSSY - F
 WHISKERS - F
 
-N: BREAKFAST V: became
-N: MCCABE V: creates
-N: TROUBLES V: are
-N: LADYSHIP V: escaped
-N: SHE V: plies
-N: THAT V: fill
-N: BUSINESSMEN V: are
-N: THAT V: threaten
-N: IT V: is
-N: MASS V: builds
-N: BREAKFAST V: combines
-N: IMPACT V: reverberates
+G:   N: BREAKFAST V: became
+G: M N: PATRICK V: creates
+G:   N: TROUBLES V: are
+G:   N: LADYSHIP V: escaped
+G: F N: SHE V: plies
+G:   N: THAT V: fill
+G: M N: BUSINESSMEN V: are
+G:   N: THAT V: threaten
+G:   N: IT V: is
+G:   N: MASS V: builds
+G:   N: BREAKFAST V: combines
+G:   N: IMPACT V: reverberates

@@ -7,11 +7,8 @@ Characters:
 WALTER - M
 MOODY - M
 
-N: IT V: is
-N: MOODY V: come
-N: HE V: stumbles
-N: WHO V: met
-N: MAN V: vanished
-N: PROSTITUTE V: tried
-N: THAT V: is
-N: LUMINARIES V: is
+G:   N: IT V: is
+G: M N: MOODY V: come
+G: M N: HE V: stumbles
+G:   N: WHO V: met
+G: M N: MAN V: vanished

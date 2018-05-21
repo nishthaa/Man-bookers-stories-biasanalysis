@@ -12,11 +12,11 @@ REEDA - F
 RILEY - M
 GRACE - F
 
-N: MICHELANGELO V: is
-N: THAT V: become
-N: NOVEL V: tells
-N: SKILLS V: acquired
-N: HE V: sets
-N: CREST V: breaking
-N: WHO V: commissions
-N: MICHELANGELO V: is
+G:   N: MICHELANGELO V: is
+G:   N: THAT V: become
+G:   N: NOVEL V: tells
+G:   N: SKILLS V: acquired
+G: M N: HE V: sets
+G:   N: CREST V: breaking
+G:   N: WHO V: commissions
+G:   N: MICHELANGELO V: is

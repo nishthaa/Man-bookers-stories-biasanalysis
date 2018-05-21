@@ -9,14 +9,13 @@ NAZNEEN - F
 HASINA - F
 ALI - F
 
-N: LANE V: brings
-N: ALI V: illuminates
-N: CHARACTERS V: pull
-N: WE V: see
-N: NAZNEEN V: stifling
-N: WHO V: keeps
-N: ALI V: reveals
-N: THAT V: dissipate
-N: WHICH V: begins
-N: WHICH V: emerges
-N: BOTH V: have
+G: F N: ALI V: illuminates
+G:   N: CHARACTERS V: pull
+G:   N: WE V: see
+G: F N: NAZNEEN V: stifling
+G:   N: WHO V: keeps
+G: F N: ALI V: reveals
+G:   N: THAT V: dissipate
+G:   N: WHICH V: begins
+G:   N: WHICH V: emerges
+G:   N: BOTH V: have

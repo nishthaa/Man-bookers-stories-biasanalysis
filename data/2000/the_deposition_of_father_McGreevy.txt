@@ -8,10 +8,10 @@ WILLIAM - M
 MAGINN - M
 MCGREEVY - M
 
-N: MAGINN V: returns
-N: WHICH V: preserved
-N: WOMEN V: die
-N: BOOK V: traces
-N: MCGREEVY V: struggles
-N: WHAT V: remains
-N: DEPOSITION V: is
+G: M N: MAGINN V: returns
+G:   N: WHICH V: preserved
+G: F N: WOMEN V: die
+G:   N: BOOK V: traces
+G: M N: MCGREEVY V: struggles
+G:   N: WHAT V: remains
+G:   N: DEPOSITION V: is

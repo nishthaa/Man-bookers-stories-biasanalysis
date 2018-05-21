@@ -15,46 +15,46 @@ JACK - M
 MA - F
 NICK - M
 
-N: JACK V: is
-N: HE V: lives
-N: JACK V: have
-N: NOVEL V: opens
-N: JACK V: turns
-N: JACK V: been
-N: HE V: calls
-N: HE V: have
-N: JACK V: believes
-N: HE V: sees
-N: HE V: ’s
-N: ROOM V: is
-N: HE V: ’s
-N: HE V: know
-N: MA V: keeps
-N: HE V: has
-N: DAYS V: have
-N: WHICH V: is
-N: NICK’ V: visits
-N: MA V: keeps
-N: JACK V: is
-N: MA V: tries
-N: JACK V: finds
-N: NICK V: cuts
-N: MA V: realizes
-N: SITUATION V: is
-N: SHE V: thought
-N: SHE V: decides
-N: THEY V: have
-N: SHE V: tell
-N: JACK V: is
-N: ALIVE V: make
-N: MA V: spend
-N: JACK V: has
-N: PLAN V: works
-N: JACK V: manages
-N: HE V: manages
-N: WHO V: rescue
-N: FREEDOM V: is
-N: THAT V: ’s
-N: THAT V: is
-N: LIFE V: requires
-N: TWO V: have
+G: M N: JACK V: is
+G: M N: HE V: lives
+G: M N: JACK V: have
+G:   N: NOVEL V: opens
+G: M N: JACK V: turns
+G: M N: JACK V: been
+G: M N: HE V: calls
+G: M N: HE V: have
+G: M N: JACK V: believes
+G: M N: HE V: sees
+G: M N: HE V: ’s
+G:   N: ROOM V: is
+G: M N: HE V: ’s
+G: M N: HE V: know
+G: F N: MA V: keeps
+G: M N: HE V: has
+G:   N: DAYS V: have
+G:   N: WHICH V: is
+G: M N: NICK’ V: visits
+G: F N: MA V: keeps
+G: M N: JACK V: is
+G: F N: MA V: tries
+G: M N: JACK V: finds
+G: M N: NICK V: cuts
+G: F N: MA V: realizes
+G:   N: SITUATION V: is
+G: F N: SHE V: thought
+G: F N: SHE V: decides
+G:   N: THEY V: have
+G: F N: SHE V: tell
+G: M N: JACK V: is
+G:   N: ALIVE V: make
+G: F N: MA V: spend
+G: M N: JACK V: has
+G:   N: PLAN V: works
+G: M N: JACK V: manages
+G: M N: HE V: manages
+G:   N: WHO V: rescue
+G:   N: FREEDOM V: is
+G:   N: THAT V: ’s
+G:   N: THAT V: is
+G:   N: LIFE V: requires
+G:   N: TWO V: have

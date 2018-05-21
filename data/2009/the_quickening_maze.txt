@@ -12,8 +12,8 @@ CLARE - M
 ALFRED - M
 MATTHEW - M
 
-N: ASYLUM V: is
-N: CLARE V: finds
-N: POET V: moves
-N: FOULDS V: depicts
-N: MAZE V: is
+G:   N: ASYLUM V: is
+G: M N: CLARE V: finds
+G:   N: POET V: moves
+G:   N: FOULDS V: depicts
+G:   N: MAZE V: is

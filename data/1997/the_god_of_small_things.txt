@@ -11,14 +11,14 @@ CHACKO - M
 MAMMACHI - F
 BABY KOCHAMMA - F
 
-N: YEAR V: is
-N: ESTHAPPEN V: fashion
-N: THAT V: is
-N: MOTHER V: fled
-N: WHO V: loves
-N: CHILDREN V: love
-N: WHO V: plays
-N: WIFE V: brings
-N: TWINS V: learn
-N: THINGS V: change
-N: LIVES V: twist
+G:   N: YEAR V: is
+G: M N: ESTHAPPEN V: fashion
+G:   N: THAT V: is
+G: F N: MOTHER V: fled
+G:   N: WHO V: loves
+G:   N: CHILDREN V: love
+G:   N: WHO V: plays
+G: F N: WIFE V: brings
+G:   N: TWINS V: learn
+G:   N: THINGS V: change
+G:   N: LIVES V: twist

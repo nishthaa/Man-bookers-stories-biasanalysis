@@ -7,4 +7,4 @@ Characters:
 PATAKI - M
 GYURI - M
 
-N: HEROES V: travel
+G: M N: HEROES V: travel

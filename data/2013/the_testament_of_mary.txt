@@ -6,12 +6,12 @@ In a voice that is both tender and filled with rage, The Testament of Mary tells
 Characters:
 MARY - F
 
-N: THAT V: is
-N: TESTAMENT V: tells
-N: WHICH V: led
-N: SHE V: tries
-N: THAT V: led
-N: HE V: was
-N: MARY V: struggles
-N: SHE V: knows
-N: SHE V: emerges
+G:   N: THAT V: is
+G:   N: TESTAMENT V: tells
+G:   N: WHICH V: led
+G: F N: SHE V: tries
+G:   N: THAT V: led
+G: M N: HE V: was
+G: F N: MARY V: struggles
+G: F N: SHE V: knows
+G: F N: SHE V: emerges

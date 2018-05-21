@@ -13,13 +13,12 @@ SILAS - M
 ALI - M
 NELSON - M
 
-N: DANGOR V: established
-N: NOVEL V: is
-N: WHO V: live
-N: ALI V: encountered
-N: LIEUTENANT V: conducting
-N: SILAS V: sees
-N: COMMISSION V: is
-N: SILAS V: contends
-N: FRUIT V: is
-N: WE V: do
+G:   N: NOVEL V: is
+G:   N: WHO V: live
+G: M N: ALI V: encountered
+G: M N: LIEUTENANT V: conducting
+G: M N: SILAS V: sees
+G:   N: COMMISSION V: is
+G: M N: SILAS V: contends
+G:   N: FRUIT V: is
+G:   N: WE V: do

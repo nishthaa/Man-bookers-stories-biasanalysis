@@ -11,21 +11,21 @@ LING - F
 ARITOMO - M
 MAGNUS - M
 
-N: IT V: 's
-N: TEOH V: seeks
-N: SHE V: grew
-N: SHE V: discovers
-N: LING V: seeks
-N: WHO V: died
-N: MONSOON V: comes
-N: SHE V: design
-N: MONTHS V: pass
-N: LING V: finds
-N: HERSELF V: drawn
-N: GARDEN V: is
-N: HE V: come
-N: IT V: is
-N: FRIEND V: seems
-N: LEGEND V: is
-N: IT V: have
-N: LING V: managed
+G:   N: IT V: 's
+G: F N: TEOH V: seeks
+G: F N: SHE V: grew
+G: F N: SHE V: discovers
+G: F N: LING V: seeks
+G:   N: WHO V: died
+G:   N: MONSOON V: comes
+G: F N: SHE V: design
+G:   N: MONTHS V: pass
+G: F N: LING V: finds
+G: F N: HERSELF V: drawn
+G:   N: GARDEN V: is
+G: M N: HE V: come
+G:   N: IT V: is
+G:   N: FRIEND V: seems
+G:   N: LEGEND V: is
+G:   N: IT V: have
+G: F N: LING V: managed

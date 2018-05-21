@@ -12,17 +12,13 @@ And will he hang?
 Characters:
 RODERICK - M
 
-N: CASE V: gripped
-N: NEWSPAPERS V: followed
-N: DREADFULS’ V: described
-N: BURNET V: recounts
-N: MEMOIR V: show
-N: ACCUSED V: admitted
-N: HE V: defend
-N: HE V: was
-N: HE V: have
-N: DOCUMENTS V: reveal
-N: THAT V: shocked
-N: THEY V: reveal
-N: MAN V: commit
-N: HE V: hang
+G:   N: CASE V: gripped
+G:   N: ACCUSED V: admitted
+G: M N: HE V: defend
+G: M N: HE V: was
+G: M N: HE V: have
+G:   N: DOCUMENTS V: reveal
+G:   N: THAT V: shocked
+G:   N: THEY V: reveal
+G: M N: MAN V: commit
+G: M N: HE V: hang

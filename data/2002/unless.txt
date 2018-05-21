@@ -7,5 +7,5 @@ CHARACTERS:
 RETA - F
 NORAH - F
 
-N: WINTERS V: considered
-N: DAUGHTER V: drops
+G:   N: WINTERS V: considered
+G: F N: DAUGHTER V: drops

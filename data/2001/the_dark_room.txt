@@ -8,8 +8,8 @@ HELMUT - M
 LORE - F
 MICHA - M
 
-N: ROOM V: tells
-N: WHO V: uses
-N: WHO V: guides
-N: MICHA V: struggling
-N: GRANDFATHER V: did
+G:   N: ROOM V: tells
+G:   N: WHO V: uses
+G:   N: WHO V: guides
+G: M N: MICHA V: struggling
+G: M N: GRANDFATHER V: did

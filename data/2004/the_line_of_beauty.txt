@@ -10,8 +10,8 @@ NICK - M
 GERALD - M
 RACHEL - F
 
-N: IT V: is
-N: GUEST V: moved
-N: AFFAIR V: gives
-N: IT V: is
-N: THAT V: change
+G:   N: IT V: is
+G:   N: GUEST V: moved
+G:   N: AFFAIR V: gives
+G:   N: IT V: is
+G:   N: THAT V: change

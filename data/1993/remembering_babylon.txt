@@ -6,11 +6,10 @@ In this rich and compelling novel, written in language of astonishing poise and 
 Characters:
 GEMMY - M
 
-N: ONE V: gives
-N: HE V: moves
-N: WHO V: staking
-N: GEMMY V: stands
-N: HE V: is
-N: THAT V: fascinates
-N: IDENTITY V: is
-N: HE V: brings
+G: M N: HE V: moves
+G:   N: WHO V: staking
+G: M N: GEMMY V: stands
+G: M N: HE V: is
+G:   N: THAT V: fascinates
+G:   N: IDENTITY V: is
+G: M N: HE V: brings

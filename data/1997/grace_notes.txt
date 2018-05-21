@@ -7,10 +7,10 @@ Characters:
 CATHERINE - F
 DAVE - M
 
-N: SHE V: left
-N: SHE V: remembers
-N: DRUMS V: sounded
-N: SHE V: remembers
-N: SHE V: remembers
-N: SHE V: had
-N: THIS V: is
+G: F N: SHE V: left
+G: F N: SHE V: remembers
+G:   N: DRUMS V: sounded
+G: F N: SHE V: remembers
+G: F N: SHE V: remembers
+G: F N: SHE V: had
+G:   N: THIS V: is
