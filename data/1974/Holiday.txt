@@ -8,16 +8,16 @@ EDWIN - M
 MEG - F
 STANLEY - M
 
-N: FISHER V: is
-N: REVISITING V: is
-N: EDWIN V: seeking
-N: IT V: turns
-N: PARENTS V: staying
-N: TRUTHS V: emerge
-N: THIS V: is
-N: IT V: was
-N: WORLD V: is
-N: EXCELLENCE V: is
-N: THEY V: are
-N: HE V: is
-N: WORLD V: seem
+G: M N: EDWIN V: is
+G:   N: REVISITING V: is
+G: M N: EDWIN V: seeking
+G:   N: IT V: turns
+G:   N: PARENTS V: staying
+G:   N: TRUTHS V: emerge
+G:   N: THIS V: is
+G:   N: IT V: was
+G:   N: WORLD V: is
+G:   N: EXCELLENCE V: is
+G:   N: THEY V: are
+G: M N: HE V: is
+G:   N: WORLD V: seem

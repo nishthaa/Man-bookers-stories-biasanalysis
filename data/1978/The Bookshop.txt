@@ -3,12 +3,13 @@ Authr: Penelope Fitzgerald
 
 In 1959 Florence Green, a kindhearted widow with a small inheritance, risks everything to open a bookshop - the only bookshop - in the seaside town of Hardborough. By making a success of a business so impractical, she invites the hostility of the town's less prosperous shopkeepers. By daring to enlarge her neighbors' lives, she crosses Mrs. Gamart, the local arts doyenne. Florence's warehouse leaks, her cellar seeps, and the shop is apparently haunted. Only too late does she begin to suspect the truth: a town that lacks a bookshop isn't always a town that wants one.
 
-Characters;
-Florence - F
-Gamart - F
-N: SHE V: invites
-N: SHE V: crosses
-N: SHE V: begin
-N: TOWN V: is
-N: THAT V: lacks
-N: THAT V: wants
+Characters:
+FLORENCE - F
+GAMART - F
+
+G: F N: SHE V: invites
+G: F N: SHE V: crosses
+G: F N: SHE V: begin
+G:   N: TOWN V: is
+G:   N: THAT V: lacks
+G:   N: THAT V: wants

@@ -3,19 +3,19 @@ Author: Anita Desai
 Published By: Mariner
 Set in India's Old Delhi, CLEAR LIGHT OF DAY is Anita Desai's tender, warm, and compassionate novel about family scars, the ability to forgive and forget, and the trials and tribulations of familial love. At the novel's heart are the moving relationships between the members of the Das family, who have grown apart from each other. Bimla is a dissatisfied but ambitious teacher at a women's college who lives in her childhood home, where she cares for her mentally challenged brother, Baba. Tara is her younger, unambitious, estranged sister, married and with children of her own. Raja is their popular, brilliant, and successful brother. When Tara returns for a visit with Bimla and Baba, old memories and tensions resurface and blend into a domestic drama that is intensely beautiful and leads to profound self-understanding
 
-Characters
+Characters:
 ANITA - F
 BIMLA - F
 BABA - M
 TARA - F
 RAJA - M
 
-N: SET V: is
-N: WHO V: grown
-N: BIMLA V: is
-N: WHO V: lives
-N: SHE V: cares
-N: TARA V: is
-N: RAJA V: is
-N: TARA V: returns
-N: THAT V: is
+G:   N: SET V: is
+G:   N: WHO V: grown
+G: F N: BIMLA V: is
+G:   N: WHO V: lives
+G: F N: SHE V: cares
+G: F N: TARA V: is
+G: M N: RAJA V: is
+G: F N: TARA V: returns
+G:   N: THAT V: is

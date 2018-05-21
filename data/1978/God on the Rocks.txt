@@ -1,17 +1,17 @@
 Title: God on the Rocks
 Author: Jane Gardam
 
-With the birth of her baby brother, eight-year-old Margaret Marsh is banished from the house every Wednesday afternoon to enjoy the idyllic English seaside—at peace between the world wars—with the family’s new, young, and bawdy maid. Largely ignored, the child has all the freedom she needs to observe and quietly condemn the adults around her. Gardam’s novel, originally published in the UK in 1978, offers a searing blend of upended morals, delayed salvation, and emotional purgatory, especially where love and sex are concerned. Margaret’s mother, Elinor, begins to lose the faith thrust upon her by her zealot husband, who is bent on the conversion of the young maid, despite protest from both women. How perfect, then, that Mrs. Marsh’s childhood sweetheart should return to town and provide a decidedly secular contrast to her saintly husband. After a pivotal tea party, everyone hurtles toward inevitable tragedy, with Gardam’s intricate prose and keen divining of human nature driving the action. 
+With the birth of her baby brother, eight-year-old Margaret Marsh is banished from the house every Wednesday afternoon to enjoy the idyllic English seaside—at peace between the world wars—with the family’s new, young, and bawdy maid. Largely ignored, the child has all the freedom she needs to observe and quietly condemn the adults around her. Gardam’s novel, originally published in the UK in 1978, offers a searing blend of upended morals, delayed salvation, and emotional purgatory, especially where love and sex are concerned. Margaret’s mother, Elinor, begins to lose the faith thrust upon her by her zealot husband, who is bent on the conversion of the young maid, despite protest from both women. How perfect, then, that Mrs. Marsh’s childhood sweetheart should return to town and provide a decidedly secular contrast to her saintly husband. After a pivotal tea party, everyone hurtles toward inevitable tragedy, with Gardam’s intricate prose and keen divining of human nature driving the action.
 
 Characters:
+MARGARET - F
+ELINOR - F
 
-Margaret - F
-Elinor - F
-N: CHILD V: has
-N: SHE V: needs
-N: NOVEL V: offers
-N: LOVE V: are
-N: ’S V: begins
-N: WHO V: is
-N: SWEETHEART V: return
-N: DIVINING V: driving
+G:   N: CHILD V: has
+G: F N: SHE V: needs
+G:   N: NOVEL V: offers
+G:   N: LOVE V: are
+G:   N: ’S V: begins
+G:   N: WHO V: is
+G:   N: SWEETHEART V: return
+G:   N: DIVINING V: driving

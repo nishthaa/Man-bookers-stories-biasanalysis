@@ -7,10 +7,10 @@ Characters:
 TOM - M
 BIRKIN - M
 
-N: HE V: is
-N: BIRKIN V: finds
-N: SUMMER V: ends
-N: WORK V: done
-N: BIRKIN V: leave
-N: HE V: reflects
-N: HE V: finds
+G: M N: HE V: is
+G: M N: BIRKIN V: finds
+G:   N: SUMMER V: ends
+G:   N: WORK V: done
+G: M N: BIRKIN V: leave
+G: M N: HE V: reflects
+G: M N: HE V: finds

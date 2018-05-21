@@ -10,18 +10,18 @@ CHARLES - M
 CHARLOTTE - F
 ANN - F
 
-N: IT V: is
-N: FAMILY V: making
-N: ONE V: say
-N: SHE V: is
-N: SHE V: travelling
-N: THEY V: board
-N: CHARLOTTE V: mistakes
-N: SHE V: gave
-N: NOVEL V: creates
-N: THAT V: is
-N: IT V: is
-N: JOURNEY V: has
-N: WHICH V: comes
-N: NOVEL V: is
-N: WHICH V: introduces
+G:   N: IT V: is
+G:   N: FAMILY V: making
+G:   N: ONE V: say
+G: F N: SHE V: is
+G: F N: SHE V: travelling
+G:   N: THEY V: board
+G: F N: CHARLOTTE V: mistakes
+G: F N: SHE V: gave
+G:   N: NOVEL V: creates
+G:   N: THAT V: is
+G:   N: IT V: is
+G:   N: JOURNEY V: has
+G:   N: WHICH V: comes
+G:   N: NOVEL V: is
+G:   N: WHICH V: introduces

@@ -7,13 +7,13 @@ Characters:
 JAKE - M
 JOEY - M
 
-N: HORSEMAN V: is
-N: HERSH V: is
-N: EGO V: is
-N: JOEY V: is
-N: HE V: puts
-N: IT V: wanting
-N: HE V: longs
-N: IRREVERENT V: felt
-N: IT V: is
-N: HORSEMAN V: confirms
+G: M N: HORSEMAN V: is
+G: M N: JAKE V: is
+G:   N: EGO V: is
+G: M N: JOEY V: is
+G: M N: HE V: puts
+G:   N: IT V: wanting
+G: M N: HE V: longs
+G:   N: IRREVERENT V: felt
+G:   N: IT V: is
+G: M N: HORSEMAN V: confirms

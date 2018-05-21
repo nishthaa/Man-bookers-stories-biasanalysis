@@ -7,6 +7,6 @@ Characters:
 FRANCIS - M
 HARVEY - M
 
-N: CROFT V: was
-N: WORLD V: was
-N: LAWSON V: watched
+G: M N: FRANCIS V: was
+G:   N: WORLD V: was
+G: M N: HARVEY V: watched

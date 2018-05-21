@@ -6,6 +6,6 @@ Shortlisted for the 1982 Booker Prize, this novel explores the clans and conflic
 Characters:
 SOHO - M
 
-N: NOVEL V: explores
-N: FAMILY V: arrive
-N: FAMILY V: survive
+G:   N: NOVEL V: explores
+G:   N: FAMILY V: arrive
+G:   N: FAMILY V: survive

@@ -11,7 +11,7 @@ MORRIE - M
 SOLOMON- M
 MOSES - M
 
-N: BERGER V: is
-N: QUEST V: leads
-N: BERNARD V: fought
-N: BROTHER V: followed
+G: M N: BERGER V: is
+G:   N: QUEST V: leads
+G: M N: BERNARD V: fought
+G: M N: BROTHER V: followed

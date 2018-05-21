@@ -7,10 +7,10 @@ Characters:
 PATRICK - M
 JAMES - M
 
-N: DOYLE V: is
-N: PATRICK V: begins
-N: DISAFFECTION V: is
-N: HE V: decides
-N: HE V: lives
-N: EXAMINATION V: lies
-N: THAT V: marked
+G: M N: PATRICK V: is
+G: M N: PATRICK V: begins
+G:   N: DISAFFECTION V: is
+G: M N: HE V: decides
+G: M N: HE V: lives
+G:   N: EXAMINATION V: lies
+G:   N: THAT V: marked

@@ -8,12 +8,12 @@ Characters:
 BRUNO - M
 MILES - M
 
-N: BRUNO V: knows
-N: HE V: is
-N: ONE V: is
-N: MARRIAGE V: drove
-N: MILES V: comes
-N: BRUNO V: confront
-N: FAMILY V: overcome
-N: THAT V: grew
-N: DRAMA V: is
+G: M N: BRUNO V: knows
+G: M N: HE V: is
+G:   N: ONE V: is
+G:   N: MARRIAGE V: drove
+G: M N: MILES V: comes
+G: M N: BRUNO V: confront
+G:   N: FAMILY V: overcome
+G:   N: THAT V: grew
+G:   N: DRAMA V: is

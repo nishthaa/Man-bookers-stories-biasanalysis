@@ -5,5 +5,5 @@ An Indonesian island is hastily given independence, and a Chinese-educated homos
 
 Characters:
 
-N: LIFE V: altered
-N: STORY V: represents
+G:   N: LIFE V: altered
+G:   N: STORY V: represents

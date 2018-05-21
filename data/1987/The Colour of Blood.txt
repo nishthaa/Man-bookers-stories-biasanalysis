@@ -1,14 +1,15 @@
 Title: The Colour of Blood
 Author: Brian Moore
 
-Somewhere in an unnamed Eastern bloc country, someone is out to silence Cardinal Bern. Is it the Secret Police, or is it - more shockingly - fanatical Catholic activists who believe that Bern, by keeping the peace between Church and State, has finally compromised himself too far? 
-Narrowly escaping an assassination attempt, Bern is abducted by sinister, anonymous men, and spirited away to a safe-house against his will. Evading his unknown captors, he is faced with a horrifying proposition: no longer sure of whom he can trust, Bern realises that he alone can avert the revolution which threatens to tear his country apart 
+Somewhere in an unnamed Eastern bloc country, someone is out to silence Cardinal Bern. Is it the Secret Police, or is it - more shockingly - fanatical Catholic activists who believe that Bern, by keeping the peace between Church and State, has finally compromised himself too far?
+Narrowly escaping an assassination attempt, Bern is abducted by sinister, anonymous men, and spirited away to a safe-house against his will. Evading his unknown captors, he is faced with a horrifying proposition: no longer sure of whom he can trust, Bern realises that he alone can avert the revolution which threatens to tear his country apart
 
 Characters:
-Bern - M
-N: SOMEONE V: is
-N: IT V: is
-N: WHO V: believe
-N: HE V: trust
-N: HE V: avert
-N: WHICH V: threatens
+BERN - M
+
+G:   N: SOMEONE V: is
+G:   N: IT V: is
+G:   N: WHO V: believe
+G: M N: HE V: trust
+G: M N: HE V: avert
+G:   N: WHICH V: threatens

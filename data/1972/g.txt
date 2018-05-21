@@ -7,9 +7,8 @@ Characters:
 G. - M
 DON - M
 
-N: BERGER V: explores
-N: WHAT V: happens
-N: THAT V: precede
-N: THAT V: infuses
-N: WOMEN V: experience
-N: ALL V: making
+G:   N: WHAT V: happens
+G:   N: THAT V: precede
+G:   N: THAT V: infuses
+G: F N: WOMEN V: experience
+G:   N: ALL V: making

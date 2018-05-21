@@ -5,6 +5,5 @@ In this dazzling tale of an ongoing duel between the families of two men – one
 
 Characters:
 
-N: RUSHDIE V: portrays
-N: SHAME V: is
-N: THAT V: grows
+G:   N: SHAME V: is
+G:   N: THAT V: grows

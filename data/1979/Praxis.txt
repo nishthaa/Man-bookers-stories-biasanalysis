@@ -1,9 +1,9 @@
-Title:Praxis
-aUTHOR:  Fay Weldon
+Title: Praxis
+Author:  Fay Weldon
 
 Tells the story of a woman from childhood to adulthood. The book begins in wartime Brighton and follows Praxis in her various personalities - whore, adulteress and finally murderer. It was shortlisted for the Booker Prize
 
-Characters:
-
+CHARACTERS:
 A woman - F
-N: BOOK V: begins
+
+G:   N: BOOK V: begins

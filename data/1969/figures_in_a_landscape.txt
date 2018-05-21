@@ -6,7 +6,7 @@ Safety is 400 miles away, across savage country but all the time they are pursue
 
 Characters:
 
-N: SOLDIERS V: escaped
-N: RESOURCE V: being
-N: SAFETY V: is
-N: WHICH V: hovers
+G:   N: SOLDIERS V: escaped
+G:   N: RESOURCE V: being
+G:   N: SAFETY V: is
+G:   N: WHICH V: hovers

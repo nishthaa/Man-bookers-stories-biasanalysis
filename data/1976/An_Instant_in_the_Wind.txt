@@ -8,18 +8,18 @@ Characters:
 ADAM - M
 ELIZABETH - F
 
-N: YEAR V: is
-N: BOERS V: ruled
-N: IT V: come
-N: SHE V: refuses
-N: HE V: refuses
-N: BAAS V: smashes
-N: ADAM V: turns
-N: HE V: flees
-N: HE V: comes
-N: SHE V: pleads
-N: ADAM V: agrees
-N: HE V: believes
-N: THIS V: is
-N: THEY V: find
-N: DAYS V: turn
+G:   N: YEAR V: is
+G:   N: BOERS V: ruled
+G:   N: IT V: come
+G: F N: SHE V: refuses
+G: M N: HE V: refuses
+G: M N: BAAS V: smashes
+G: M N: ADAM V: turns
+G: M N: HE V: flees
+G: M N: HE V: comes
+G: F N: SHE V: pleads
+G: M N: ADAM V: agrees
+G: M N: HE V: believes
+G:   N: THIS V: is
+G:   N: THEY V: find
+G:   N: DAYS V: turn

@@ -7,9 +7,9 @@ Characters:
 MICHAEL - M
 DILLON - M
 
-N: WHICH V: leaves
-N: HE V: knows
-N: HE V: planting
-N: THAT V: kill
-N: HE V: knows
-N: HE V: does
+G:   N: WHICH V: leaves
+G: M N: HE V: knows
+G: M N: HE V: planting
+G:   N: THAT V: kill
+G: M N: HE V: knows
+G: M N: HE V: does

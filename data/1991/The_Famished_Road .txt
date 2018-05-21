@@ -8,10 +8,10 @@ Characters:
 BEN - M
 AZARO - M
 
-N: IT V: won
-N: ROAD V: become
-N: IT V: combines
-N: NARRATOR V: is
-N: LIFE V: is
-N: HE V: foresees
-N: HE V: tells
+G:   N: IT V: won
+G:   N: ROAD V: become
+G:   N: IT V: combines
+G: M N: NARRATOR V: is
+G:   N: LIFE V: is
+G: M N: HE V: foresees
+G: M N: HE V: tells

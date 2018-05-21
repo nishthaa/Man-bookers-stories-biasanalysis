@@ -6,8 +6,8 @@ At Tuppenny-Hapenny Cottage a clutch of oldsters, brought together more by ill f
 
 Characters:
 
-N: TITLE V: refers
-N: WE V: spend
-N: THAT V: range
-N: THAT V: 's
-N: REST V: is
+G:   N: TITLE V: refers
+G:   N: WE V: spend
+G:   N: THAT V: range
+G:   N: THAT V: 's
+G:   N: REST V: is

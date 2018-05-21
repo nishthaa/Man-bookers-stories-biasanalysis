@@ -9,10 +9,10 @@ ISEULT - F
 ERIC - M
 CONSTANTINE - M
 
-N: EVA V: found
-N: GUARDIAN V: assumes
-N: ALL V: 's
-N: NATURE V: clicked
-N: EVA V: plotting
-N: SHE V: sets
-N: SHE V: leaves
+G: F N: EVA V: found
+G:   N: GUARDIAN V: assumes
+G:   N: ALL V: 's
+G:   N: NATURE V: clicked
+G: F N: EVA V: plotting
+G: F N: SHE V: sets
+G: F N: SHE V: leaves

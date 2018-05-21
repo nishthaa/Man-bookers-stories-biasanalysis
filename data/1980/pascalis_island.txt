@@ -7,10 +7,10 @@ Characters:
 BASIL - M
 PASCALI - M
 
-N: YEAR V: is
-N: PASCALI V: spied
-N: HE V: received
-N: HE V: fears
-N: VILLAGERS V: found
-N: ENGLISHMAN V: arrives
-N: CUNNING V: come
+G:   N: YEAR V: is
+G: M N: PASCALI V: spied
+G: M N: HE V: received
+G: M N: HE V: fears
+G:   N: VILLAGERS V: found
+G: M N: ENGLISHMAN V: arrives
+G:   N: CUNNING V: come

@@ -7,8 +7,8 @@ This is the story of a miner's son, and his growth from the 1930s on, his rise i
 Characters:
 COLIN - M
 
-N: THIS V: is
-N: WHO V: spurred
-N: COLIN V: finds
-N: HIMSELF V: struggling
-N: THAT V: made
+G:   N: THIS V: is
+G:   N: WHO V: spurred
+G: M N: COLIN V: finds
+G: M N: HIMSELF V: struggling
+G:   N: THAT V: made

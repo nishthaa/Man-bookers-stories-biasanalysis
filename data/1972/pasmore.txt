@@ -8,20 +8,19 @@ Characters:
 COLIN - M
 PASMORE - M
 
-N: PASMORE V: runs
-N: HE V: pumps
-N: HE V: loses
-N: HE V: wakes
-N: LIFE V: be
-N: HE V: has
-N: HE V: approaches
-N: PASMORE V: feels
-N: WALLS V: closing
-N: HE V: find
-N: EXISTENCE V: suffocates
-N: PASMORE V: rents
-N: ADULTERY V: does
-N: MISERY V: threatens
-N: PASMORE V: ask
-N: LIFE V: is
-N: — V: is
+G: M N: PASMORE V: runs
+G: M N: HE V: pumps
+G: M N: HE V: loses
+G: M N: HE V: wakes
+G:   N: LIFE V: be
+G: M N: HE V: has
+G: M N: HE V: approaches
+G: M N: PASMORE V: feels
+G:   N: WALLS V: closing
+G: M N: HE V: find
+G:   N: EXISTENCE V: suffocates
+G: M N: PASMORE V: rents
+G:   N: ADULTERY V: does
+G:   N: MISERY V: threatens
+G: M N: PASMORE V: ask
+G:   N: LIFE V: is

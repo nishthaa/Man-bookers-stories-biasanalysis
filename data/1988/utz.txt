@@ -9,13 +9,13 @@ KASPAR - M
 UTZ - M
 BRUCE - M
 
-N: UTZ V: collects
-N: HE V: protected
-N: ALL V: crammed
-N: HE V: considered
-N: HE V: returns
-N: HE V: take
-N: HE V: leave
-N: UTZ V: is
-N: UTZ V: is
-N: STORY V: is
+G:   N: UTZ V: collects
+G: M N: HE V: protected
+G:   N: ALL V: crammed
+G: M N: HE V: considered
+G: M N: HE V: returns
+G: M N: HE V: take
+G: M N: HE V: leave
+G:   N: UTZ V: is
+G:   N: UTZ V: is
+G:   N: STORY V: is

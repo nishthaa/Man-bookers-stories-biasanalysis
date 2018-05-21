@@ -6,10 +6,10 @@ Mehring is rich. He has all the privileges and possessions that South Africa has
 Characters:
 MEHRING - M
 
-N: MEHRING V: is
-N: HE V: has
-N: AFRICA V: has
-N: POSSESSIONS V: refuse
-N: WIFE V: leave
-N: FOREMAN V: become
-N: LAND V: rises
+G: M N: MEHRING V: is
+G: M N: HE V: has
+G:   N: AFRICA V: has
+G:   N: POSSESSIONS V: refuse
+G: F N: WIFE V: leave
+G:   N: FOREMAN V: become
+G:   N: LAND V: rises

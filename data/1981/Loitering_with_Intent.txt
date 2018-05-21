@@ -8,12 +8,12 @@ FLEUR - F
 QUENTIN - M
 OLIVER - M
 
-N: TALBOT V: rejoices
-N: FLEUR V: finds
-N: EGOMANIACS V: writing
-N: DIRECTOR V: steals
-N: FICTION V: begins
-N: MEMBERS V: begin
-N: FLEUR V: written
-N: THEY V: meet
-N: ART V: start
+G: F N: FLEUR V: rejoices
+G: F N: FLEUR V: finds
+G:   N: EGOMANIACS V: writing
+G: M N: DIRECTOR V: steals
+G:   N: FICTION V: begins
+G:   N: MEMBERS V: begin
+G: F N: FLEUR V: written
+G:   N: THEY V: meet
+G:   N: ART V: start

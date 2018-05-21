@@ -7,8 +7,8 @@ Characters:
 COLIN - M
 MARIA - F
 
-N: HOLIDAY V: unfolds
-N: THEY V: groom
-N: WHO V: cares
-N: THEY V: appear
-N: THEY V: meet
+G:   N: HOLIDAY V: unfolds
+G:   N: THEY V: groom
+G:   N: WHO V: cares
+G:   N: THEY V: appear
+G:   N: THEY V: meet

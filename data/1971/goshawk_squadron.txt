@@ -8,12 +8,12 @@ STANLEY - M
 WOOLLEY - M
 DEREK - M
 
-N: AVIATORS V: were
-N: THEY V: were
-N: PRESS V: idolized
-N: OFFICER V: is
-N: HE V: drums
-N: THIS V: produces
-N: WOOLLEY V: believes
-N: SQUADRON V: be
-N: ROBINSON V: builds
+G:   N: AVIATORS V: were
+G:   N: THEY V: were
+G:   N: PRESS V: idolized
+G:   N: OFFICER V: is
+G: M N: HE V: drums
+G:   N: THIS V: produces
+G: M N: WOOLLEY V: believes
+G:   N: SQUADRON V: be
+G: M N: ROBINSON V: builds

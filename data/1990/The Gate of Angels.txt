@@ -7,5 +7,5 @@ Characters:
 FRED - M
 DAISY - F
 
-N: FAIRLY V: crashes
-N: FRED V: take
+G:   N: FAIRLY V: crashes
+G: M N: FRED V: take

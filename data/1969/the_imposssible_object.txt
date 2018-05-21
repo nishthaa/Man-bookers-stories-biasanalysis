@@ -6,10 +6,10 @@ The impossible object of the title, "the triangle that can exist in two dimensio
 
 Characters:
 
-N: AUTHOR V: pursues
-N: WHO V: have
-N: WHO V: have
-N: OBJECT V: is
-N: THAT V: exist
-N: ONE V: recognizes
-N: IT V: be
+G:   N: AUTHOR V: pursues
+G:   N: WHO V: have
+G:   N: WHO V: have
+G:   N: OBJECT V: is
+G:   N: THAT V: exist
+G:   N: ONE V: recognizes
+G:   N: IT V: be

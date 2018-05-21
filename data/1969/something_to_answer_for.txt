@@ -5,20 +5,20 @@ It was 1956 and Townrow was in Port Said - of these two facts he is reasonably c
 He had been summoned by the widow of his deceased friend Elie Khoury. She is convinced Elie was murdered, but nobody seems to agree with her.
 What of Leah Strauss, the mistress? And of the invading British paratroops?
 Only an Englishman, surely, would take for granted that the British would have behaved themselves.
-In this disorientating world Townrow must reassess the rules by which he has been living his life - to wonder whether he, too, may have something to answer for?
+In this disorientating world TownrG:   ow must reassess the rules by which he has been living his life - to wonder whether he, too, may have something to answer for?
 
 Characters:
 TOWNROW - M
 ELIE - M
 LEAH - F
 
-N: IT V: was
-N: TOWNROW V: was
-N: HE V: is
-N: SHE V: is
-N: NOBODY V: seems
-N: ENGLISHMAN V: take
-N: BRITISH V: behaved
-N: TOWNROW V: reassess
-N: HE V: living
-N: HE V: have
+G:   N: IT V: was
+G: M N: TOWNROW V: was
+G: M N: HE V: is
+G: F N: SHE V: is
+G:   N: NOBODY V: seems
+G: M N: ENGLISHMAN V: take
+G:   N: BRITISH V: behaved
+G: M N: TOWNROW V: reassess
+G: M N: HE V: living
+G: M N: HE V: have

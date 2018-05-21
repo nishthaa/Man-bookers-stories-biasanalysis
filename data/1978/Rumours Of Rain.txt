@@ -2,11 +2,10 @@ Title: Rumours Of Rain
 Author: André Brink
 
 Winter in South Africa - a time of searing drought, angry stirrings in Soweto, and the shadow of the Angolan conflict cast across the scorched bush.
-
 Martin Mynhardt, a wealthy Afrikaner, plans a weekend at his old family farm. But his visit coincides with a time of crisis in his personal life. In a few days, the security of a lifetime is destroyed and, with only the uncertain values of his past to guide him, Mynhardt is left to face the wreckage of his future.
 
 Characters:
+MARTIN - M
 
-Martin - M
-N: MYNHARDT V: plans
-N: VISIT V: coincides
+G: M N: MARTIN V: plans
+G:   N: VISIT V: coincides

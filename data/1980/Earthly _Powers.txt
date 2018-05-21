@@ -9,13 +9,13 @@ KENNETH - M
 DON - M
 CARLO - M
 
-N: BURGESS V: created
-N: MEN V: are
-N: WHO V: represent
-N: WHO V: outlived
-N: CAMPANATI V: are
-N: WHO V: rises
-N: EACH V: pursues
-N: RELATIONSHIP V: becomes
-N: THAT V: incorporates
-N: THAT V: captivate
+G:   N: BURGESS V: created
+G: M N: MEN V: are
+G:   N: WHO V: represent
+G:   N: WHO V: outlived
+G: M N: CAMPANATI V: are
+G:   N: WHO V: rises
+G:   N: EACH V: pursues
+G:   N: RELATIONSHIP V: becomes
+G:   N: THAT V: incorporates
+G:   N: THAT V: captivate

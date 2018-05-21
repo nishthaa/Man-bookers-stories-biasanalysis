@@ -7,6 +7,6 @@ Characters:
 FREDA - F
 BRENDA - F
 
-N: FREDA V: spend
-N: OUTING V: offers
-N: OFFERS V: returns
+G: F N: FREDA V: spend
+G:   N: OUTING V: offers
+G:   N: OFFERS V: returns

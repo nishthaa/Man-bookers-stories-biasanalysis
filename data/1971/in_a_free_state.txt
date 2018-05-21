@@ -7,10 +7,10 @@ Characters:
 BOBBY - M
 LINDA - F
 
-N: IT V: is
-N: PEOPLE V: driving
-N: SQUALOR V: suggest
-N: PROTAGONISTS V: travel
-N: THEY V: find
-N: THEMSELVES V: crossing
-N: THAT V: separates
+G:   N: IT V: is
+G:   N: PEOPLE V: driving
+G:   N: SQUALOR V: suggest
+G:   N: PROTAGONISTS V: travel
+G:   N: THEY V: find
+G:   N: THEMSELVES V: crossing
+G:   N: THAT V: separates

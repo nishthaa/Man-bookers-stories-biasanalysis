@@ -6,5 +6,5 @@ Moran is an old Republican whose life was forever transformed by his days of glo
 Characters:
 MORAN - M
 
-N: MORAN V: is
-N: MORAN V: fighting
+G: M N: MORAN V: is
+G: M N: MORAN V: fighting

@@ -6,9 +6,9 @@ It is a dream of electrifying eroticism and inexplicable violence, recounted by 
 Characters:
 SIGMUND - M
 
-N: IT V: is
-N: IT V: is
-N: IT V: is
-N: POETRY V: is
-N: HOTEL V: is
-N: THAT V: attempts
+G:   N: IT V: is
+G:   N: IT V: is
+G:   N: IT V: is
+G:   N: POETRY V: is
+G:   N: HOTEL V: is
+G:   N: THAT V: attempts

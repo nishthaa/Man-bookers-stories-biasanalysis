@@ -4,13 +4,13 @@ Author: Penelope Lively
 The elderly Claudia Hampton, a best-selling author of popular history; lies alone in a London hospital bed. Memories of her life still glow in her fading consciousness, but she imagines writing a history of the world. Instead, Moon Tiger is her own history, the life of a strong, independent woman, with its often contentious relations with family and friends. At its center — forever frozen in time, the still point of her turning world — is the cruelly truncated affair with Tom, a British tank commander whom Claudia knew as a reporter in Egypt during World War II.
 
 Characters
+CLAUDIA - F
 
-Claudia - F
-N: HAMPTON V: lies
-N: MEMORIES V: glow
-N: SHE V: imagines
-N: TIGER V: is
-N: — V: frozen
-N: POINT V: is
-N: HER V: turning
-N: CLAUDIA V: knew
+G: F N: CLAUDIA V: lies
+G:   N: MEMORIES V: glow
+G: F N: SHE V: imagines
+G:   N: TIGER V: is
+G:   N:   V: frozen
+G:   N: POINT V: is
+G: F N: HER V: turning
+G: F N: CLAUDIA V: knew

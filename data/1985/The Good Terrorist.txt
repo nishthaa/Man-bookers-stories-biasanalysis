@@ -4,10 +4,10 @@ Author:  Doris Lessing
 The Good Terrorist follows Alice Mellings, a woman who transforms her home into a headquarters for a group of radicals who plan to join the IRA. As Alice struggles to bridge her ideology and her bourgeois upbringing, her companions encounter unexpected challenges in their quest to incite social change against complacency and capitalism. With a nuanced sense of the intersections between the personal and the political, Nobel laureate Doris Lessing creates in The Good Terrorist a compelling portrait of domesticity and rebellion.
 
 Characters:
+ALICE - F
 
-Alice - F
-N: TERRORIST V: follows
-N: WHO V: transforms
-N: WHO V: plan
-N: ALICE V: struggles
-N: COMPANIONS V: encounter
+G:   N: TERRORIST V: follows
+G:   N: WHO V: transforms
+G:   N: WHO V: plan
+G: F N: ALICE V: struggles
+G:   N: COMPANIONS V: encounter

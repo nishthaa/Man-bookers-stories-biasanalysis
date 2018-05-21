@@ -8,6 +8,6 @@ IRENE - F
 KYRIL - M
 VALENTINE - F
 
-N: KINGDOM V: is
-N: IRENE V: lives
-N: PEACE V: is
+G:   N: KINGDOM V: is
+G: F N: IRENE V: lives
+G:   N: PEACE V: is

@@ -5,6 +5,6 @@ India, 1857 -- the year of the Great Mutiny, when Muslim soldiers turned in bloo
 
 Characters:
 
-N: SOLDIERS V: turned
-N: RUMORS V: remain
-N: THEY V: find
+G:   N: SOLDIERS V: turned
+G:   N: RUMORS V: remain
+G:   N: THEY V: find

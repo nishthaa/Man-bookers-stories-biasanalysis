@@ -6,8 +6,8 @@ Spark chooses Rome, "the motherland of sensation," for the setting of her story 
 Characters:
 ANNABEL - F
 
-N: SPARK V: chooses
-N: WHO V: made
-N: ERROR V: catch
-N: ACT V: is
-N: SURPRISES V: await
+G:   N: SPARK V: chooses
+G:   N: WHO V: made
+G:   N: ERROR V: catch
+G:   N: ACT V: is
+G:   N: SURPRISES V: await

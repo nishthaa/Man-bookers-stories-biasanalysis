@@ -7,8 +7,8 @@ Characters:
 FLO - F
 ROSE - F
 
-N: MUNRO V: recreates
-N: ONE V: is
-N: OTHER V: is
-N: WHO V: leaves
-N: SHE V: grew
+G:   N: MUNRO V: recreates
+G:   N: ONE V: is
+G:   N: OTHER V: is
+G:   N: WHO V: leaves
+G: F N: SHE V: grew

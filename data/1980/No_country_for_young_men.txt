@@ -5,6 +5,6 @@ Set in present-day Dublin, No Country for Young Men involves an Irish-American t
 
 Characters:
 
-N: SET V: involves
-N: WHAT V: happens
-N: DISPLACES V: thought
+G:   N: SET V: involves
+G:   N: WHAT V: happens
+G:   N: DISPLACES V: thought

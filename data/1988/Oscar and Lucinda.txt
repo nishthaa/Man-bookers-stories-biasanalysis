@@ -10,10 +10,10 @@ PETER - M
 OSCAR - M
 LUCINDA - F
 
-N: PRIZE V: winning
-N: PASSIONS V: became
-N: IT V: is
-N: OSCAR V: is
-N: WHO V: broken
-N: LUCINDA V: moves
-N: BRILLIANCE V: propel
+G:   N: PRIZE V: winning
+G:   N: PASSIONS V: became
+G:   N: IT V: is
+G: M N: OSCAR V: is
+G:   N: WHO V: broken
+G: F N: LUCINDA V: moves
+G:   N: BRILLIANCE V: propel

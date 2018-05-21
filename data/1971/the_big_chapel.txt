@@ -10,13 +10,13 @@ LANNIGAN - M
 EMERINE - M
 HORACE - M
 
-N: IT V: is
-N: KILROY V: written
-N: THAT V: remains
-N: THAT V: range
-N: HE V: draws
-N: IT V: is
-N: IT V: is
-N: THAT V: remain
-N: WHO V: is
-N: WHICH V: is
+G:   N: IT V: is
+G:   N: KILROY V: written
+G:   N: THAT V: remains
+G:   N: THAT V: range
+G: M N: HE V: draws
+G:   N: IT V: is
+G:   N: IT V: is
+G:   N: THAT V: remain
+G:   N: WHO V: is
+G:   N: WHICH V: is

@@ -7,6 +7,6 @@ Characters:
 VANE - M
 ABBOT - M
 
-N: NOVEL V: opens
-N: HE V: is
-N: VANE V: looks
+G:   N: NOVEL V: opens
+G: M N: HE V: is
+G: M N: VANE V: looks

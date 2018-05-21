@@ -5,7 +5,7 @@ Possession is an exhilarating novel of wit and romance, at once an intellectual 
 
 Characters:
 
-N: POSSESSION V: is
-N: IT V: is
-N: THEY V: uncover
-N: WHAT V: emerges
+G:   N: POSSESSION V: is
+G:   N: IT V: is
+G:   N: THEY V: uncover
+G:   N: WHAT V: emerges

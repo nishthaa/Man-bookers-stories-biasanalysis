@@ -4,10 +4,10 @@ Author: Paul Bailey
 Gabriel Harvey is happy until his father inherits a lot of money and becomes a snob and his beloved mother, 35 years younger than his father, vanishes. Gabriel feels that he'll see her again, but gradually comes to accept that they are separating.
 
 Characters:
+GABRIEL - M
 
-Gabriel - M
-N: HARVEY V: is
-N: FATHER V: inherits
-N: GABRIEL V: feels
-N: HE V: see
-N: THEY V: separating
+G: M N: GABRIEL V: is
+G: M N: FATHER V: inherits
+G: M N: GABRIEL V: feels
+G: M N: HE V: see
+G:   N: THEY V: separating

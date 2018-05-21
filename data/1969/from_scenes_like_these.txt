@@ -7,9 +7,9 @@ Characters:
 DUNCAN - M
 LOGAN - M
 
-N: NOVEL V: is
-N: FATHER V: is
-N: LIFE V: seems
-N: FUTURE V: looks
-N: WORLD V: begins
-N: HIMSELF V: trapped
+G:   N: NOVEL V: is
+G: M N: FATHER V: is
+G:   N: LIFE V: seems
+G:   N: FUTURE V: looks
+G:   N: WORLD V: begins
+G: M N: HIMSELF V: trapped

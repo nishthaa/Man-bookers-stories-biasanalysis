@@ -9,8 +9,8 @@ NORMAN - M
 RBBI - M
 BELLA - F
 
-N: NORMAN V: is
-N: HE V: becomes
-N: DETERIORATION V: is
-N: BELLA V: reach
-N: THEY V: crave
+G: M N: NORMAN V: is
+G: M N: HE V: becomes
+G:   N: DETERIORATION V: is
+G: F N: BELLA V: reach
+G:   N: THEY V: crave

@@ -6,8 +6,8 @@ A fascinating look inside the mind of a man who is supposedly “mad.” Profess
 Characters:
 CHARLES - M
 
-N: WHO V: is
-N: WATKINS V: is
-N: DOCTORS V: try
-N: WATKINS V: embarked
-N: HE V: lands
+G:   N: WHO V: is
+G: M N: CHARLES V: is
+G:   N: DOCTORS V: try
+G: M N: CHARLES V: embarked
+G: M N: HE V: lands

@@ -7,9 +7,9 @@ Characters:
 ANGUS - M
 PETWORTH - M
 
-N: PETWORTH V: appear
-N: HIS V: is
-N: HE V: sets
-N: IT V: ’s
-N: HE V: is
-N: PETWORTH V: makes
+G: M N: PETWORTH V: appear
+G: M N: HIS V: is
+G: M N: HE V: sets
+G:   N: IT V: ’s
+G: M N: HE V: is
+G: M N: PETWORTH V: makes

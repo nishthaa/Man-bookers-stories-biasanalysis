@@ -11,9 +11,9 @@ HASSAD - M
 ROB - M
 AUBREY - M
 
-N: PARTY V: is
-N: WORLD V: is
-N: STORY V: continues
-N: SUMMER V: seems
-N: FIGURES V: loom
-N: WHO V: comes
+G:   N: PARTY V: is
+G:   N: WORLD V: is
+G:   N: STORY V: continues
+G:   N: SUMMER V: seems
+G:   N: FIGURES V: loom
+G:   N: WHO V: comes

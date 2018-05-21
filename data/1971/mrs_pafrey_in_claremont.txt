@@ -7,10 +7,10 @@ Characters:
 PALFREY - F
 LUDO - M
 
-N: PALFREY V: arrives
-N: SHE V: spend
-N: RESIDENTS V: are
-N: LIPS V: stiffened
-N: THEY V: fight
-N: PALFREY V: strikes
-N: OLD V: fall
+G: F N: PALFREY V: arrives
+G: F N: SHE V: spend
+G:   N: RESIDENTS V: are
+G:   N: LIPS V: stiffened
+G:   N: THEY V: fight
+G: F N: PALFREY V: strikes
+G:   N: OLD V: fall

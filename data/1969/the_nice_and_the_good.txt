@@ -7,6 +7,6 @@ Characters:
 KATE - F
 OCTAVIAN - M
 
-N: NOVEL V: revolves
-N: NICE V: leads
-N: COUPLES V: sort
+G:   N: NOVEL V: revolves
+G:   N: NICE V: leads
+G:   N: COUPLES V: sort

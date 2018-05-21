@@ -1,16 +1,16 @@
 Title: The Road to Lichfield
 Author: Penelope Lively
 
-In The Road to Lichfield, Penelope Lively explores the nature of history and memory as it is embodied in the life of a forty-year-old woman, Anne Linton, who unexpectedly learns that her father had a mistress. With this new knowledge, Linton must now examine the realities of her own life - of her childhood, her husband - and ask, What do they really know of her? 
-
-Deeply felt, beautifully controlled, The Road to Lichfield is a subtle exploration of memory and identity, of chance and consequence, of the intricate weave of generations across a past never fully known, a future never fully anticipated. 
+In The Road to Lichfield, Penelope Lively explores the nature of history and memory as it is embodied in the life of a forty-year-old woman, Anne Linton, who unexpectedly learns that her father had a mistress. With this new knowledge, Linton must now examine the realities of her own life - of her childhood, her husband - and ask, What do they really know of her?
+Deeply felt, beautifully controlled, The Road to Lichfield is a subtle exploration of memory and identity, of chance and consequence, of the intricate weave of generations across a past never fully known, a future never fully anticipated.
 
 Characters:
-Anne - F
-N: LIVELY V: explores
-N: WHO V: learns
-N: FATHER V: had
-N: LINTON V: examine
-N: THEY V: know
-N: ROAD V: is
-N: FUTURE V: anticipated
+ANNE - F
+
+G:   N: LIVELY V: explores
+G:   N: WHO V: learns
+G: M N: FATHER V: had
+G: F N: ANNE V: examine
+G:   N: THEY V: know
+G:   N: ROAD V: is
+G:   N: FUTURE V: anticipated

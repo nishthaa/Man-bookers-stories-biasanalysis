@@ -6,16 +6,16 @@ It is Bombay in 1971, the year India went to war over what was to become Banglad
 Characters:
 GUSTAD - M
 
-N: IT V: is
-N: INDIA V: went
-N: WHAT V: was
-N: NOBLE V: is
-N: WHO V: sees
-N: LIFE V: unravelling
-N: DAUGHTER V: falls
-N: SON V: defies
-N: HE V: is
-N: HE V: receives
-N: WHAT V: seems
-N: HE V: finds
-N: HIMSELF V: drawn
+G:   N: IT V: is
+G:   N: INDIA V: went
+G:   N: WHAT V: was
+G:   N: NOBLE V: is
+G:   N: WHO V: sees
+G:   N: LIFE V: unravelling
+G: F N: DAUGHTER V: falls
+G: M N: SON V: defies
+G: M N: HE V: is
+G: M N: HE V: receives
+G:   N: WHAT V: seems
+G: M N: HE V: finds
+G: M N: HIMSELF V: drawn

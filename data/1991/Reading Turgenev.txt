@@ -6,5 +6,5 @@ Mary Louise Dallon, fearful of being trapped forever in her parents' cramped far
 Characters:
 MARY - F
 
-N: DALLON V: is
-N: MARRIAGE V: leads
+G: F N: MARY V: is
+G:   N: MARRIAGE V: leads

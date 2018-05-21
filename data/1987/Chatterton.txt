@@ -4,9 +4,9 @@ Author: Peter Ackroyd
 In this remarkable detective novel Peter Ackroyd investigates the death of Thomas Chatterton, the eighteenth-century poet-forger and genius, whose life ended under mysterious circumstances. Fusing themes of illusion and imagination, delusion and dreams, he weaves back and forth between three centuries, introducing a blazing cast of Dickensian eccentrics and rogues, from the outrageous, gin-sipping Harriet Scrope, an elderly female novelist, to the tragic young poet, Charles Wychwood, seeker of Chatterton's secret... They find more riddles than answers from their search.
 
 Characters:
+THOMAS - M
 
-Thomas - M
-N: ACKROYD V: investigates
-N: LIFE V: ended
-N: HE V: weaves
-N: THEY V: find
+G:   N: ACKROYD V: investigates
+G:   N: LIFE V: ended
+G: M N: HE V: weaves
+G:   N: THEY V: find

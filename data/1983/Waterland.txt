@@ -5,5 +5,5 @@ Set in the bleak Fen Country of East Anglia, and spanning some 240 years in the 
 
 Characters:
 
-N: WATERLAND V: is
-N: THAT V: takes
+G:   N: WATERLAND V: is
+G:   N: THAT V: takes

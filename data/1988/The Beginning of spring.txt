@@ -10,18 +10,18 @@ Characters:
 FRANK - M
 PENELOPE - F
 
-N: WIFE V: leaves
-N: SHE V: takes
-N: CHILDREN V: make
-N: THEY V: ought
-N: FATHER V: thinks
-N: IT V: disconcerting
-N: THEY V: seemed
-N: ROUTINES V: drift
-N: HE V: tries
-N: DESIRE V: seem
-N: FRANK V: wants
-N: HE V: is
-N: RUSSIA V: go
-N: AUTHOR V: evokes
-N: SHOTS V: hit
+G: F N: WIFE V: leaves
+G: F N: SHE V: takes
+G:   N: CHILDREN V: make
+G:   N: THEY V: ought
+G: M N: FATHER V: thinks
+G:   N: IT V: disconcerting
+G:   N: THEY V: seemed
+G:   N: ROUTINES V: drift
+G: M N: HE V: tries
+G:   N: DESIRE V: seem
+G: M N: FRANK V: wants
+G: M N: HE V: is
+G:   N: RUSSIA V: go
+G:   N: AUTHOR V: evokes
+G:   N: SHOTS V: hit

@@ -8,7 +8,7 @@ BILLI - F
 MARIA - F
 ALDOUS - M
 
-N: NOVEL V: walks
-N: IT V: picks
-N: LEGACY V: leaves
-N: NARRATOR V: tells
+G:   N: NOVEL V: walks
+G:   N: IT V: picks
+G:   N: LEGACY V: leaves
+G:   N: NARRATOR V: tells

@@ -7,7 +7,7 @@ Characters:
 WILLIAM - M
 BOYD - M
 
-N: WAR V: was
-N: WHO V: go
-N: IT V: follows
-N: LIVES V: converging
+G:   N: WAR V: was
+G:   N: WHO V: go
+G:   N: IT V: follows
+G:   N: LIVES V: converging

@@ -4,9 +4,10 @@ Author: Kingsley Amis
 Nearing sixty, Jake goes in pursuit of his lost libido. But is sex really worth it? As liberationists abuse him; a hostess bores him into bed; and even his wife starts acting oddly, Jake seriously begins to wonder
 
 Characters;
-Jake - M
-N: JAKE V: goes
-N: SEX V: is
-N: LIBERATIONISTS V: abuse
-N: WIFE V: starts
-N: JAKE V: begins
+JAKE - M
+
+G: M N: JAKE V: goes
+G:   N: SEX V: is
+G:   N: LIBERATIONISTS V: abuse
+G: F N: WIFE V: starts
+G: M N: JAKE V: begins
