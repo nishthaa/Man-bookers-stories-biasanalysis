@@ -10,3 +10,7 @@ G:   N: TRAGEDY V: was
 G:   N: THAT V: turned
 G: F N: SHE V: come
 G:   N: TALE V: lies
+
+Mentions:
+Male: 0
+Female: 2

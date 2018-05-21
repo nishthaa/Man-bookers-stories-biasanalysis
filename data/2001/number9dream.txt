@@ -16,3 +16,7 @@ G:   N: THINGS V: keep
 G:   N: IT V: is
 G: M N: EIJI V: acquire
 G:   N: THAT V: be
+
+Mentions:
+Male: 5
+Female: 0

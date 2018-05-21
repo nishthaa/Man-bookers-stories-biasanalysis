@@ -19,3 +19,7 @@ G: M N: HE V: receives
 G:   N: WHAT V: seems
 G: M N: HE V: finds
 G: M N: HIMSELF V: drawn
+
+Mentions:
+Male: 6
+Female: 1

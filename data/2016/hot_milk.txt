@@ -16,3 +16,7 @@ G:   N: THAT V: seem
 G:   N: TREATMENT V: progresses
 G:   N: ILLNESS V: becomes
 G: F N: SHE V: discovers
+
+Mentions:
+Male: 3
+Female: 5

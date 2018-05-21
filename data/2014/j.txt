@@ -22,3 +22,7 @@ G: M N: HE V: ask
 G:   N: WHO V: hurt
 G:   N: BRUTALITY V: grown
 G:   N: THEY V: are
+
+Mentions:
+Male: 6
+Female: 4

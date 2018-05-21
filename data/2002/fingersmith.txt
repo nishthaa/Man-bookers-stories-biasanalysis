@@ -26,3 +26,7 @@ G: F N: SUE V: agrees
 G: F N: SUE V: begins
 G:   N: ONE V: is
 G:   N: IT V: seems
+
+Mentions:
+Male: 1
+Female: 10

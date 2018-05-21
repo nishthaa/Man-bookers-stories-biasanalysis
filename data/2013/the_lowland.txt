@@ -20,3 +20,7 @@ G:   N: THAT V: upend
 G: M N: HIMSELF V: drawn
 G: M N: HE V: give
 G: M N: HE V: believes
+
+Mentions:
+Male: 7
+Female: 0

@@ -8,3 +8,7 @@ Characters:
 G:   N: CLOUDS V: gather
 G:   N: PEERS V: look
 G:   N: IT V: mean
+
+Mentions:
+Male: 0
+Female: 0

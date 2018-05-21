@@ -37,3 +37,7 @@ G:   N: THEY V: discover
 G:   N: THEY V: return
 G:   N: ACCIDENTAL V: is
 G:   N: THAT V: explores
+
+Mentions:
+Male: 5
+Female: 14

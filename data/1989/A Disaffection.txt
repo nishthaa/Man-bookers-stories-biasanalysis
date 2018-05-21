@@ -14,3 +14,7 @@ G: M N: HE V: decides
 G: M N: HE V: lives
 G:   N: EXAMINATION V: lies
 G:   N: THAT V: marked
+
+Mentions:
+Male: 6
+Female: 0

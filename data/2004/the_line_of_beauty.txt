@@ -15,3 +15,7 @@ G:   N: GUEST V: moved
 G:   N: AFFAIR V: gives
 G:   N: IT V: is
 G:   N: THAT V: change
+
+Mentions:
+Male: 2
+Female: 1

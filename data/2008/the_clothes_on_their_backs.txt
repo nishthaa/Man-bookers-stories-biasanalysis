@@ -21,3 +21,7 @@ G:   N: WHO V: wants
 G: M N: HE V: exposes
 G: F N: GRANT V: is
 G:   N: CHARACTERS V: explore
+
+Mentions:
+Male: 1
+Female: 8

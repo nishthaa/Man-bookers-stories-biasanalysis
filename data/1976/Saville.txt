@@ -12,3 +12,7 @@ G:   N: WHO V: spurred
 G: M N: COLIN V: finds
 G: M N: HIMSELF V: struggling
 G:   N: THAT V: made
+
+Mentions:
+Male: 3
+Female: 0

@@ -13,3 +13,7 @@ G:   N: THEY V: confound
 G:   N: AGONY V: is
 G: M N: COPYIST V: transcribes
 G:   N: PAST V: keeps
+
+Mentions:
+Male: 2
+Female: 1

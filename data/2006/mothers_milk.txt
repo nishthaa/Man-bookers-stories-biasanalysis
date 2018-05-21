@@ -17,3 +17,7 @@ G:   N: WHO V: provides
 G: M N: EDWARD V: examines
 G:   N: THAT V: entangle
 G:   N: VESTIGE V: is
+
+Mentions:
+Male: 6
+Female: 1

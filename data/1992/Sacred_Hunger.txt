@@ -16,3 +16,7 @@ G: M N: HE V: loved
 G:   N: VOYAGE V: meets
 G:   N: DISEASE V: spreads
 G:   N: SAILORS V: set
+
+Mentions:
+Male: 6
+Female: 0

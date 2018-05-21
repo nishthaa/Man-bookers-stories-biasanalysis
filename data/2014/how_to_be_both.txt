@@ -15,3 +15,7 @@ G:   N: TECHNIQUE V: borrowing
 G:   N: IT V: ’s
 G:   N: TALES V: gets
 G:   N: TIME V: gets
+
+Mentions:
+Male: 0
+Female: 2

@@ -8,3 +8,7 @@ In effortless and tender prose, Jim Crace details the unraveling of a pastoral i
 Characters:
 
 G: M N: CRACE V: details
+
+Mentions:
+Male: 1
+Female: 0

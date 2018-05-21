@@ -17,3 +17,7 @@ G:   N: ACTION V: includes
 G: M N: BRADLEY V: tries
 G:   N: THAT V: casts
 G:   N: THAT V: preceded
+
+Mentions:
+Male: 5
+Female: 0

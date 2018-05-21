@@ -16,3 +16,7 @@ G:   N: NATURE V: clicked
 G: F N: EVA V: plotting
 G: F N: SHE V: sets
 G: F N: SHE V: leaves
+
+Mentions:
+Male: 2
+Female: 6

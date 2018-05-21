@@ -9,3 +9,7 @@ G:   N: IT V: is
 G:   N: BELIEFS V: represent
 G:   N: WHO V: knows
 G:   N: INNOCENCE V: become
+
+Mentions:
+Male: 0
+Female: 0

@@ -8,3 +8,7 @@ Characters:
 G:   N: SOLDIERS V: turned
 G:   N: RUMORS V: remain
 G:   N: THEY V: find
+
+Mentions:
+Male: 0
+Female: 0

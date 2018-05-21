@@ -9,3 +9,7 @@ Characters:
 G:   N: IT V: uses
 G: M N: HE V: risks
 G: M N: HE V: has
+
+Mentions:
+Male: 2
+Female: 0

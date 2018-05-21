@@ -17,3 +17,7 @@ G:   N: WHO V: begins
 G: F N: APRIL V: talk
 G:   N: THEY V: believe
 G: M N: GREENRIDGE V: is
+
+Mentions:
+Male: 2
+Female: 5

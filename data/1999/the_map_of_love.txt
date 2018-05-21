@@ -16,3 +16,7 @@ G: F N: HERSELF V: enraptured
 G: F N: ISABEL V: fallen
 G: F N: ISABEL V: travels
 G: F G: F N: ISABEL V: travels
+
+Mentions:
+Male: 2
+Female: 8

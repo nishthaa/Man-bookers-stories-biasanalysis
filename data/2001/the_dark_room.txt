@@ -13,3 +13,7 @@ G:   N: WHO V: uses
 G:   N: WHO V: guides
 G: M N: MICHA V: struggling
 G: M N: GRANDFATHER V: did
+
+Mentions:
+Male: 4
+Female: 1

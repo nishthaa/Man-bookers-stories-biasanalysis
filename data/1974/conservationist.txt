@@ -13,3 +13,7 @@ G:   N: POSSESSIONS V: refuse
 G: F N: WIFE V: leave
 G:   N: FOREMAN V: become
 G:   N: LAND V: rises
+
+Mentions:
+Male: 3
+Female: 1

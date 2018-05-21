@@ -12,3 +12,7 @@ G:   N: CHILDREN V: become
 G:   N: THAT V: was
 G:   N: SECRETS V: come
 G:   N: THAT V: leaves
+
+Mentions:
+Male: 1
+Female: 2

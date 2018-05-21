@@ -22,3 +22,7 @@ G: F N: ANNE V: yield
 G: F N: MANTEL V: bring
 G: M N: CROMWELL V: ally
 G: M N: HE V: pay
+
+Mentions:
+Male: 6
+Female: 10

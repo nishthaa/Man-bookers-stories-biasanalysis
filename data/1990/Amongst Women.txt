@@ -8,3 +8,7 @@ MORAN - M
 
 G: M N: MORAN V: is
 G: M N: MORAN V: fighting
+
+Mentions:
+Male: 3
+Female: 0

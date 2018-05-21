@@ -8,3 +8,7 @@ HERBERT - M
 
 G:   N: ILLYWHACKER V: is
 G:   N: NOVEL V: is
+
+Mentions:
+Male: 1
+Female: 0

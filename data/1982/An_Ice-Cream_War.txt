@@ -11,3 +11,7 @@ G:   N: WAR V: was
 G:   N: WHO V: go
 G:   N: IT V: follows
 G:   N: LIVES V: converging
+
+Mentions:
+Male: 2
+Female: 0

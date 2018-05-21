@@ -10,3 +10,7 @@ G:   N: DESTINY V: is
 G:   N: FATE V: thrown
 G:   N: THEY V: come
 G:   N: SWEEP V: spans
+
+Mentions:
+Male: 0
+Female: 1

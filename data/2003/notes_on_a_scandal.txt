@@ -18,3 +18,7 @@ G:   N: IT V: comes
 G: F N: SHEBA V: falls
 G: F N: BARBARA V: decides
 G:   N: THAT V: reveals
+
+Mentions:
+Male: 0
+Female: 8

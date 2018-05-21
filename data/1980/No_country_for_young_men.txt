@@ -8,3 +8,7 @@ Characters:
 G:   N: SET V: involves
 G:   N: WHAT V: happens
 G:   N: DISPLACES V: thought
+
+Mentions:
+Male: 0
+Female: 0

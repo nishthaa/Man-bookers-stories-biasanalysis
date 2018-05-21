@@ -16,3 +16,7 @@ G:   N: THAT V: feels
 G:   N: IT V: is
 G: M N: HE V: communicate
 G: M N: LINCOLN V: is
+
+Mentions:
+Male: 7
+Female: 0

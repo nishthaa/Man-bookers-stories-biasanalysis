@@ -14,3 +14,7 @@ G: F N: ANNE V: examine
 G:   N: THEY V: know
 G:   N: ROAD V: is
 G:   N: FUTURE V: anticipated
+
+Mentions:
+Male: 1
+Female: 2

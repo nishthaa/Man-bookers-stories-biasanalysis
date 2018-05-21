@@ -13,3 +13,7 @@ G:   N: THAT V: change
 G:   N: IT V: follows
 G:   N: ATONEMENT V: engages
 G:   N: THAT V: mark
+
+Mentions:
+Male: 1
+Female: 2

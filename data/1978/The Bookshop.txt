@@ -13,3 +13,7 @@ G: F N: SHE V: begin
 G:   N: TOWN V: is
 G:   N: THAT V: lacks
 G:   N: THAT V: wants
+
+Mentions:
+Male: 0
+Female: 5

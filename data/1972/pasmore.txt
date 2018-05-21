@@ -24,3 +24,7 @@ G:   N: ADULTERY V: does
 G:   N: MISERY V: threatens
 G: M N: PASMORE V: ask
 G:   N: LIFE V: is
+
+Mentions:
+Male: 12
+Female: 0

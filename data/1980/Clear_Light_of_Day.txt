@@ -19,3 +19,7 @@ G: F N: TARA V: is
 G: M N: RAJA V: is
 G: F N: TARA V: returns
 G:   N: THAT V: is
+
+Mentions:
+Male: 3
+Female: 7

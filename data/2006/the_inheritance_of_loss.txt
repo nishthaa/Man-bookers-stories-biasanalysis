@@ -14,3 +14,7 @@ G:   N: WHO V: hopscotching
 G:   N: CHARACTERS V: face
 G:   N: THAT V: illuminate
 G:   N: IT V: collides
+
+Mentions:
+Male: 1
+Female: 2

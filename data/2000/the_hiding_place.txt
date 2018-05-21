@@ -46,3 +46,7 @@ G: F N: SHE V: imparts
 G:   N: PLACE V: is
 G:   N: IT V: is
 G:   N: IT V: burn
+
+Mentions:
+Male: 6
+Female: 12

@@ -9,3 +9,7 @@ ARDEN - M
 G:   N: SILENCE V: has
 G: M N: ARDEN V: allows
 G:   N: THIS V: aroused
+
+Mentions:
+Male: 2
+Female: 0

@@ -12,3 +12,7 @@ G:   N: THEY V: meet
 G:   N: WHO V: persuades
 G:   N: WHAT V: happens
 G:   N: IMPACT V: transcend
+
+Mentions:
+Male: 3
+Female: 0

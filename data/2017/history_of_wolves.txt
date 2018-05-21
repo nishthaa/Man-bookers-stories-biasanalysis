@@ -24,3 +24,7 @@ G: M N: LEO V: is
 G: M N: HE V: returns
 G: F N: SHE V: struggles
 G:   N: WHICH V: have
+
+Mentions:
+Male: 4
+Female: 9

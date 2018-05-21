@@ -41,3 +41,7 @@ G:   N: YOU V: go
 G:   N: NOVEL V: is
 G:   N: IT V: is
 G:   N: YOU V: expect
+
+Mentions:
+Male: 9
+Female: 5

@@ -24,3 +24,7 @@ G:   N: THAT V: been
 G:   N: THAT V: are
 G:   N: SPOOL V: tells
 G:   N: IT V: is
+
+Mentions:
+Male: 1
+Female: 5

@@ -23,3 +23,7 @@ G: M N: HE V: believes
 G:   N: THIS V: is
 G:   N: THEY V: find
 G:   N: DAYS V: turn
+
+Mentions:
+Male: 8
+Female: 3

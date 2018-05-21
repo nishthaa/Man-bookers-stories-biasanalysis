@@ -14,3 +14,7 @@ G:   N: PROTAGONISTS V: travel
 G:   N: THEY V: find
 G:   N: THEMSELVES V: crossing
 G:   N: THAT V: separates
+
+Mentions:
+Male: 1
+Female: 1

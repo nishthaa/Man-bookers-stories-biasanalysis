@@ -13,3 +13,7 @@ G:   N: WHO V: initiated
 G: F N: ELAINE V: come
 G: F N: SHE V: seek
 G:   N: EYE V: is
+
+Mentions:
+Male: 0
+Female: 4

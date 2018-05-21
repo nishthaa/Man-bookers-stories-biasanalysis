@@ -13,3 +13,7 @@ G: M N: HE V: falls
 G:   N: GOSSIP V: inflated
 G:   N: ONE V: understands
 G:   N: AMOUNT V: bring
+
+Mentions:
+Male: 4
+Female: 0

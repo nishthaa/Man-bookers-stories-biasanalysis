@@ -23,3 +23,7 @@ G: F N: SHE V: stretches
 G:   N: THAT V: is
 G:   N: ASSASSIN V: proves
 G: F N: ATWOOD V: is
+
+Mentions:
+Male: 0
+Female: 8

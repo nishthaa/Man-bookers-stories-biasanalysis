@@ -13,3 +13,7 @@ G:   N: FRIENDS V: return
 G:   N: THAT V: stands
 G:   N: “ V: stands
 G:   N: DEVILS V: confronts
+
+Mentions:
+Male: 0
+Female: 0

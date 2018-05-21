@@ -15,3 +15,7 @@ G:   N: BOOK V: traces
 G: M N: MCGREEVY V: struggles
 G:   N: WHAT V: remains
 G:   N: DEPOSITION V: is
+
+Mentions:
+Male: 5
+Female: 1

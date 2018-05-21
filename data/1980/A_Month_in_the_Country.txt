@@ -14,3 +14,7 @@ G:   N: WORK V: done
 G: M N: BIRKIN V: leave
 G: M N: HE V: reflects
 G: M N: HE V: finds
+
+Mentions:
+Male: 7
+Female: 0

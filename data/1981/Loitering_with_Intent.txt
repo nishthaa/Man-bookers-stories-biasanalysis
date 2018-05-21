@@ -17,3 +17,7 @@ G:   N: MEMBERS V: begin
 G: F N: FLEUR V: written
 G:   N: THEY V: meet
 G:   N: ART V: start
+
+Mentions:
+Male: 3
+Female: 4

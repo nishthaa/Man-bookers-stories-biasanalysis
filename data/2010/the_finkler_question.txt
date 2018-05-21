@@ -33,3 +33,7 @@ G:   N: IT V: ’s
 G: M N: HE V: is
 G:   N: QUESTION V: is
 G:   N: NOVEL V: shows
+
+Mentions:
+Male: 10
+Female: 0

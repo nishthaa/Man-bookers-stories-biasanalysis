@@ -14,3 +14,7 @@ G: F N: WIFE V: disappears
 G: M N: HE V: has
 G:   N: CLUES V: lead
 G:   N: THAT V: covers
+
+Mentions:
+Male: 4
+Female: 3

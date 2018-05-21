@@ -21,3 +21,7 @@ G:   N: THEY V: are
 G:   N: RUMORS V: spreading
 G:   N: THAT V: lead
 G:   N: TIME V: come
+
+Mentions:
+Male: 2
+Female: 3

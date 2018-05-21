@@ -11,3 +11,7 @@ G: M N: HE V: was
 G: M N: HE V: became
 G:   N: THIS V: is
 G:   N: WHO V: risked
+
+Mentions:
+Male: 4
+Female: 0

@@ -17,3 +17,7 @@ G: M N: HE V: considers
 G: M N: LURIE V: seduces
 G: M N: HE V: sets
 G:   N: THAT V: shatter
+
+Mentions:
+Male: 10
+Female: 0

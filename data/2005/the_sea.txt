@@ -14,3 +14,7 @@ G: M N: HE V: met
 G: M N: HE V: experienced
 G: M N: MAX V: comes
 G:   N: WE V: had
+
+Mentions:
+Male: 6
+Female: 0

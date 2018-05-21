@@ -18,3 +18,7 @@ G:   N: IT V: gets
 G: M N: SZALAY V: is
 G:   N: THAT V: vibrates
 G: M G: F N: MAN V: is
+
+Mentions:
+Male: 5
+Female: 0

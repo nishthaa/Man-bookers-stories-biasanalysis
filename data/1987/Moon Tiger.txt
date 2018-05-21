@@ -14,3 +14,7 @@ G:   N:   V: frozen
 G:   N: POINT V: is
 G: F N: HER V: turning
 G: F N: CLAUDIA V: knew
+
+Mentions:
+Male: 0
+Female: 5

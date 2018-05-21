@@ -9,3 +9,7 @@ NORAH - F
 
 G:   N: WINTERS V: considered
 G: F N: DAUGHTER V: drops
+
+Mentions:
+Male: 0
+Female: 3

@@ -22,3 +22,7 @@ G: F N: WIFE V: brings
 G:   N: TWINS V: learn
 G:   N: THINGS V: change
 G:   N: LIVES V: twist
+
+Mentions:
+Male: 3
+Female: 5

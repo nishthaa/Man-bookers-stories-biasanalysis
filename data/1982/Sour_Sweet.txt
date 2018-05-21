@@ -9,3 +9,7 @@ SOHO - M
 G:   N: NOVEL V: explores
 G:   N: FAMILY V: arrive
 G:   N: FAMILY V: survive
+
+Mentions:
+Male: 1
+Female: 0

@@ -7,3 +7,7 @@ Characters:
 
 G: M N: FATHER V: sells
 G:   N: LIVES V: lead
+
+Mentions:
+Male: 1
+Female: 0

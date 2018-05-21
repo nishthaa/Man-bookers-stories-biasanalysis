@@ -29,3 +29,7 @@ G: M N: MEN V: began
 G:   N: VIOLENCE V: grew
 G:   N: ELMET V: is
 G:   N: BOND V: go
+
+Mentions:
+Male: 11
+Female: 1

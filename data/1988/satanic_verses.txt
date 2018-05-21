@@ -12,3 +12,7 @@ G:   N: WHAT V: is
 G:   N: THIS V: is
 G:   N: THAT V: merges
 G:   N: VERSES V: is
+
+Mentions:
+Male: 0
+Female: 0

@@ -9,3 +9,7 @@ DAISY - F
 
 G:   N: FAIRLY V: crashes
 G: M N: FRED V: take
+
+Mentions:
+Male: 2
+Female: 1

@@ -12,3 +12,7 @@ KATHERINE - F
 G:   N: CLEMENCY V: is
 G:   N: CLEMENCY V: charts
 G:   N: CLEMENCY V: is
+
+Mentions:
+Male: 2
+Female: 1

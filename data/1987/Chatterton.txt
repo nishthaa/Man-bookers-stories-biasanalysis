@@ -10,3 +10,7 @@ G:   N: ACKROYD V: investigates
 G:   N: LIFE V: ended
 G: M N: HE V: weaves
 G:   N: THEY V: find
+
+Mentions:
+Male: 2
+Female: 0

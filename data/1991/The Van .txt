@@ -11,3 +11,7 @@ G: M N: JIMMY V: is
 G:   N: THEY V: keep
 G:   N: THINGS V: seem
 G:   N: THEY V: buy
+
+Mentions:
+Male: 3
+Female: 0

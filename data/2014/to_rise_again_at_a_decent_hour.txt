@@ -15,3 +15,7 @@ G:   N: SOMEONE V: begins
 G: M N: HE V: watches
 G:   N: WHAT V: begins
 G: M N: PAUL V: be
+
+Mentions:
+Male: 6
+Female: 0

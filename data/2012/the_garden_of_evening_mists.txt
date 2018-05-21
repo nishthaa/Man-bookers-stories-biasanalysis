@@ -29,3 +29,7 @@ G:   N: FRIEND V: seems
 G:   N: LEGEND V: is
 G:   N: IT V: have
 G: F N: LING V: managed
+
+Mentions:
+Male: 3
+Female: 10

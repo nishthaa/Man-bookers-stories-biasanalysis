@@ -22,3 +22,7 @@ G:   N: IT V: throw
 G:   N: LETTER V: is
 G:   N: SENSE V: is
 G:   N: IT V: is
+
+Mentions:
+Male: 6
+Female: 0

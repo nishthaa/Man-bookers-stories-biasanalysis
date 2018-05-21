@@ -19,3 +19,7 @@ G:   N: EACH V: pursues
 G:   N: RELATIONSHIP V: becomes
 G:   N: THAT V: incorporates
 G:   N: THAT V: captivate
+
+Mentions:
+Male: 5
+Female: 0

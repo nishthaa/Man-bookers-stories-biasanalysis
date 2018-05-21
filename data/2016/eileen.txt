@@ -14,3 +14,7 @@ G: M N: JOHN V: arrives
 G:   N: WHAT V: appears
 G:   N: AFFECTION V: pulls
 G:   N: THAT V: surpasses
+
+Mentions:
+Male: 2
+Female: 3

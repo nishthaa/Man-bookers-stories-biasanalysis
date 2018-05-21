@@ -7,3 +7,7 @@ Characters:
 SHEILA - F
 
 G: F N: HERSELF V: caught
+
+Mentions:
+Male: 0
+Female: 2

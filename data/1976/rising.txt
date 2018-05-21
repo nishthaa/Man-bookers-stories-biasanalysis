@@ -11,3 +11,7 @@ G:   N: WHO V: attacking
 G: M N: SABINO V: embarks
 G:   N: IT V: is
 G:   N: STRUGGLE V: lies
+
+Mentions:
+Male: 3
+Female: 0

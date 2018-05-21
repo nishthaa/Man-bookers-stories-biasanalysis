@@ -6,3 +6,7 @@ Offred is a Handmaid in the Republic of Gilead. She may leave the home of the Co
 Characters:
 OFFRED - F
 COMMANDER - M
+
+Mentions:
+Male: 1
+Female: 1

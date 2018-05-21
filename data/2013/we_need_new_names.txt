@@ -20,3 +20,7 @@ G: F N: SHE V: travels
 G:   N: OPTIONS V: are
 G:   N: WHO V: come
 G: F N: SHE V: tells
+
+Mentions:
+Male: 1
+Female: 9

@@ -27,3 +27,7 @@ G:   N: THAT V: takes
 G:   N: RESULT V: is
 G:   N: SYMMETRY V: transcends
 G:   N: FRACTION V: is
+
+Mentions:
+Male: 11
+Female: 0

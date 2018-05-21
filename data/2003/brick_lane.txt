@@ -19,3 +19,7 @@ G:   N: THAT V: dissipate
 G:   N: WHICH V: begins
 G:   N: WHICH V: emerges
 G:   N: BOTH V: have
+
+Mentions:
+Male: 0
+Female: 6

@@ -11,3 +11,7 @@ G: M N: CHARLES V: is
 G:   N: DOCTORS V: try
 G: M N: CHARLES V: embarked
 G: M N: HE V: lands
+
+Mentions:
+Male: 4
+Female: 0

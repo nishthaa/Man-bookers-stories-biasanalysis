@@ -19,3 +19,7 @@ G: M N: ALEX V: is
 G:   N: IT V: ends
 G: M N: HIS V: having
 G:   N: CLIMAX V: shattering
+
+Mentions:
+Male: 7
+Female: 0

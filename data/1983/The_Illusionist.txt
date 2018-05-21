@@ -19,3 +19,7 @@ G: F N: SHE V: demonstrates
 G: F N: MAGUS V: mixes
 G: M N: HE V: travels
 G:   N: ALL V: see
+
+Mentions:
+Male: 6
+Female: 4

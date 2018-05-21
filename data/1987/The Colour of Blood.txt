@@ -13,3 +13,7 @@ G:   N: WHO V: believe
 G: M N: HE V: trust
 G: M N: HE V: avert
 G:   N: WHICH V: threatens
+
+Mentions:
+Male: 3
+Female: 0

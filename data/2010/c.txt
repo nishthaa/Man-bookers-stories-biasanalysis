@@ -20,3 +20,7 @@ G:   N: WHAT V: follows
 G:   N: SETTINGS V: give
 G:   N: THIS V: is
 G:   N: THAT V: sustain
+
+Mentions:
+Male: 3
+Female: 0

@@ -18,3 +18,7 @@ G:   N: IT V: is
 G:   N: STRUGGLE V: remain
 G:   N: THEY V: devoted
 G:   N: FATES V: reverberate
+
+Mentions:
+Male: 0
+Female: 7

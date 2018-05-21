@@ -20,3 +20,7 @@ G: M N: FRANK V: met
 G: M N: LAURENCE V: wants
 G:   N: PAST V: demanding
 G:   N: IDEALISM V: last
+
+Mentions:
+Male: 9
+Female: 0

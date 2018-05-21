@@ -18,3 +18,7 @@ G:   N: WORLD V: seems
 G:   N: GENERATION V: heading
 G:   N: WHO V: loved
 G:   N: NOVEL V: is
+
+Mentions:
+Male: 0
+Female: 3

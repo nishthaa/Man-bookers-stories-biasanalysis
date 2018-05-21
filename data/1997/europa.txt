@@ -12,3 +12,7 @@ G:   N: JOB V: is
 G:   N: WHAT V: lies
 G:   N: PREMONITIONS V: seem
 G:   N: IT V: is
+
+Mentions:
+Male: 2
+Female: 0

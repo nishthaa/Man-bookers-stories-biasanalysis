@@ -21,3 +21,7 @@ G:   N: EXCELLENCE V: is
 G:   N: THEY V: are
 G: M N: HE V: is
 G:   N: WORLD V: seem
+
+Mentions:
+Male: 5
+Female: 1

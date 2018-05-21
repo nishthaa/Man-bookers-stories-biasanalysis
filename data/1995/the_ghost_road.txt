@@ -13,3 +13,7 @@ G: M N: BILLY V: is
 G: M N: HE V: was
 G:   N: THAT V: destroyed
 G: M N: HE V: studied
+
+Mentions:
+Male: 7
+Female: 0

@@ -21,3 +21,7 @@ G:   N: READERS V: take
 G:   N: PLOT V: rushes
 G: M N: AUSTER V: written
 G:   N: READERS V: seen
+
+Mentions:
+Male: 6
+Female: 3

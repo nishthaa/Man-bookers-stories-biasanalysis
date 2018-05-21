@@ -18,3 +18,7 @@ G:   N: ENRIGHT V: traces
 G:   N: GATHERING V: is
 G:   N: IT V: is
 G:   N: MEMORIES V: warp
+
+Mentions:
+Male: 1
+Female: 5

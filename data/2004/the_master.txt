@@ -20,3 +20,7 @@ G:   N: IDENTITY V: remained
 G: M N: JAMES V: circulated
 G:   N: ATTEMPTS V: failed
 G: M N: HE V: tried
+
+Mentions:
+Male: 7
+Female: 0

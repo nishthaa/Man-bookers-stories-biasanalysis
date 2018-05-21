@@ -11,3 +11,7 @@ G:   N: THEY V: taken
 G:   N: THEY V: drive
 G:   N: ERRAND V: becomes
 G:   N: SWIFT V: creates
+
+Mentions:
+Male: 2
+Female: 0

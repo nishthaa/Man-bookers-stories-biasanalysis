@@ -15,3 +15,7 @@ G:   N: ’S V: begins
 G:   N: WHO V: is
 G:   N: SWEETHEART V: return
 G:   N: DIVINING V: driving
+
+Mentions:
+Male: 0
+Female: 3

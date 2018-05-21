@@ -19,3 +19,7 @@ G:   N: WHAT V: is
 G: M N: HE V: fears
 G: M N: HE V: be
 G:   N: THAT V: define
+
+Mentions:
+Male: 6
+Female: 0

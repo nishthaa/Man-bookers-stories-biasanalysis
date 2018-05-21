@@ -14,3 +14,7 @@ G:   N: LIPS V: stiffened
 G:   N: THEY V: fight
 G: F N: PALFREY V: strikes
 G:   N: OLD V: fall
+
+Mentions:
+Male: 1
+Female: 4

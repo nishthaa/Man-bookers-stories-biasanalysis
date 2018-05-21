@@ -14,3 +14,7 @@ G: F N: GIRLFRIEND V: disappears
 G:   N: POLICE V: question
 G:   N: THEY V: name
 G:   N: THIS V: is
+
+Mentions:
+Male: 4
+Female: 1

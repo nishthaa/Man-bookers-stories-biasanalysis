@@ -6,3 +6,7 @@ The third in Doris Lessing's visionary novel cycle "Canopus in Argos: Archives".
 Characters:
 
 G:   N: IT V: is
+
+Mentions:
+Male: 0
+Female: 0

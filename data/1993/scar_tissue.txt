@@ -9,3 +9,7 @@ G: M N: NARRATOR V: is
 G: F N: MOTHER V: dying
 G: M N: HUSBAND V: dies
 G: F N: WIFE V: grows
+
+Mentions:
+Male: 2
+Female: 2

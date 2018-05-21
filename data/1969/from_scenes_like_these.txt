@@ -13,3 +13,7 @@ G:   N: LIFE V: seems
 G:   N: FUTURE V: looks
 G:   N: WORLD V: begins
 G: M N: HIMSELF V: trapped
+
+Mentions:
+Male: 4
+Female: 0

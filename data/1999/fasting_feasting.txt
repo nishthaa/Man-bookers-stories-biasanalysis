@@ -15,3 +15,7 @@ G: F N: UMA V: comes
 G:   N: THAT V: arranged
 G: M N: ARUN V: goes
 G: F N: WOMEN V: appear
+
+Mentions:
+Male: 2
+Female: 4

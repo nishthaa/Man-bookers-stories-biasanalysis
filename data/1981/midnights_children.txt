@@ -10,3 +10,7 @@ G: M N: HIMSELF V: handcuffed
 G: M N: HE V: is
 G:   N: EACH V: endowed
 G:   N: PRIVILEGE V: is
+
+Mentions:
+Male: 3
+Female: 0

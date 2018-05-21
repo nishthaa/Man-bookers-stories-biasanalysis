@@ -13,3 +13,7 @@ G: M N: HE V: finds
 G: M N: HIMSELF V: running
 G:   N: WHO V: longs
 G: M N: THORFINN V: dreams
+
+Mentions:
+Male: 7
+Female: 0

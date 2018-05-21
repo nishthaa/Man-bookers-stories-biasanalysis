@@ -11,3 +11,7 @@ G:   N: THAT V: drive
 G:   N: MURDOCH V: lays
 G:   N: THEY V: present
 G:   N: CONFRONTATION V: is
+
+Mentions:
+Male: 1
+Female: 1

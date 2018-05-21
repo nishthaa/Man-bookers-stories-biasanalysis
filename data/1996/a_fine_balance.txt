@@ -15,3 +15,7 @@ G:   N: GOVERNMENT V: declared
 G:   N: WHO V: fled
 G:   N: CHARACTERS V: move
 G:   N: BALANCE V: creates
+
+Mentions:
+Male: 1
+Female: 0

@@ -16,3 +16,7 @@ G:   N: WHO V: seek
 G: M N: HE V: listens
 G: F N: SHE V: remember
 G: M N: HE V: find
+
+Mentions:
+Male: 2
+Female: 4

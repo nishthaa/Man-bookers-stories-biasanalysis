@@ -36,3 +36,7 @@ G:   N: PEOPLE V: illuminates
 G:   N: IT V: is
 G:   N: IT V: means
 G:   N: THAT V: heal
+
+Mentions:
+Male: 3
+Female: 6

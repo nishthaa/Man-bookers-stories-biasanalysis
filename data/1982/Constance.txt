@@ -17,3 +17,7 @@ G:   N: STORY V: continues
 G:   N: SUMMER V: seems
 G:   N: FIGURES V: loom
 G:   N: WHO V: comes
+
+Mentions:
+Male: 4
+Female: 2

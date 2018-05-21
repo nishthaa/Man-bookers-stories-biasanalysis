@@ -20,3 +20,7 @@ G: M N: HE V: is
 G:   N: JOURNEY V: ends
 G:   N: JOURNEYS V: change
 G:   N: NOVEL V: is
+
+Mentions:
+Male: 4
+Female: 0

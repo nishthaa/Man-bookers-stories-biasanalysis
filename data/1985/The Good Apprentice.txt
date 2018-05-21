@@ -15,3 +15,7 @@ G: M N: EDWARD V: torments
 G: M N: STUART V: seeks
 G:   N: APPRENTICE V: is
 G:   N: THAT V: afflict
+
+Mentions:
+Male: 7
+Female: 0

@@ -16,3 +16,7 @@ G:   N: THEY V: are
 G: F N: LUCY V: runs
 G: F N: SHE V: sets
 G:   N: THAT V: affect
+
+Mentions:
+Male: 1
+Female: 5

@@ -8,3 +8,7 @@ TUSKER - M
 LILY - F
 
 G:   N: ON V: is
+
+Mentions:
+Male: 1
+Female: 1

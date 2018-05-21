@@ -13,3 +13,7 @@ G: M N: KELLY V: is
 G:   N: WHO V: was
 G: M N: NED V: saw
 G:   N: TALE V: is
+
+Mentions:
+Male: 6
+Female: 0

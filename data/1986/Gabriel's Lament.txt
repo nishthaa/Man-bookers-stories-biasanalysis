@@ -11,3 +11,7 @@ G: M N: FATHER V: inherits
 G: M N: GABRIEL V: feels
 G: M N: HE V: see
 G:   N: THEY V: separating
+
+Mentions:
+Male: 5
+Female: 0

@@ -8,3 +8,7 @@ NELSON - M
 ANTHONY - M
 
 G:   N: I V: meet
+
+Mentions:
+Male: 2
+Female: 0

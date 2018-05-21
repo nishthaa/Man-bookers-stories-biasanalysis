@@ -17,3 +17,7 @@ G:   N: WHO V: sees
 G: M N: BROTHER V: is
 G:   N: THIS V: is
 G:   N: IT V: lurches
+
+Mentions:
+Male: 4
+Female: 2

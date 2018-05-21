@@ -15,3 +15,7 @@ G: M N: BERGER V: is
 G:   N: QUEST V: leads
 G: M N: BERNARD V: fought
 G: M N: BROTHER V: followed
+
+Mentions:
+Male: 8
+Female: 0

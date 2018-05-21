@@ -17,3 +17,7 @@ G: M N: MOOR V: chooses
 G:   N: NOVEL V: ends
 G:   N: WHO V: was
 G: M N: MOOR V: has
+
+Mentions:
+Male: 6
+Female: 2

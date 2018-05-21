@@ -17,3 +17,7 @@ G: M N: HE V: longs
 G:   N: IRREVERENT V: felt
 G:   N: IT V: is
 G: M N: HORSEMAN V: confirms
+
+Mentions:
+Male: 8
+Female: 0

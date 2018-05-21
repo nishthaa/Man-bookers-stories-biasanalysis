@@ -12,3 +12,7 @@ G:   N: THEY V: groom
 G:   N: WHO V: cares
 G:   N: THEY V: appear
 G:   N: THEY V: meet
+
+Mentions:
+Male: 1
+Female: 1

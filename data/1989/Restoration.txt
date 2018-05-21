@@ -14,3 +14,7 @@ G:   N: FORTUNES V: transformed
 G: M N: MERIVEL V: slips
 G: M N: HE V: transgresses
 G:   N: WHICH V: take
+
+Mentions:
+Male: 7
+Female: 0

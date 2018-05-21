@@ -17,3 +17,7 @@ G: M N: CLARE V: finds
 G:   N: POET V: moves
 G:   N: FOULDS V: depicts
 G:   N: MAZE V: is
+
+Mentions:
+Male: 5
+Female: 0

@@ -15,3 +15,7 @@ G:   N: THEMSELVES V: entering
 G:   N: THAT V: undo
 G:   N: PLAY V: is
 G:   N: THAT V: captivates
+
+Mentions:
+Male: 3
+Female: 0

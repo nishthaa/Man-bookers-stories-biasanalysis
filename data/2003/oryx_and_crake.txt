@@ -16,3 +16,7 @@ G:   N: THAT V: was
 G:   N: CORPORATIONS V: took
 G: F N: ATWOOD V: projects
 G:   N: THAT V: is
+
+Mentions:
+Male: 3
+Female: 4

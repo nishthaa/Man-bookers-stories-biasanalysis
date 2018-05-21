@@ -29,3 +29,7 @@ G:   N: DESTINIES V: become
 G:   N: THEY V: foreseen
 G:   N: IT V: means
 G:   N: IT V: costs
+
+Mentions:
+Male: 5
+Female: 2

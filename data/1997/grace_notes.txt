@@ -14,3 +14,7 @@ G: F N: SHE V: remembers
 G: F N: SHE V: remembers
 G: F N: SHE V: had
 G:   N: THIS V: is
+
+Mentions:
+Male: 1
+Female: 6

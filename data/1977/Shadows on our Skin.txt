@@ -11,3 +11,7 @@ LOGAN - M
 G: M N: LOGAN V: growing
 G:   N: THAT V: grows
 G:   N: WHO V: brings
+
+Mentions:
+Male: 2
+Female: 1

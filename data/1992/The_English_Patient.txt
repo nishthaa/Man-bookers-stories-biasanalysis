@@ -11,3 +11,7 @@ KIP - M
 
 G:   N: WHO V: lies
 G:   N: MEMORIES V: illuminate
+
+Mentions:
+Male: 3
+Female: 1

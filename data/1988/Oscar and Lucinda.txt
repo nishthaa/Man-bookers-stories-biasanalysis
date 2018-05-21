@@ -17,3 +17,7 @@ G: M N: OSCAR V: is
 G:   N: WHO V: broken
 G: F N: LUCINDA V: moves
 G:   N: BRILLIANCE V: propel
+
+Mentions:
+Male: 3
+Female: 2

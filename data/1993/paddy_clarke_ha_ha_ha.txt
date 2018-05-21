@@ -20,3 +20,7 @@ G:   N: ANYONE V: help
 G: M G:   N: LEAVY V: trying
 G: M N: PADDY V: sees
 G: M N: HE V: understands
+
+Mentions:
+Male: 10
+Female: 0

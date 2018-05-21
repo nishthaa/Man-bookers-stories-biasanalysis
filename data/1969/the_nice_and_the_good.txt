@@ -10,3 +10,7 @@ OCTAVIAN - M
 G:   N: NOVEL V: revolves
 G:   N: NICE V: leads
 G:   N: COUPLES V: sort
+
+Mentions:
+Male: 1
+Female: 1

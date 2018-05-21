@@ -14,3 +14,7 @@ G:   N: WHO V: rescued
 G:   N: HULME V: created
 G:   N: WHAT V: is
 G:   N: PEOPLE V: is
+
+Mentions:
+Male: 2
+Female: 2

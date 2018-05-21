@@ -22,3 +22,7 @@ G:   N: BRITISH V: behaved
 G: M N: TOWNROW V: reassess
 G: M N: HE V: living
 G: M N: HE V: have
+
+Mentions:
+Male: 8
+Female: 2

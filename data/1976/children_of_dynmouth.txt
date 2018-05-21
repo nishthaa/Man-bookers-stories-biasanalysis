@@ -2,3 +2,7 @@ Title: The Children of Dynmouth
 Author: William Trevor
 Published By:
 
+
+Mentions:
+Male: 0
+Female: 0

@@ -10,3 +10,7 @@ G:   N: IT V: is
 G: F N: SHE V: becomes
 G:   N: O'HARA V: arrives
 G:   N: DRAMA V: unfolds
+
+Mentions:
+Male: 0
+Female: 2

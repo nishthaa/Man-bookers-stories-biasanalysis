@@ -12,3 +12,7 @@ G:   N: THAT V: precede
 G:   N: THAT V: infuses
 G: F N: WOMEN V: experience
 G:   N: ALL V: making
+
+Mentions:
+Male: 2
+Female: 1

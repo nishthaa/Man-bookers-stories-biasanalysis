@@ -23,3 +23,7 @@ G:   N: TENDER V: set
 G:   N: NOVEL V: is
 G:   N: THAT V: offers
 G:   N: WATCH V: is
+
+Mentions:
+Male: 1
+Female: 5

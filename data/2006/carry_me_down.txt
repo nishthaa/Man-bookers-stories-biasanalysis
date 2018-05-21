@@ -19,3 +19,7 @@ G: M N: JOHN V: is
 G:   N: THIS V: creates
 G:   N: DOWN V: is
 G:   N: DRAMA V: drives
+
+Mentions:
+Male: 5
+Female: 0

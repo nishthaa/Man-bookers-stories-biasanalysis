@@ -20,3 +20,7 @@ G:   N: LIVES V: anatomizes
 G:   N: IT V: unfolds
 G:   N: IT V: questions
 G:   N: IT V: is
+
+Mentions:
+Male: 2
+Female: 0

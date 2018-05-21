@@ -17,3 +17,7 @@ G: M N: BRUNO V: confront
 G:   N: FAMILY V: overcome
 G:   N: THAT V: grew
 G:   N: DRAMA V: is
+
+Mentions:
+Male: 6
+Female: 0

@@ -25,3 +25,7 @@ G:   N: JOURNEY V: has
 G:   N: WHICH V: comes
 G:   N: NOVEL V: is
 G:   N: WHICH V: introduces
+
+Mentions:
+Male: 1
+Female: 6

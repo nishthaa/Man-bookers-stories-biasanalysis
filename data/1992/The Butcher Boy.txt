@@ -21,3 +21,7 @@ G:   N: YOU V: are
 G:   N: YOU V: see
 G:   N: WHAT V: coming
 G:   N: THIS V: is
+
+Mentions:
+Male: 2
+Female: 5

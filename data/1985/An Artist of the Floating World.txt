@@ -14,3 +14,7 @@ G:   N: MEMORIES V: offer
 G:   N: THEY V: punish
 G: M N: HE V: relives
 G:   N: THAT V: makes
+
+Mentions:
+Male: 3
+Female: 0

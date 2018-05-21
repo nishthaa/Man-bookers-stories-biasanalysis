@@ -10,3 +10,7 @@ ROBYN - F
 G: M N: VIC V: meets
 G:   N: SPARKS V: fly
 G:   N: PARTIES V: make
+
+Mentions:
+Male: 2
+Female: 1

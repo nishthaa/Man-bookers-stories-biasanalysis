@@ -22,3 +22,7 @@ G: F N: KATHY V: recalls
 G: F N: SHE V: describes
 G: F N: SHE V: describes
 G:   N: ME V: go
+
+Mentions:
+Male: 1
+Female: 8

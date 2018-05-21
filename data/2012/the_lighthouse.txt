@@ -12,3 +12,7 @@ G: M N: HE V: forget
 G:   N: IT V: was
 G: M N: HE V: neglected
 G:   N: OMISSION V: threatens
+
+Mentions:
+Male: 5
+Female: 0

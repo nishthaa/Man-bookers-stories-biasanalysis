@@ -12,3 +12,7 @@ DORRIGO - M
 G:   N: STORY V: gallows
 G:   N: DAY V: builds
 G:   N: STORY V: unfolds
+
+Mentions:
+Male: 2
+Female: 0

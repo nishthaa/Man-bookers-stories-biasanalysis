@@ -12,3 +12,7 @@ G:   N: IT V: is
 G:   N: POETRY V: is
 G:   N: HOTEL V: is
 G:   N: THAT V: attempts
+
+Mentions:
+Male: 1
+Female: 0

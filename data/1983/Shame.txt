@@ -7,3 +7,7 @@ Characters:
 
 G:   N: SHAME V: is
 G:   N: THAT V: grows
+
+Mentions:
+Male: 0
+Female: 0

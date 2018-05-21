@@ -9,3 +9,7 @@ MARTIN - M
 
 G: M N: MARTIN V: plans
 G:   N: VISIT V: coincides
+
+Mentions:
+Male: 2
+Female: 0

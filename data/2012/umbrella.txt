@@ -20,3 +20,7 @@ G:   N: SOCIALIST V: fell
 G: F N: AUDREY V: fell
 G: F N: AUDREY V: is
 G: M N: BUSNER V: becomes
+
+Mentions:
+Male: 10
+Female: 3

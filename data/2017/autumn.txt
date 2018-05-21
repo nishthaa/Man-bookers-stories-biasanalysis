@@ -19,3 +19,7 @@ G:   N: HARVEST V: means
 G:   N: WE V: are
 G:   N: CENTURIES V: cast
 G:   N: SERIES V: comes
+
+Mentions:
+Male: 2
+Female: 3

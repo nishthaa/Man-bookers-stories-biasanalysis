@@ -11,3 +11,7 @@ G:   N: THAT V: exceed
 G: M N: KENEALLY V: recreates
 G:   N: THAT V: resulted
 G:   N: WHICH V: shape
+
+Mentions:
+Male: 2
+Female: 0

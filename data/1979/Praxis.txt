@@ -7,3 +7,7 @@ CHARACTERS:
 A woman - F
 
 G:   N: BOOK V: begins
+
+Mentions:
+Male: 0
+Female: 0

@@ -13,3 +13,7 @@ G:   N: WRITING V: done
 G: M N: HE V: becomes
 G:   N: RELATIONSHIP V: becomes
 G: M N: LUC V: disappears
+
+Mentions:
+Male: 6
+Female: 0

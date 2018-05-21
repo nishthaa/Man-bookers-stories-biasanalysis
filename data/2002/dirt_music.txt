@@ -30,3 +30,7 @@ G: M N: LUTHER V: escape
 G: M N: HE V: discovers
 G:   N: MUSIC V: resonates
 G:   N: IT V: confirms
+
+Mentions:
+Male: 9
+Female: 2

@@ -35,3 +35,7 @@ G:   N: YOU V: want
 G:   N: YOU V: eavesdrop
 G:   N: TIGER V: recalls
 G:   N: NOVEL V: is
+
+Mentions:
+Male: 8
+Female: 0

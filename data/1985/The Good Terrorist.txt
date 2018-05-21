@@ -11,3 +11,7 @@ G:   N: WHO V: transforms
 G:   N: WHO V: plan
 G: F N: ALICE V: struggles
 G:   N: COMPANIONS V: encounter
+
+Mentions:
+Male: 0
+Female: 2

@@ -13,3 +13,7 @@ G: F N: NAO V: decided
 G: F N: SHE V: ends
 G: F N: NAO V: plans
 G: F N: SHE V: imagine
+
+Mentions:
+Male: 0
+Female: 6

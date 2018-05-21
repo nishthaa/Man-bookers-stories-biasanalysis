@@ -10,3 +10,7 @@ G: M N: TOD V: dies
 G:   N: FRIENDLY V: dies
 G: M N: HE V: sends
 G:   N: REVERSALS V: make
+
+Mentions:
+Male: 3
+Female: 0

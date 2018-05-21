@@ -11,3 +11,7 @@ G:   N: SEX V: is
 G:   N: LIBERATIONISTS V: abuse
 G: F N: WIFE V: starts
 G: M N: JAKE V: begins
+
+Mentions:
+Male: 3
+Female: 1

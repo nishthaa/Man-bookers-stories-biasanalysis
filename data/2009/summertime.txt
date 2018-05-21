@@ -26,3 +26,7 @@ G:   N: POETRY V: evoke
 G:   N: SUMMERTIME V: shows
 G: M N: HE V: limbers
 G:   N: IT V: completes
+
+Mentions:
+Male: 9
+Female: 2

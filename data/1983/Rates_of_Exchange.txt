@@ -13,3 +13,7 @@ G: M N: HE V: sets
 G:   N: IT V: ’s
 G: M N: HE V: is
 G: M N: PETWORTH V: makes
+
+Mentions:
+Male: 7
+Female: 0

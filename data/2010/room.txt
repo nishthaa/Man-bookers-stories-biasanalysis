@@ -58,3 +58,7 @@ G:   N: THAT V: ’s
 G:   N: THAT V: is
 G:   N: LIFE V: requires
 G:   N: TWO V: have
+
+Mentions:
+Male: 23
+Female: 9

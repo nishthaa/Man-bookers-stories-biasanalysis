@@ -13,3 +13,7 @@ G: M N: GEORGE V: living
 G:   N: WHO V: is
 G:   N: FATES V: become
 G: M N: BARNES V: explores
+
+Mentions:
+Male: 5
+Female: 0

@@ -7,3 +7,7 @@ Characters:
 AROON - F
 
 G:   N: CODES V: hope
+
+Mentions:
+Male: 0
+Female: 1

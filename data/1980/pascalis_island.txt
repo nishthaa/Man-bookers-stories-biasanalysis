@@ -14,3 +14,7 @@ G: M N: HE V: fears
 G:   N: VILLAGERS V: found
 G: M N: ENGLISHMAN V: arrives
 G:   N: CUNNING V: come
+
+Mentions:
+Male: 6
+Female: 0

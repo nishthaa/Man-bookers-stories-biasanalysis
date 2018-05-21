@@ -11,3 +11,7 @@ G:   N: YOU V: fit
 G: M N: PITMAN V: takes
 G:   N: TOURISTS V: are
 G: M N: HE V: constructs
+
+Mentions:
+Male: 4
+Female: 0

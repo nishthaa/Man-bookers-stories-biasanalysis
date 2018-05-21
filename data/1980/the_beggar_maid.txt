@@ -12,3 +12,7 @@ G:   N: ONE V: is
 G:   N: OTHER V: is
 G:   N: WHO V: leaves
 G: F N: SHE V: grew
+
+Mentions:
+Male: 0
+Female: 3

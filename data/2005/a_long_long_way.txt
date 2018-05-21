@@ -19,3 +19,7 @@ G: M N: HE V: finds
 G: M N: HE V: knows
 G: M N: HE V: rejoin
 G: M N: BARRY V: renders
+
+Mentions:
+Male: 11
+Female: 0

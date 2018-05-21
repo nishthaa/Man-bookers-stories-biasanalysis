@@ -13,3 +13,7 @@ G:   N: OBJECT V: is
 G:   N: THAT V: exist
 G:   N: ONE V: recognizes
 G:   N: IT V: be
+
+Mentions:
+Male: 0
+Female: 0

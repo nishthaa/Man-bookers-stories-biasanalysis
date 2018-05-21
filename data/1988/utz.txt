@@ -19,3 +19,7 @@ G: M N: HE V: leave
 G:   N: UTZ V: is
 G:   N: UTZ V: is
 G:   N: STORY V: is
+
+Mentions:
+Male: 8
+Female: 0

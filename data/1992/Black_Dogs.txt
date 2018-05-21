@@ -16,3 +16,7 @@ G: M N: JEREMY V: undertakes
 G:   N: THAT V: was
 G: M N: MCEWAN V: weaves
 G:   N: BOTH V: create
+
+Mentions:
+Male: 7
+Female: 1

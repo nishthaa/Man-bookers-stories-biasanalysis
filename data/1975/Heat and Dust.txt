@@ -12,3 +12,7 @@ G:   N: HEAT V: tells
 G: F N: SHE V: becomes
 G:   N: REACTION V: humiliates
 G:   N: THAT V: lives
+
+Mentions:
+Male: 1
+Female: 2

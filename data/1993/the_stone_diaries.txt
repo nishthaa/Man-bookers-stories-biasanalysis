@@ -20,3 +20,7 @@ N: SHE V: discovers
 N: STRUGGLE V: is
 N: SHIELDS V: made
 N: SHE V: weaves
+
+Mentions:
+Male: 0
+Female: 2

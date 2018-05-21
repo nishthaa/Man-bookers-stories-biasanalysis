@@ -23,3 +23,7 @@ G:   N: ABORIGINAL V: recounts
 G:   N: THAT V: begins
 G:   N: CHARACTERS V: come
 G:   N: THAT V: bring
+
+Mentions:
+Male: 8
+Female: 0

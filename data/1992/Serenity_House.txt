@@ -8,3 +8,7 @@ MAX - M
 ALBERT - M
 
 G: M N: SON V: has
+
+Mentions:
+Male: 3
+Female: 0

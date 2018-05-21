@@ -23,3 +23,7 @@ G: M N: YUSUF V: begins
 G: M N: HE V: adjust
 G:   N: RESULT V: is
 G:   N: THAT V: covers
+
+Mentions:
+Male: 10
+Female: 0

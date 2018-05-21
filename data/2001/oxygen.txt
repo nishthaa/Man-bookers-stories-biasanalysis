@@ -9,3 +9,7 @@ LASZLO - M
 
 G:   N: STORY V: revolves
 G: F N: MOTHER V: see
+
+Mentions:
+Male: 1
+Female: 2

@@ -14,3 +14,7 @@ G: M N: HE V: becomes
 G:   N: DETERIORATION V: is
 G: F N: BELLA V: reach
 G:   N: THEY V: crave
+
+Mentions:
+Male: 4
+Female: 2

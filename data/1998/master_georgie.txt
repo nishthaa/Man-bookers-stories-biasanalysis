@@ -13,3 +13,7 @@ POMPEY - M
 
 G: M N: GEORGE V: offer
 G:   N: ALL V: driven
+
+Mentions:
+Male: 5
+Female: 1

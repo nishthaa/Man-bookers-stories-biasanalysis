@@ -21,3 +21,7 @@ G: M N: HE V: was
 G: M N: SID V: discovers
 G: M N: HE V: thought
 G: M N: CHIP V: shares
+
+Mentions:
+Male: 11
+Female: 0

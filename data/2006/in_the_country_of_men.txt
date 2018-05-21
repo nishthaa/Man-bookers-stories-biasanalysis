@@ -20,3 +20,7 @@ G: F N: MOTHER V: burns
 G:   N: STRANGER V: sits
 G: M N: FATHER V: disappear
 G:   N: IT V: is
+
+Mentions:
+Male: 7
+Female: 1

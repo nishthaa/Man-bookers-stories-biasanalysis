@@ -13,3 +13,7 @@ G:   N: IT V: means
 G:   N: HOME V: represents
 G:   N: WILDNESS V: are
 G:   N: IT V: wears
+
+Mentions:
+Male: 0
+Female: 1

@@ -12,3 +12,7 @@ G:   N: THEY V: cling
 G:   N: BOAT V: dominates
 G:   N: IT V: is
 G:   N: IT V: deepens
+
+Mentions:
+Male: 0
+Female: 1

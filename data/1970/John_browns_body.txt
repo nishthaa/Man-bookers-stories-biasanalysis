@@ -14,3 +14,7 @@ G:   N: SHILLING V: lives
 G: M N: HUSBAND V: mentions
 G: M N: HE V: recognizes
 G: F N: MARISE V: encourages
+
+Mentions:
+Male: 4
+Female: 3

@@ -15,3 +15,7 @@ G:   N: HOPE V: is
 G:   N: ANTHILLS V: is
 G:   N: IT V: continues
 G:   N: ACHEBE V: began
+
+Mentions:
+Male: 3
+Female: 1

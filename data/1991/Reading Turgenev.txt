@@ -8,3 +8,7 @@ MARY - F
 
 G: F N: MARY V: is
 G:   N: MARRIAGE V: leads
+
+Mentions:
+Male: 0
+Female: 2

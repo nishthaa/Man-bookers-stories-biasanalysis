@@ -22,3 +22,7 @@ G: F N: SHE V: gropes
 G: F N: SHE V: terms
 G:   N: LIFT V: comes
 G:   N: FLASH V: comes
+
+Mentions:
+Male: 0
+Female: 9

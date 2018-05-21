@@ -20,3 +20,7 @@ G: M N: NARIMAN V: turn
 G:   N: WHO V: share
 G:   N: DECISION V: test
 G:   N: MATTERS V: is
+
+Mentions:
+Male: 6
+Female: 2

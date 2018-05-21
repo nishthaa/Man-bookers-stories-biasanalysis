@@ -13,3 +13,7 @@ G: F N: MOLLY V: had
 G: M N: CLIVE V: meet
 G:   N: THEY V: make
 G:   N: THAT V: have
+
+Mentions:
+Male: 4
+Female: 2

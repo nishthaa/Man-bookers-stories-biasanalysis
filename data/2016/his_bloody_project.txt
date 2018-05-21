@@ -22,3 +22,7 @@ G:   N: THAT V: shocked
 G:   N: THEY V: reveal
 G: M N: MAN V: commit
 G: M N: HE V: hang
+
+Mentions:
+Male: 6
+Female: 0

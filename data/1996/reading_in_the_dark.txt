@@ -24,3 +24,7 @@ G: F N: SISTER V: walking
 G:   N: SOMEONE V: sobbing
 G: M N: DEANE V: created
 G:   N: FEAR V: turns
+
+Mentions:
+Male: 6
+Female: 1

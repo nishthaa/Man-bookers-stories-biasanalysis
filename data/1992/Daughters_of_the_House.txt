@@ -11,3 +11,7 @@ G: F N: THÉRÈSE V: grow
 G:   N: THEY V: find
 G: F N: GIRLS V: weave
 G:   N: THAT V: haunt
+
+Mentions:
+Male: 0
+Female: 4

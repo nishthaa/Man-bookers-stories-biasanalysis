@@ -23,3 +23,7 @@ G:   N: YOU V: see
 G: F N: JOHN V: captures
 G: F N: WOMEN V: do
 G: M N: MEN V: do
+
+Mentions:
+Male: 5
+Female: 7

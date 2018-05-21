@@ -13,3 +13,7 @@ G: M N: HE V: is
 G:   N: THAT V: fascinates
 G:   N: IDENTITY V: is
 G: M N: HE V: brings
+
+Mentions:
+Male: 5
+Female: 0

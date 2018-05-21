@@ -11,3 +11,7 @@ RICHARD - M
 G:   N: LIFE V: is
 G: M N: PROTAGONIST V: explores
 G: M N: HE V: survives
+
+Mentions:
+Male: 5
+Female: 0

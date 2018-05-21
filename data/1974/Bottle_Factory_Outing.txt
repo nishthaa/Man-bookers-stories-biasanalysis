@@ -10,3 +10,7 @@ BRENDA - F
 G: F N: FREDA V: spend
 G:   N: OUTING V: offers
 G:   N: OFFERS V: returns
+
+Mentions:
+Male: 0
+Female: 3

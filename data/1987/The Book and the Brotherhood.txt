@@ -28,3 +28,7 @@ G:   N: SOMEONE V: die
 G:   N: SOMEONE V: dies
 G: F N: ROSE V: deserves
 G:   N: WHO V: gone
+
+Mentions:
+Male: 6
+Female: 2

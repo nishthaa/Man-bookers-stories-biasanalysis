@@ -8,3 +8,7 @@ PATAKI - M
 GYURI - M
 
 G: M N: HEROES V: travel
+
+Mentions:
+Male: 3
+Female: 0

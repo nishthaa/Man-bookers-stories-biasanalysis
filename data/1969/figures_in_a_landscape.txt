@@ -10,3 +10,7 @@ G:   N: SOLDIERS V: escaped
 G:   N: RESOURCE V: being
 G:   N: SAFETY V: is
 G:   N: WHICH V: hovers
+
+Mentions:
+Male: 0
+Female: 0

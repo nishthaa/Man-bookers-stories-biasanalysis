@@ -17,3 +17,7 @@ G: F N: SHE V: was
 G:   N: LOVE V: follow
 G: F N: NELLIE V: knew
 G:   N: BOY V: have
+
+Mentions:
+Male: 0
+Female: 7

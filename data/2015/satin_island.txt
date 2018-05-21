@@ -23,3 +23,7 @@ G: M N: MCCARTHY V: captures
 G: M N: HE V: can
 G: M N: WE V: experience
 G: M N: WE V: think
+
+Mentions:
+Male: 12
+Female: 2

@@ -40,3 +40,7 @@ G:   N: THIS V: is
 G:   N: THEY V: care
 G:   N: I V: tell
 G:   N: THEM V: read
+
+Mentions:
+Male: 5
+Female: 5

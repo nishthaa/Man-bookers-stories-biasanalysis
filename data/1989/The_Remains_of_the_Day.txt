@@ -9,3 +9,7 @@ STEVENS - M
 G: M N: STEVENS V: decides
 G:   N: EXCURSION V: becomes
 G:   N: THAT V: takes
+
+Mentions:
+Male: 2
+Female: 0

@@ -12,3 +12,7 @@ G:   N: EVENTS V: were
 G:   N: THEY V: seemed
 G: M N: DAVIES V: created
 G:   N: IT V: is
+
+Mentions:
+Male: 3
+Female: 0

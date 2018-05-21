@@ -15,3 +15,7 @@ G:   N: SPECTER V: breathes
 G:   N: MURDER V: come
 G:   N: IT V: awakes
 G:   N: KEEPERS V: startles
+
+Mentions:
+Male: 6
+Female: 0

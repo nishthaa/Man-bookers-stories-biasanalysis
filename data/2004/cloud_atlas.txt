@@ -29,3 +29,7 @@ G:   N: FATES V: intertwine
 G:   N: SOULS V: drift
 G:   N: ATLAS V: is
 G:   N: THAT V: transcended
+
+Mentions:
+Male: 6
+Female: 1

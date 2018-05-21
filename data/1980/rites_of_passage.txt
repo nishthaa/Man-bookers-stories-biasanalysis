@@ -9,3 +9,7 @@ MAN - M
 G: M N: MAN V: writes
 G: M N: HE V: records
 G: M N: CLERGYMAN V: attracts
+
+Mentions:
+Male: 4
+Female: 0

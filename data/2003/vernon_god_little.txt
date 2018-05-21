@@ -18,3 +18,7 @@ G:   N: MEDIA V: lead
 G: M N: HE V: flees
 G: M N: VERNON V: conceives
 G:   N: THAT V: calls
+
+Mentions:
+Male: 7
+Female: 0

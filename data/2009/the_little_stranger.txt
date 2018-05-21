@@ -28,3 +28,7 @@ G:   N: BEHAVIOR V: have
 G: F N: BETTY V: believes
 G: F N: CAROLINE V: is
 G:   N: HOUSE V: begins
+
+Mentions:
+Male: 8
+Female: 5

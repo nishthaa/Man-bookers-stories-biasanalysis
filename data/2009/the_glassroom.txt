@@ -21,3 +21,7 @@ G:   N: WHO V: know
 G:   N: IT V: becomes
 G:   N: BROKEN V: find
 G:   N: STORY V: began
+
+Mentions:
+Male: 1
+Female: 3

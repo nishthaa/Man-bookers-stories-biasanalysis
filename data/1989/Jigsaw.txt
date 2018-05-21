@@ -12,3 +12,7 @@ G:   N: NOVEL V: walks
 G:   N: IT V: picks
 G:   N: LEGACY V: leaves
 G:   N: NARRATOR V: tells
+
+Mentions:
+Male: 1
+Female: 2

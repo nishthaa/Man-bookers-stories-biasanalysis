@@ -10,3 +10,7 @@ HARVEY - M
 G: M N: FRANCIS V: was
 G:   N: WORLD V: was
 G: M N: HARVEY V: watched
+
+Mentions:
+Male: 4
+Female: 0

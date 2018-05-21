@@ -11,3 +11,7 @@ DECLAN - M
 
 G:   N: LIGHTSHIP V: tells
 G: F N: THEY V: arrive
+
+Mentions:
+Male: 1
+Female: 4

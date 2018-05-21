@@ -18,3 +18,7 @@ G: F N: MOTHER V: spun
 G:   N: ENGLISH V: is
 G:   N: THAT V: try
 G: M N: HE V: falls
+
+Mentions:
+Male: 7
+Female: 1

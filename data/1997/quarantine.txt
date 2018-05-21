@@ -12,3 +12,7 @@ G:   N: WHO V: holds
 G:   N: WHO V: has
 G:   N: THEY V: say
 G:   N: BATTLE V: begins
+
+Mentions:
+Male: 1
+Female: 0

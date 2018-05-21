@@ -12,3 +12,7 @@ G: M N: MOODY V: come
 G: M N: HE V: stumbles
 G:   N: WHO V: met
 G: M N: MAN V: vanished
+
+Mentions:
+Male: 5
+Female: 0

@@ -10,3 +10,7 @@ ABBOT - M
 G:   N: NOVEL V: opens
 G: M N: HE V: is
 G: M N: VANE V: looks
+
+Mentions:
+Male: 4
+Female: 0

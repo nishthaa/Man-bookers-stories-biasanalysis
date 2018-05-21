@@ -21,3 +21,7 @@ G: M N: CROMWELL V: broken
 G: M N: HE V: picks
 G: M N: MAN V: is
 G: M N: HE V: is
+
+Mentions:
+Male: 9
+Female: 1

@@ -15,3 +15,7 @@ G: M N: HE V: was
 G: F N: MARY V: struggles
 G: F N: SHE V: knows
 G: F N: SHE V: emerges
+
+Mentions:
+Male: 1
+Female: 5

@@ -11,3 +11,7 @@ VALENTINE - F
 G:   N: KINGDOM V: is
 G: F N: IRENE V: lives
 G:   N: PEACE V: is
+
+Mentions:
+Male: 1
+Female: 3

@@ -7,3 +7,7 @@ Characters:
 
 G:   N: LIFE V: altered
 G:   N: STORY V: represents
+
+Mentions:
+Male: 0
+Female: 0

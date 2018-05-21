@@ -6,3 +6,7 @@ The author of the acclaimed Sour Sweet presents a sweeping historical novel abou
 Characters:
 
 G:   N: AUTHOR V: presents
+
+Mentions:
+Male: 0
+Female: 0

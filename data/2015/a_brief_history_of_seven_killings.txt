@@ -19,3 +19,7 @@ G: M N: HE V: left
 G:   N: HISTORY V: is
 G:   N: NOVEL V: is
 G:   N: THAT V: secure
+
+Mentions:
+Male: 7
+Female: 0

@@ -22,3 +22,7 @@ G:   N: ALL V: is
 G:   N: NARRATOR V: sets
 G: M N: HE V: initiates
 G:   N: WHICH V: lands
+
+Mentions:
+Male: 4
+Female: 0

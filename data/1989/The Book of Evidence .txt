@@ -9,3 +9,7 @@ MAN - M
 G:   N: THAT V: is
 G: M N: MAN V: commits
 G: M N: HE V: confesses
+
+Mentions:
+Male: 3
+Female: 0

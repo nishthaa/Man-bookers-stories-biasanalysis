@@ -15,3 +15,7 @@ G:   N: THEY V: emigrate
 G:   N: THEY V: find
 G:   N: WE V: see
 G:   N: MEMORY V: weaves
+
+Mentions:
+Male: 2
+Female: 3

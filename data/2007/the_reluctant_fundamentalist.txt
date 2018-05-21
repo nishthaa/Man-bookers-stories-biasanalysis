@@ -18,3 +18,7 @@ G:   N: ROMANCE V: promises
 G: M N: CHANGEZ V: finds
 G:   N: POSITION V: overturned
 G:   N: IDENTITY V: is
+
+Mentions:
+Male: 5
+Female: 1
